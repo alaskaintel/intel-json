@@ -1,5 +1,74 @@
 [
   {
+    "hash": "b204a46df9e34b0361869d76e2f2177a",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 2.0 - 39 km WSW of Anchor Point, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rszhhl",
+    "published": "",
+    "summary": "Time 2026-09-07 13:54:43 UTC 2026-09-07 13:54:43 UTC at epicenter Location 59.631\u00b0N 152.479\u00b0W Depth 74.20 km (46.11 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T13:54:43+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
+      "cf035c19fdefc865a7c04d63ba572540",
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "b6c62cfae427e40848ba4de9923373f0",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 2.3 - 31 km SW of Petersville, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsyuhl",
+    "published": "",
+    "summary": "Time 2026-09-07 13:39:44 UTC 2026-09-07 13:39:44 UTC at epicenter Location 62.281\u00b0N 151.153\u00b0W Depth 81.20 km (50.46 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T13:39:44+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
+      "cf035c19fdefc865a7c04d63ba572540",
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "643f80aa509c919e39813ec0476f7c5e",
+    "source": "Alaska Business Magazine",
+    "category": "Business",
+    "title": "A Bridge, a Bypass, and a New Chapter for Cooper Landing",
+    "link": "https://www.akbizmag.com/industry/construction/cooperbypass/",
+    "published": "Mon, 07 Sep 2026 13:30:53 +0000",
+    "summary": "HOME | A Bridge, a Bypass, and a New Chapter for Cooper Landing Over the course of eight days in June, four hydraulic rams pushed the bridge across Juneau Creek canyon. The 928-foot steel girder bridge was fabricated and assembled in Arizona, then taken apart, shipped to Alaska, and reassembled in 2...",
+    "dataTag": "[Region: Southcentral] [Category: Business]",
+    "sourceAttribution": "Source: Alaska Business Magazine",
+    "imageUrl": "https://www.akbizmag.com/wp-content/uploads/2026/08/Juneau-Creek-Bridge-1-copy.webp",
+    "timestamp": "2026-09-07T13:30:53+00:00",
+    "impactScore": 30,
+    "region": "Southeast",
+    "sector": "economy",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": []
+  },
+  {
     "hash": "6cd249055156e0038a3795db0a4c9fb6",
     "source": "KTOO Juneau",
     "category": "News",
@@ -123,6 +192,25 @@
       "9914ab083abed15771a2210200817d4c",
       "c73c3917c4bcebaa4ab01f8aca95b625"
     ]
+  },
+  {
+    "hash": "ecec6f5d1f908de02d134232aa3c3d38",
+    "source": "Mining.com Alaska",
+    "category": "Mining",
+    "title": "Brazil targets bigger role in critical minerals rush",
+    "link": "https://www.mining.com/brazil-targets-bigger-role-in-critical-minerals-rush/",
+    "published": "Mon, 07 Sep 2026 11:00:00 +0000",
+    "summary": "Brazil is courting the foreign capital needed to develop its vast critical mineral resources while pushing to keep more processing and industrial value at home \u2014 and moving to give the government new powers to scrutinize who controls strategic mineral assets. The tension sharpened last week after Br...",
+    "dataTag": "[Region: Statewide] [Category: Mining]",
+    "sourceAttribution": "Source: Mining.com Alaska",
+    "imageUrl": "https://www.mining.com/wp-content/uploads/2026/09/latam_brazil_MDC.png",
+    "timestamp": "2026-09-07T11:00:00+00:00",
+    "impactScore": 55,
+    "region": "Statewide",
+    "sector": "energy",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": []
   },
   {
     "hash": "a6ddc33dd680eb10b99b0d5df9be1639",
@@ -983,11 +1071,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "a226cbb9be82708e7c9b819d0fb12e91",
       "256eaf7a98dafaf3571da6c03ef84238",
       "d8f79d6f916271bc4af929a260f1e731",
-      "d1b810fcf431699c0162ec039bcac8fe",
-      "6bab8d139971de2ebc3bab6286c91280"
+      "d1b810fcf431699c0162ec039bcac8fe"
     ]
   },
   {
@@ -1379,11 +1467,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "7f949b63bf28a41b75cbdb2ccc469421",
       "256eaf7a98dafaf3571da6c03ef84238",
       "d8f79d6f916271bc4af929a260f1e731",
-      "d1b810fcf431699c0162ec039bcac8fe",
-      "6bab8d139971de2ebc3bab6286c91280"
+      "d1b810fcf431699c0162ec039bcac8fe"
     ]
   },
   {
@@ -1562,7 +1650,7 @@
     "title": "Eagles are back-to-back NFC East champs, but Super Bowl wins are the standard now",
     "link": "https://www.adn.com/sports/national-sports/2026/09/07/eagles-are-back-to-back-nfc-east-champs-but-super-bowl-wins-are-the-standard-now/",
     "published": "Sun, 06 Sep 2026 18:53:00 +0000",
-    "summary": "The Philadelphia Eagles are the first in a generation with back-to-back titles in the NFC East, a division that didn\u2019t have another team with a winning record last season. The New York Giants, with just two playoff appearances since the franchise\u2019s fourth Super Bowl championship 15 years ago, hired...",
+    "summary": "The Philadelphia Eagles are the first in a generation with back-to-back titles in the NFC East, a division that didn\u2019t have another team with a winning record last season. The New York Giants, with just two playoff appearances since the franchise\u2019s fourth Super Bowl championship 15 years ago, hired....",
     "dataTag": "[Region: Statewide] [Category: News]",
     "sourceAttribution": "Source: Anchorage Daily News",
     "imageUrl": "https://www.adn.com/resizer/Sc-nfBAJ97qinZZFZ3d-5bp5j_g=/cloudfront-us-east-1.images.arcpublishing.com/adn/AKWMZZK5KFJKRU2WHYYARKPHDI.jpg",
@@ -2771,11 +2859,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "7f949b63bf28a41b75cbdb2ccc469421",
       "a226cbb9be82708e7c9b819d0fb12e91",
       "d8f79d6f916271bc4af929a260f1e731",
-      "d1b810fcf431699c0162ec039bcac8fe",
-      "6bab8d139971de2ebc3bab6286c91280"
+      "d1b810fcf431699c0162ec039bcac8fe"
     ]
   },
   {
@@ -2821,11 +2909,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "7f949b63bf28a41b75cbdb2ccc469421",
       "a226cbb9be82708e7c9b819d0fb12e91",
       "256eaf7a98dafaf3571da6c03ef84238",
-      "d1b810fcf431699c0162ec039bcac8fe",
-      "6bab8d139971de2ebc3bab6286c91280"
+      "d1b810fcf431699c0162ec039bcac8fe"
     ]
   },
   {
@@ -3446,11 +3534,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "7f949b63bf28a41b75cbdb2ccc469421",
       "a226cbb9be82708e7c9b819d0fb12e91",
       "256eaf7a98dafaf3571da6c03ef84238",
-      "d8f79d6f916271bc4af929a260f1e731",
-      "6bab8d139971de2ebc3bab6286c91280"
+      "d8f79d6f916271bc4af929a260f1e731"
     ]
   },
   {
@@ -4173,11 +4261,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "7f949b63bf28a41b75cbdb2ccc469421",
       "a226cbb9be82708e7c9b819d0fb12e91",
       "256eaf7a98dafaf3571da6c03ef84238",
-      "d8f79d6f916271bc4af929a260f1e731",
-      "d1b810fcf431699c0162ec039bcac8fe"
+      "d8f79d6f916271bc4af929a260f1e731"
     ]
   },
   {
@@ -4500,11 +4588,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "7f949b63bf28a41b75cbdb2ccc469421",
       "a226cbb9be82708e7c9b819d0fb12e91",
       "256eaf7a98dafaf3571da6c03ef84238",
-      "d8f79d6f916271bc4af929a260f1e731",
-      "d1b810fcf431699c0162ec039bcac8fe"
+      "d8f79d6f916271bc4af929a260f1e731"
     ]
   },
   {
@@ -4525,11 +4613,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "6cd249055156e0038a3795db0a4c9fb6",
       "7f949b63bf28a41b75cbdb2ccc469421",
       "a226cbb9be82708e7c9b819d0fb12e91",
       "256eaf7a98dafaf3571da6c03ef84238",
-      "d8f79d6f916271bc4af929a260f1e731",
-      "d1b810fcf431699c0162ec039bcac8fe"
+      "d8f79d6f916271bc4af929a260f1e731"
     ]
   },
   {
@@ -7479,7 +7567,7 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780"
+      "f4c666f9e7a14f2ac384064d9dbff414"
     ]
   },
   {
@@ -7504,7 +7592,7 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780"
+      "f4c666f9e7a14f2ac384064d9dbff414"
     ]
   },
   {
@@ -7529,7 +7617,7 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780"
+      "f4c666f9e7a14f2ac384064d9dbff414"
     ]
   },
   {
@@ -7554,7 +7642,7 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780"
+      "f4c666f9e7a14f2ac384064d9dbff414"
     ]
   },
   {
@@ -7578,8 +7666,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7603,8 +7691,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7678,8 +7766,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7728,8 +7816,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7753,8 +7841,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7778,8 +7866,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7803,8 +7891,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7853,8 +7941,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7878,8 +7966,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7928,8 +8016,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -7953,8 +8041,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8001,8 +8089,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8026,8 +8114,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8051,8 +8139,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8149,8 +8237,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8174,8 +8262,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8224,8 +8312,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8349,8 +8437,8 @@
       "be6cf42708a29a54eda5c2c93058b9b8",
       "3b1a9990b322340874debba30c2ebaab",
       "5f668cd9ddbc3a746b31fedc141242a0",
-      "5e087d2384f9e0971acf5f6557cd2780",
-      "489b1be3d38c66390339d19956968255"
+      "f4c666f9e7a14f2ac384064d9dbff414",
+      "5e087d2384f9e0971acf5f6557cd2780"
     ]
   },
   {
@@ -8418,11 +8506,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f4c666f9e7a14f2ac384064d9dbff414",
       "5e087d2384f9e0971acf5f6557cd2780",
       "489b1be3d38c66390339d19956968255",
-      "e3535cb52eb2a2491ea95f8d62e51b0c",
-      "373e39e79382959c65f58f87b32c1725",
-      "1d8efae6ab66336c2b568cf50562e76c"
+      "e780eb2263d6b9c6c6bac5eda6aeb0cd",
+      "56bfaf51c1d2c3a6bd718d1e48bc2104"
     ]
   },
   {
@@ -8491,10 +8579,10 @@
     "entitySlugs": [],
     "relatedSignalIds": [
       "489b1be3d38c66390339d19956968255",
+      "e780eb2263d6b9c6c6bac5eda6aeb0cd",
+      "56bfaf51c1d2c3a6bd718d1e48bc2104",
       "e3535cb52eb2a2491ea95f8d62e51b0c",
-      "373e39e79382959c65f58f87b32c1725",
-      "1d8efae6ab66336c2b568cf50562e76c",
-      "bb0f667307a36f83aa0358b8a98a62a6"
+      "373e39e79382959c65f58f87b32c1725"
     ]
   },
   {
@@ -8566,10 +8654,10 @@
     "entitySlugs": [],
     "relatedSignalIds": [
       "489b1be3d38c66390339d19956968255",
+      "e780eb2263d6b9c6c6bac5eda6aeb0cd",
+      "56bfaf51c1d2c3a6bd718d1e48bc2104",
       "e3535cb52eb2a2491ea95f8d62e51b0c",
-      "373e39e79382959c65f58f87b32c1725",
-      "1d8efae6ab66336c2b568cf50562e76c",
-      "bb0f667307a36f83aa0358b8a98a62a6"
+      "373e39e79382959c65f58f87b32c1725"
     ]
   },
   {
@@ -8636,11 +8724,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "e780eb2263d6b9c6c6bac5eda6aeb0cd",
+      "56bfaf51c1d2c3a6bd718d1e48bc2104",
       "e3535cb52eb2a2491ea95f8d62e51b0c",
       "373e39e79382959c65f58f87b32c1725",
-      "1d8efae6ab66336c2b568cf50562e76c",
-      "bb0f667307a36f83aa0358b8a98a62a6",
-      "a7ac02298181908946134322a546f69f"
+      "1d8efae6ab66336c2b568cf50562e76c"
     ]
   },
   {
@@ -8833,11 +8921,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "56bfaf51c1d2c3a6bd718d1e48bc2104",
       "e3535cb52eb2a2491ea95f8d62e51b0c",
       "373e39e79382959c65f58f87b32c1725",
       "1d8efae6ab66336c2b568cf50562e76c",
-      "bb0f667307a36f83aa0358b8a98a62a6",
-      "a7ac02298181908946134322a546f69f"
+      "bb0f667307a36f83aa0358b8a98a62a6"
     ]
   },
   {
@@ -8958,11 +9046,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "56bfaf51c1d2c3a6bd718d1e48bc2104",
       "e3535cb52eb2a2491ea95f8d62e51b0c",
       "373e39e79382959c65f58f87b32c1725",
       "1d8efae6ab66336c2b568cf50562e76c",
-      "bb0f667307a36f83aa0358b8a98a62a6",
-      "a7ac02298181908946134322a546f69f"
+      "bb0f667307a36f83aa0358b8a98a62a6"
     ]
   },
   {
@@ -9010,11 +9098,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "56bfaf51c1d2c3a6bd718d1e48bc2104",
       "e3535cb52eb2a2491ea95f8d62e51b0c",
       "373e39e79382959c65f58f87b32c1725",
       "1d8efae6ab66336c2b568cf50562e76c",
-      "bb0f667307a36f83aa0358b8a98a62a6",
-      "a7ac02298181908946134322a546f69f"
+      "bb0f667307a36f83aa0358b8a98a62a6"
     ]
   },
   {
@@ -9060,11 +9148,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "56bfaf51c1d2c3a6bd718d1e48bc2104",
       "e3535cb52eb2a2491ea95f8d62e51b0c",
       "373e39e79382959c65f58f87b32c1725",
       "1d8efae6ab66336c2b568cf50562e76c",
-      "bb0f667307a36f83aa0358b8a98a62a6",
-      "a7ac02298181908946134322a546f69f"
+      "bb0f667307a36f83aa0358b8a98a62a6"
     ]
   },
   {
@@ -37575,450 +37663,6 @@
       "99b78648d817fb4729bbb6235fe7672f",
       "ea5bc9ded807563251f7462e89ff6763",
       "10ee93766f58a6507cd84208696f007d"
-    ]
-  },
-  {
-    "hash": "a5ef7cf3fc1b717e62c8ca2fc7e63058",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "This rare wild cow is making a comeback",
-    "link": "https://news.mongabay.com/short-article/2026/08/this-rare-wild-cow-is-making-a-comeback/",
-    "published": "31 Aug 2026 14:17:41 +0000",
-    "summary": "Thailand\u2019s banteng (Bos javanicus) population has declined dramatically across much of its range. But inside Huai Kha Khaeng Wildlife Sanctuary, this rare wild cattle species is making a comeback. Anti-poaching efforts and community-led ecotourism have allowed banteng to return to the forests, benef...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31141516/Mongabay_Thumbnail_ThaiCow.jpg",
-    "timestamp": "2026-08-31T14:17:41+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c8dd72b328c5991533463b3e57f149e2",
-      "6449fedacbb5e95276dbeb9cee77538b",
-      "99b78648d817fb4729bbb6235fe7672f",
-      "ea5bc9ded807563251f7462e89ff6763",
-      "10ee93766f58a6507cd84208696f007d"
-    ]
-  },
-  {
-    "hash": "2c981c0e358069726b17661e273141e4",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 2.3 - 12 km WNW of Point MacKenzie, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rgbuxg",
-    "published": "",
-    "summary": "Time 2026-08-31 14:15:02 UTC 2026-08-31 14:15:02 UTC at epicenter Location 61.395\u00b0N 150.206\u00b0W Depth 0.10 km (0.06 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T14:15:02+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "b1dfb683e341381087092f70a1403afb",
-      "dc6af95b70af207f4499ab0600cc39bc",
-      "a974b381a1dc79afe576881abf0c9832",
-      "ec65bb30d5bae3af7808b377dcaf228d",
-      "1609b323eb94b2b3deb8303f6fb24da0"
-    ]
-  },
-  {
-    "hash": "91c9aed2dbf54920c975066b33afac26",
-    "source": "Alaska Native News",
-    "category": "Native",
-    "title": "Acupressurist-Alutiiq Word of the Week",
-    "link": "https://alaska-native-news.com/acupressurist-alutiiq-word-of-the-week85923-2/85923/",
-    "published": "Mon, 31 Aug 2026 14:05:17 +0000",
-    "summary": "Acupressurist \u2014 Caugnga\u2019istaq Una arnaq caugnga\u2019istaq. \u2013 This woman is an acupressurist. Although many people think of acupressure as an Asian science, healers in societies around the world use their hands to restore health to the sick by applying gentle, carefully directed pressure. This pressure p...",
-    "dataTag": "[Region: Statewide] [Category: Native]",
-    "sourceAttribution": "Source: Alaska Native News",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T14:05:17+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "1ccd5aaaee8886502f650a2baa1954f8",
-      "3f3b02b40932efb8d07a8df85b603135",
-      "bbb9ec7c3f98b536998a337a6227cc94",
-      "e40801c5b7e555b6db0e17a29cd2a091",
-      "4dd589bde8af1b5394b1f1c74117508e"
-    ]
-  },
-  {
-    "hash": "a84bd348e9f3ecba7f6d8c89303685fe",
-    "source": "Alaska Native News",
-    "category": "Native",
-    "title": "Seeking the benefits of a parasite",
-    "link": "https://alaska-native-news.com/seeking-the-benefits-of-a-parasite/85936/",
-    "published": "Mon, 31 Aug 2026 14:04:49 +0000",
-    "summary": "This time of year, when berries fill my thoughts, the early summer blooms that begot them are hazy in my mind. As I pick, I try to remember that my belly and bucket are full thanks to these flowers and their pollinators. And to my surprise, as I learned this summer, perhaps a parasitic plant [\u2026]",
-    "dataTag": "[Region: Statewide] [Category: Native]",
-    "sourceAttribution": "Source: Alaska Native News",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T14:04:49+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "1ccd5aaaee8886502f650a2baa1954f8",
-      "3f3b02b40932efb8d07a8df85b603135",
-      "bbb9ec7c3f98b536998a337a6227cc94",
-      "e40801c5b7e555b6db0e17a29cd2a091",
-      "4dd589bde8af1b5394b1f1c74117508e"
-    ]
-  },
-  {
-    "hash": "81bdfa0c8a77543b53217a0e9200b77a",
-    "source": "Alaska Native News",
-    "category": "Native",
-    "title": "Extreme solar storms can hit Earth harder than thought",
-    "link": "https://alaska-native-news.com/extreme-solar-storms-can-hit-earth-harder-than-thought/85932/",
-    "published": "Mon, 31 Aug 2026 14:03:12 +0000",
-    "summary": "Scientists have greatly underestimated the impact an extreme solar storm can have on Earth, according to new research. A new way to account for uncertainty in solar wind measurements could help communication and power system operators better prepare for disruptions caused by major solar storms. Spac...",
-    "dataTag": "[Region: Statewide] [Category: Native]",
-    "sourceAttribution": "Source: Alaska Native News",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T14:03:12+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "1ccd5aaaee8886502f650a2baa1954f8",
-      "3f3b02b40932efb8d07a8df85b603135",
-      "bbb9ec7c3f98b536998a337a6227cc94",
-      "e40801c5b7e555b6db0e17a29cd2a091",
-      "4dd589bde8af1b5394b1f1c74117508e"
-    ]
-  },
-  {
-    "hash": "2a681818ba1188cf1cda721c23935a43",
-    "source": "Alaska Native News",
-    "category": "Native",
-    "title": "\u2018One Big Military Theft\u2019: Trump Announces Deal for US Control of Venezuelan Oil Fields",
-    "link": "https://alaska-native-news.com/one-big-military-theft-trump-announces-deal-for-us-control-of-venezuelan-oil-fields/85930/",
-    "published": "Mon, 31 Aug 2026 14:02:51 +0000",
-    "summary": "\u201cThis is proof Trump put our service members at risk to get Venezuelan oil for his billionaire buddies,\u201d one Democratic senator said. \u201cPutting our soldiers\u2019 lives on the line for private profit is a gross dereliction of his constitutional duty.\u201d President Donald Trump announced on Truth Social on Fr...",
-    "dataTag": "[Region: Statewide] [Category: Native]",
-    "sourceAttribution": "Source: Alaska Native News",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T14:02:51+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "1ccd5aaaee8886502f650a2baa1954f8",
-      "3f3b02b40932efb8d07a8df85b603135",
-      "bbb9ec7c3f98b536998a337a6227cc94",
-      "e40801c5b7e555b6db0e17a29cd2a091",
-      "4dd589bde8af1b5394b1f1c74117508e"
-    ]
-  },
-  {
-    "hash": "ef6338c39ae7aa1f4ffb219c9c27ff50",
-    "source": "Alaska Native News",
-    "category": "Native",
-    "title": "Coast Guard terminates commercial passenger vessel in Sitka",
-    "link": "https://alaska-native-news.com/coast-guard-terminates-commercial-passenger-vessel-in-sitka/85939/",
-    "published": "Mon, 31 Aug 2026 14:02:41 +0000",
-    "summary": "JUNEAU, Alaska \u2014 U.S. Coast Guard Sector Southeast Alaska personnel terminated the voyage of a commercial passenger vessel operating in Sitka, Aug. 20. Law enforcement officers from U.S. Coast Guard Cutter Pike (WPB 87365) boarded the foreign-built vessel and confirmed it was conducting passenger op...",
-    "dataTag": "[Region: Southeast] [Category: Native]",
-    "sourceAttribution": "Source: Alaska Native News",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T14:02:41+00:00",
-    "impactScore": 38,
-    "region": "Southeast",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": []
-  },
-  {
-    "hash": "77cf8ac77011ede70e0c3438f938dda7",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Dolly's legacy lives on",
-    "link": "https://www.newsminer.com/opinion/letters_to_editor/dollys-legacy-lives-on/article_9ba1c639-895f-439b-9a28-45d1f952f38d.html",
-    "published": "Mon, 31 Aug 2026 06:00:00 -0800",
-    "summary": "To the editor: The entire world has been grieving the death of beloved icon Dolly Parton. It seems difficult to imagine the world without her bright smile, easy laugh and infectious generosity.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T14:00:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "0c9249120692c34787b66ad259192beb",
-      "8e92bdd8b0eae72a10f00da80d34743f",
-      "466161896aeaa1f88398a967c7bbb551",
-      "d3374b232921a3be0e4bc1584a36b0ed",
-      "db533fd05c81277ed1cfab462ab16116"
-    ]
-  },
-  {
-    "hash": "95437565b707b6554028e703eb5f1f7a",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "A guided walk uncovers the colors, chemistry and resilience of Alaska lichens",
-    "link": "https://www.newsminer.com/news/local_news/a-guided-walk-uncovers-the-colors-chemistry-and-resilience-of-alaska-lichens/article_3a27f2f6-9096-41d2-a329-d132458b6090.html",
-    "published": "Mon, 31 Aug 2026 06:00:00 -0800",
-    "summary": "A guided lichen walk kicked off the fifth annual Fairbanks Fungi Festival.",
-    "dataTag": "[Region: Interior] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/d/82/d82a7f01-dab7-4643-ad21-919e065a4dbc/6a932ea41ef60.image.jpg?resize=300%2C225",
-    "timestamp": "2026-08-31T14:00:00+00:00",
-    "impactScore": 30,
-    "region": "Interior",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "197d7c9aa32063cca9c1a15a838e4e72",
-      "fbecf5f35919dcd70bfcb730923f9fcc",
-      "0a1a14e9bdda8742bd9a8ec96dc69cc1",
-      "aa14316bc1fa70221d51060976b250bf",
-      "ee1e71d8fdfd8e1f29825c287e354656"
-    ]
-  },
-  {
-    "hash": "a170c19a110734baf60f83ed76eff2ef",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Alaska agriculture emerges as national security topic",
-    "link": "https://www.newsminer.com/news/local_news/alaska-agriculture-emerges-as-national-security-topic/article_32c96c12-9c27-45ca-ad44-b25a8b6c6bd1.html",
-    "published": "Mon, 31 Aug 2026 06:00:00 -0800",
-    "summary": "Alaska\u2019s location and dependence on imports make local agricultural capacity essential to military and civilian resilience.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/0/98/098f9013-374f-40e8-bece-18348f5b8444/6a94a763ee6eb.image.jpg?crop=1384%2C912%2C131%2C255&resize=300%2C198&order=crop%2Cresize",
-    "timestamp": "2026-08-31T14:00:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "0c9249120692c34787b66ad259192beb",
-      "8e92bdd8b0eae72a10f00da80d34743f",
-      "466161896aeaa1f88398a967c7bbb551",
-      "d3374b232921a3be0e4bc1584a36b0ed",
-      "db533fd05c81277ed1cfab462ab16116"
-    ]
-  },
-  {
-    "hash": "f229b4f9af842652910507c842000ee3",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Nanook volleyball set for 2026 home opener",
-    "link": "https://www.newsminer.com/sports/uaf_nanooks/nanook-volleyball-set-for-2026-home-opener/article_e34701ec-fa38-41f0-bb03-da8c5e4356d4.html",
-    "published": "Mon, 31 Aug 2026 06:00:00 -0800",
-    "summary": "Fresh off a regional semifinal appearance a season ago, Nanook volleyball picked up the 2026 slate right where it left off, dominating the Aloha State and the Valley en route to a 6-1 start to the campaign.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/b/c2/bc25fdfb-a1c8-4a6d-ae6c-d15dda7cbffe/693509a48d8ff.image.jpg?resize=300%2C234",
-    "timestamp": "2026-08-31T14:00:00+00:00",
-    "impactScore": 50,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "0c9249120692c34787b66ad259192beb",
-      "8e92bdd8b0eae72a10f00da80d34743f",
-      "466161896aeaa1f88398a967c7bbb551",
-      "d3374b232921a3be0e4bc1584a36b0ed",
-      "db533fd05c81277ed1cfab462ab16116"
-    ]
-  },
-  {
-    "hash": "83836a637ffa24c7ba7d789dfabe5ced",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "How Interior Alaska voted in state primary's top three races",
-    "link": "https://www.newsminer.com/news/local_news/how-interior-alaska-voted-in-state-primarys-top-three-races/article_4cab30f9-5f23-404f-93d0-bf27886492b3.html",
-    "published": "Mon, 31 Aug 2026 06:00:00 -0800",
-    "summary": "As the Alaska Division of Elections continues counting absentee ballots from the Aug. 19 statewide primary, unofficial results paint a picture of how Interior Alaska voted in the state\u2019s top races.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/9/91/991cad8f-09be-4a4a-beba-26ebcf6a079b/6a94cb8ccb807.image.jpg?resize=300%2C86",
-    "timestamp": "2026-08-31T14:00:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "0c9249120692c34787b66ad259192beb",
-      "8e92bdd8b0eae72a10f00da80d34743f",
-      "466161896aeaa1f88398a967c7bbb551",
-      "d3374b232921a3be0e4bc1584a36b0ed",
-      "db533fd05c81277ed1cfab462ab16116"
-    ]
-  },
-  {
-    "hash": "bbef9f519ad9ed3f3fb564819c12256f",
-    "source": "Alaska Beacon",
-    "category": "News",
-    "title": "Mining projects opposed by Alaska tribes get support from Canada, British Columbia and First Nation",
-    "link": "https://alaskabeacon.com/2026/08/31/mining-projects-opposed-by-alaska-tribes-get-support-from-canada-british-columbia-and-first-nation/",
-    "published": "Mon, 31 Aug 2026 13:55:54 +0000",
-    "summary": "Louis Wagner Jr. pulls up ooligan nets on the Unuk River in southeastern Alaska in March 2024. He and his wife, Cindy Wagner, have fished in the area for years. (Photo by Sonia Luokkala/courtesy of the Southeast Alaska Indigenous Transboundary Commission) This story was first published by ICT. The s...",
-    "dataTag": "[Region: Southeast] [Category: News]",
-    "sourceAttribution": "Source: Alaska Beacon",
-    "imageUrl": "https://alaskabeacon.com/wp-content/uploads/2026/08/CANADA-Alaska-Louie-Wagner-fishing-on-Unuk-River-courtesy-of-Cindy-Wagner-scaled.jpg-1024x683.webp",
-    "timestamp": "2026-08-31T13:55:54+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "0c9249120692c34787b66ad259192beb",
-      "8e92bdd8b0eae72a10f00da80d34743f",
-      "466161896aeaa1f88398a967c7bbb551",
-      "d3374b232921a3be0e4bc1584a36b0ed",
-      "db533fd05c81277ed1cfab462ab16116"
-    ]
-  },
-  {
-    "hash": "65bdaccf5edc357f0d8292a771d24ef8",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Pamela Lewis",
-    "link": "https://www.newsminer.com/obituaries/pamela-lewis/article_0cef545c-f8b1-46b2-92d1-79e75ef11429.html",
-    "published": "Mon, 31 Aug 2026 05:45:00 -0800",
-    "summary": "Pamela Ann Lewis left our Earth on Aug. 23, 2026, to be reunited in heaven with those who had gone before her. She was living at the Fairbanks Pioneer Home at the time and was 73 years old.",
-    "dataTag": "[Region: Interior] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/2/63/26332e51-e4b0-451b-94a4-479309e19baf/6a91c4bd341ec.image.jpg?resize=300%2C364",
-    "timestamp": "2026-08-31T13:45:00+00:00",
-    "impactScore": 30,
-    "region": "Interior",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "197d7c9aa32063cca9c1a15a838e4e72",
-      "fbecf5f35919dcd70bfcb730923f9fcc",
-      "0a1a14e9bdda8742bd9a8ec96dc69cc1",
-      "aa14316bc1fa70221d51060976b250bf",
-      "ee1e71d8fdfd8e1f29825c287e354656"
-    ]
-  },
-  {
-    "hash": "e675e1dce31fa80e3ce03a9fac7584f9",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.6 - 17 km N of Meadow Lakes, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rgaudb",
-    "published": "",
-    "summary": "Time 2026-08-31 13:44:09 UTC 2026-08-31 13:44:09 UTC at epicenter Location 61.786\u00b0N 149.618\u00b0W Depth 43.60 km (27.09 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T13:44:09+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "b1dfb683e341381087092f70a1403afb",
-      "dc6af95b70af207f4499ab0600cc39bc",
-      "a974b381a1dc79afe576881abf0c9832",
-      "ec65bb30d5bae3af7808b377dcaf228d",
-      "1609b323eb94b2b3deb8303f6fb24da0"
-    ]
-  },
-  {
-    "hash": "fca6d7927a3416d9e2c9fdb5819f7ebb",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Superb fairywrens disappearing in Australia\u2019s capital: Conserving insects could help save them",
-    "link": "https://news.mongabay.com/2026/08/superb-fairywrens-disappearing-in-australias-capital-conserving-insects-could-help-save-them/",
-    "published": "31 Aug 2026 13:39:56 +0000",
-    "summary": "If you sit in an Australian park or garden for long enough, chances are you might catch a flash of brilliant feathers out of the corner of your eye: the superb fairywren. With its bright blue and soft brown plumage, it was voted Australia\u2019s \u201cbird of the year\u201d in 2021, \u201cnarrowly defeating the tawny f...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28210838/BANNER-superb-fairywren-768x512.jpg",
-    "timestamp": "2026-08-31T13:39:56+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c8dd72b328c5991533463b3e57f149e2",
-      "6449fedacbb5e95276dbeb9cee77538b",
-      "99b78648d817fb4729bbb6235fe7672f",
-      "ea5bc9ded807563251f7462e89ff6763",
-      "10ee93766f58a6507cd84208696f007d"
-    ]
-  },
-  {
-    "hash": "19f8ea43fa37c55166a4f4b214d983ba",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Scientists use satellites to track whale strandings in remote places from space",
-    "link": "https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/",
-    "published": "31 Aug 2026 13:33:25 +0000",
-    "summary": "In 2015, the remote coastal fjords of southern Patagonia turned into a whale graveyard. That June, scientists found 337 dead and decomposing sei whales, a species of baleen whale, on the beaches between the Gulf of Penas and Puerto Natales in Chile. Researchers flew over the area, then took samples....",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31114533/1-Dead-sei-whales-Balaenoptera-borealis-768x512.jpg",
-    "timestamp": "2026-08-31T13:33:25+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c8dd72b328c5991533463b3e57f149e2",
-      "6449fedacbb5e95276dbeb9cee77538b",
-      "99b78648d817fb4729bbb6235fe7672f",
-      "ea5bc9ded807563251f7462e89ff6763",
-      "10ee93766f58a6507cd84208696f007d"
-    ]
-  },
-  {
-    "hash": "3e0294c1ee2deb2c69fb6b6acfe75d05",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "An LNG line is still a long way off and not because of the Legislature",
-    "link": "https://www.newsminer.com/opinion/community_perspectives/an-lng-line-is-still-a-long-way-off-and-not-because-of-the-legislature/article_2e582857-00f8-406c-9e1d-f38d8cfbce67.html",
-    "published": "Mon, 31 Aug 2026 05:30:00 -0800",
-    "summary": "I am responding to Craig Compeau\u2019s Aug. 27 Community Perspective about the LNG line. The first half of the piece had some reasonable points, but the second omitted key facts and was politically partisan. Let\u2019s break down what was claimed\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/4/df/4dff9efb-03e8-45da-96d3-399a33475b9e/6a0f81c48a8ea.image.jpg?resize=300%2C193",
-    "timestamp": "2026-08-31T13:30:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8e92bdd8b0eae72a10f00da80d34743f",
-      "466161896aeaa1f88398a967c7bbb551",
-      "d3374b232921a3be0e4bc1584a36b0ed",
-      "db533fd05c81277ed1cfab462ab16116",
-      "f041fbf016c6073ee2a36b5e5c9ff060"
     ]
   }
 ]
