@@ -1,5 +1,79 @@
 [
   {
+    "hash": "37991edf8b59b4a5b0fd304239f652ec",
+    "source": "Juneau Empire",
+    "category": "Regional",
+    "title": "Test will sound flash flood warning in the Juneau area",
+    "link": "https://www.juneauempire.com/2026/09/07/test-will-sound-flash-flood-warning-in-the-juneau-area/",
+    "published": "Mon, 07 Sep 2026 19:30:00 +0000",
+    "summary": "National Weather Service conducting test of the Salmon Creek Dam Notification System",
+    "dataTag": "[Region: Southeast] [Category: Regional]",
+    "sourceAttribution": "Source: Juneau Empire",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T19:30:00+00:00",
+    "impactScore": 55,
+    "region": "Southeast",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [
+      "nws"
+    ],
+    "relatedSignalIds": [
+      "66a0d7c590937edadd92ce6927d761cd",
+      "bb9812d8aea6cecbbe69104e9ca4cb34",
+      "e5001a179e9914a97f50e41c2f2938ea",
+      "ec494c537a4869d6c1ba55c12109d0af",
+      "900fbe7df9bca7c8d7e95ceb86786faf"
+    ]
+  },
+  {
+    "hash": "85d1ce8f78b41bf0495b4891c00f129c",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 1.2 - 16 km SSE of Minto, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtkdrd",
+    "published": "",
+    "summary": "Time 2026-09-07 19:20:26 UTC 2026-09-07 19:20:26 UTC at epicenter Location 65.005\u00b0N 149.278\u00b0W Depth 5.00 km (3.11 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T19:20:26+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "54a62464bd20384f563587c7c2548156",
+      "80df17a31c1241f8eccaf0cbcbc34cb5",
+      "66122db95ccbfc622a16851b4aab8228",
+      "cf20c60538965312bd6dde0d8ffe47b8",
+      "1b8ab812e8fc270f82eb646ca4eb22f2"
+    ]
+  },
+  {
+    "hash": "218b4ac2d4fef73fa99d2197f7ac799e",
+    "source": "Mining.com Alaska",
+    "category": "Mining",
+    "title": "Critical minerals security collides with decades-long mine timelines",
+    "link": "https://www.mining.com/critical-minerals-security-collides-with-decades-long-mine-timelines/",
+    "published": "Mon, 07 Sep 2026 19:19:55 +0000",
+    "summary": "North America\u2019s push to reduce its dependence on China for critical minerals is running up against a problem that permitting reform alone cannot solve: it still takes years to determine whether many mining projects are technically and economically viable. In the US, moving a mineral deposit from dis...",
+    "dataTag": "[Region: Statewide] [Category: Mining]",
+    "sourceAttribution": "Source: Mining.com Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T19:19:55+00:00",
+    "impactScore": 55,
+    "region": "Statewide",
+    "sector": "energy",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "93ec6e4d96422a3b8279394b4a851e36",
+      "ecec6f5d1f908de02d134232aa3c3d38"
+    ]
+  },
+  {
     "hash": "54a62464bd20384f563587c7c2548156",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -232,7 +306,8 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "ecec6f5d1f908de02d134232aa3c3d38"
+      "ecec6f5d1f908de02d134232aa3c3d38",
+      "218b4ac2d4fef73fa99d2197f7ac799e"
     ]
   },
   {
@@ -721,7 +796,8 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "93ec6e4d96422a3b8279394b4a851e36"
+      "93ec6e4d96422a3b8279394b4a851e36",
+      "218b4ac2d4fef73fa99d2197f7ac799e"
     ]
   },
   {
@@ -1965,221 +2041,6 @@
       "b6a3382a98ff68d1761b95f3cba60a03",
       "81d5826e71cf59966ab2be54246733d2",
       "e92b1744b96d7849c1f7f1bbc785cc12"
-    ]
-  },
-  {
-    "hash": "5f668cd9ddbc3a746b31fedc141242a0",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Opinion: Alaska LNG\u2019s gas price promise banks on industrial-scale unknowns",
-    "link": "https://www.adn.com/opinions/2026/09/06/opinion-alaska-lngs-gas-price-promise-banks-on-industrial-scale-unknowns/",
-    "published": "Sun, 06 Sep 2026 20:05:47 +0000",
-    "summary": "Through a marathon of legislative sessions, Alaska LNG\u2019s developers have tried hard to sell the idea that an in-state gas line will provide Alaskans with affordable gas. The claim hinges on hypothetical industrial gas customers quickly signing up to buy gas, helping distribute its astronomical cost....",
-    "dataTag": "[Region: Southcentral] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/kCIYLaGdEcwQEWEwKRpIGM6cn2c=/cloudfront-us-east-1.images.arcpublishing.com/adn/BVYCHMIGSFE4NCJDMBHBYWB5TM.jpg",
-    "timestamp": "2026-09-06T20:05:47+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0",
-      "788cf81fbf7540cb8a2394430d59257f",
-      "41f4c1e767597a63676d3d122d457a33",
-      "1b7e00af343b63c2149dabb2f46e51e2"
-    ]
-  },
-  {
-    "hash": "3283dbae018e8fd1b061aab415209dbe",
-    "source": "Alaska Native News",
-    "category": "Native",
-    "title": "Man Driving While at Four Times Legal Limit Arrested on Kenai Peninsula",
-    "link": "https://alaska-native-news.com/man-driving-while-at-four-times-legal-limit-arrested-on-kenai-peninsula/86118/",
-    "published": "Sun, 06 Sep 2026 20:01:34 +0000",
-    "summary": "On Thursday, just before 3 pm, Alaska Wildlife Troopers (AWT) observed a white pickup truck in the ditch near the intersection of Swanson River Road and Jacobson Avenue. Troopers contacted the driver, identified as 50-year-old Jason Daniels, and observed signs consistent with alcohol impairment. Dan...",
-    "dataTag": "[Region: Southcentral] [Category: Native]",
-    "sourceAttribution": "Source: Alaska Native News",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T20:01:34+00:00",
-    "impactScore": 38,
-    "region": "Cook Inlet",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": []
-  },
-  {
-    "hash": "a226cbb9be82708e7c9b819d0fb12e91",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Attempting to deliver gold rush news, a dozen carrier pigeons were once dispatched from the SS Portland",
-    "link": "https://www.adn.com/alaska-life/2026/09/06/attempting-to-deliver-gold-rush-news-a-dozen-carrier-pigeons-were-once-dispatched-from-the-ss-portland/",
-    "published": "Sun, 06 Sep 2026 19:57:39 +0000",
-    "summary": "Part of a continuing weekly series on Alaska history by local historian David Reamer. Have a question about Anchorage or Alaska history or an idea for a future article? Go to the form at the bottom of this story. Many Alaskans today feel some degree of isolation from the Outside world, from the smal...",
-    "dataTag": "[Region: Southcentral] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/jyFr-NZBMVS7vk_bObQILQyPd2Q=/cloudfront-us-east-1.images.arcpublishing.com/adn/GXXRPNTWRZDZFPMQJMTPGR62I4.jpeg",
-    "timestamp": "2026-09-06T19:57:39+00:00",
-    "impactScore": 30,
-    "region": "Cook Inlet",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "3e9a05cbb6c1915372d1853d4f774886",
-      "6cd249055156e0038a3795db0a4c9fb6",
-      "7f949b63bf28a41b75cbdb2ccc469421",
-      "256eaf7a98dafaf3571da6c03ef84238",
-      "d8f79d6f916271bc4af929a260f1e731"
-    ]
-  },
-  {
-    "hash": "4c4ca1c04312dd8d3cb3b0e47cf412a0",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.4 - 47 km WNW of Karluk, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrphti",
-    "published": "",
-    "summary": "Time 2026-09-06 19:55:46 UTC 2026-09-06 19:55:46 UTC at epicenter Location 57.793\u00b0N 155.123\u00b0W Depth 19.30 km (11.99 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T19:55:46+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "54a62464bd20384f563587c7c2548156",
-      "80df17a31c1241f8eccaf0cbcbc34cb5",
-      "66122db95ccbfc622a16851b4aab8228",
-      "cf20c60538965312bd6dde0d8ffe47b8",
-      "1b8ab812e8fc270f82eb646ca4eb22f2"
-    ]
-  },
-  {
-    "hash": "f4c666f9e7a14f2ac384064d9dbff414",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "AFC East led by Patriots and Bills eyeing Super Bowl run. Jets and Dolphins seek respectability",
-    "link": "https://www.adn.com/sports/national-sports/2026/09/07/afc-east-led-by-patriots-and-bills-eyeing-super-bowl-run-jets-and-dolphins-seek-respectability/",
-    "published": "Sun, 06 Sep 2026 19:50:00 +0000",
-    "summary": "It\u2019s like old times again for the New England Patriots, who are being pursued by everyone else in the AFC East. It\u2019s a position the franchise knows all too well, having a nearly two-decade reign \u2014 17 division titles in 19 years \u2014 before Josh Allen and the Buffalo Bills won five in a row. A playoff r...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/WyzX15-52fttPtANaSwL880PevM=/cloudfront-us-east-1.images.arcpublishing.com/adn/GGLSQR5JUO576B4KH6OF63LKQM.jpg",
-    "timestamp": "2026-09-06T19:50:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0",
-      "788cf81fbf7540cb8a2394430d59257f",
-      "41f4c1e767597a63676d3d122d457a33",
-      "1b7e00af343b63c2149dabb2f46e51e2"
-    ]
-  },
-  {
-    "hash": "05fd5fd6f75aa6ff13914b94a3374043",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.3 - 7 km E of Beaver, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrouak",
-    "published": "",
-    "summary": "Time 2026-09-06 19:39:56 UTC 2026-09-06 19:39:56 UTC at epicenter Location 66.367\u00b0N 147.223\u00b0W Depth 5.00 km (3.11 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T19:39:56+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "54a62464bd20384f563587c7c2548156",
-      "80df17a31c1241f8eccaf0cbcbc34cb5",
-      "66122db95ccbfc622a16851b4aab8228",
-      "cf20c60538965312bd6dde0d8ffe47b8",
-      "1b8ab812e8fc270f82eb646ca4eb22f2"
-    ]
-  },
-  {
-    "hash": "5e087d2384f9e0971acf5f6557cd2780",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
-    "link": "https://www.adn.com/nation-world/2026/09/06/a-whiplash-election-year-enters-its-final-stretch-as-trump-holds-wild-cards/",
-    "published": "Sun, 06 Sep 2026 19:39:09 +0000",
-    "summary": "WASHINGTON \u2014 In the earliest days of this election cycle, the U.S. wasn\u2019t at war with Iran. The East Wing of the White House was still standing and the Kennedy Center wasn\u2019t threatened with demolition. Artificial intelligence data centers weren\u2019t bipartisan shorthand for the tech sector\u2019s excess. De...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/rCfL3lUpUsVr8BKHZVkI4elDKa4=/cloudfront-us-east-1.images.arcpublishing.com/adn/4Z3FMHAI3W6PA3LEEDKS4EZ7OA.jpg",
-    "timestamp": "2026-09-06T19:39:09+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0",
-      "788cf81fbf7540cb8a2394430d59257f",
-      "41f4c1e767597a63676d3d122d457a33",
-      "1b7e00af343b63c2149dabb2f46e51e2"
-    ]
-  },
-  {
-    "hash": "d6f06a94ba09115b76022b01ecf4a59f",
-    "source": "ANCSA Regional Association",
-    "category": "Native",
-    "title": "[email\u00a0protected]",
-    "link": "https://www.ancsaregional.com/cdn-cgi/l/email-protection#3851565e577859565b4b594a5d5f5157565954165b5755",
-    "published": "",
-    "summary": "[email protected]",
-    "dataTag": "[Region: Statewide] [Category: Native]",
-    "sourceAttribution": "Source: ANCSA Regional Association",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T19:38:29+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "21ea34105e8c19e228eb85f7a2a4c7ec",
-      "51249b2474d4ec2befcd33259b65aa9b",
-      "5b8be11af2876bdb214a6ca03237c401",
-      "ee2dab21958756d7d134e0f219ccf728",
-      "ed72a701b8dfa01b0f8f974075edaa55"
-    ]
-  },
-  {
-    "hash": "e48d9e8ec01f17145c9a52359be45d02",
-    "source": "Alaska Interagency Fire",
-    "category": "Emergency",
-    "title": "Dozer-line repair advances; road restoration complete on Mukluk Fire",
-    "link": "https://akfireinfo.com/2026/09/06/dozer-line-repair-advances-road-restoration-complete-on-mukluk-fire/",
-    "published": "Sun, 06 Sep 2026 19:36:03 +0000",
-    "summary": "Acres: 7,335 Containment: 29% Location: Tok, AK Start Date: Aug. 17, 2026 Fuels: Black Spruce, Shrubs, Grass Personnel: 37 On Saturday, excavators progressed south repairing approximately one mile of dozer line along the fire\u2019s eastern flank. Working alongside an engine crew, the engine extinguished...",
-    "dataTag": "[Region: Interior] [Category: Emergency]",
-    "sourceAttribution": "Source: Alaska Interagency Fire",
-    "imageUrl": "https://akfireinfo.com/wp-content/uploads/2026/09/photo_20260904_excavatordozerlinerepairkilo_anderson.jpg",
-    "timestamp": "2026-09-06T19:36:03+00:00",
-    "impactScore": 70,
-    "region": "Interior",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "cd41355f2d4c97207280db4f174beb7f"
     ]
   }
 ]

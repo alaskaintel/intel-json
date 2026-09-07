@@ -1,5 +1,79 @@
 [
   {
+    "hash": "37991edf8b59b4a5b0fd304239f652ec",
+    "source": "Juneau Empire",
+    "category": "Regional",
+    "title": "Test will sound flash flood warning in the Juneau area",
+    "link": "https://www.juneauempire.com/2026/09/07/test-will-sound-flash-flood-warning-in-the-juneau-area/",
+    "published": "Mon, 07 Sep 2026 19:30:00 +0000",
+    "summary": "National Weather Service conducting test of the Salmon Creek Dam Notification System",
+    "dataTag": "[Region: Southeast] [Category: Regional]",
+    "sourceAttribution": "Source: Juneau Empire",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T19:30:00+00:00",
+    "impactScore": 55,
+    "region": "Southeast",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [
+      "nws"
+    ],
+    "relatedSignalIds": [
+      "66a0d7c590937edadd92ce6927d761cd",
+      "bb9812d8aea6cecbbe69104e9ca4cb34",
+      "e5001a179e9914a97f50e41c2f2938ea",
+      "ec494c537a4869d6c1ba55c12109d0af",
+      "900fbe7df9bca7c8d7e95ceb86786faf"
+    ]
+  },
+  {
+    "hash": "85d1ce8f78b41bf0495b4891c00f129c",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 1.2 - 16 km SSE of Minto, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtkdrd",
+    "published": "",
+    "summary": "Time 2026-09-07 19:20:26 UTC 2026-09-07 19:20:26 UTC at epicenter Location 65.005\u00b0N 149.278\u00b0W Depth 5.00 km (3.11 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T19:20:26+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "54a62464bd20384f563587c7c2548156",
+      "80df17a31c1241f8eccaf0cbcbc34cb5",
+      "66122db95ccbfc622a16851b4aab8228",
+      "cf20c60538965312bd6dde0d8ffe47b8",
+      "1b8ab812e8fc270f82eb646ca4eb22f2"
+    ]
+  },
+  {
+    "hash": "218b4ac2d4fef73fa99d2197f7ac799e",
+    "source": "Mining.com Alaska",
+    "category": "Mining",
+    "title": "Critical minerals security collides with decades-long mine timelines",
+    "link": "https://www.mining.com/critical-minerals-security-collides-with-decades-long-mine-timelines/",
+    "published": "Mon, 07 Sep 2026 19:19:55 +0000",
+    "summary": "North America\u2019s push to reduce its dependence on China for critical minerals is running up against a problem that permitting reform alone cannot solve: it still takes years to determine whether many mining projects are technically and economically viable. In the US, moving a mineral deposit from dis...",
+    "dataTag": "[Region: Statewide] [Category: Mining]",
+    "sourceAttribution": "Source: Mining.com Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T19:19:55+00:00",
+    "impactScore": 55,
+    "region": "Statewide",
+    "sector": "energy",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "93ec6e4d96422a3b8279394b4a851e36",
+      "ecec6f5d1f908de02d134232aa3c3d38"
+    ]
+  },
+  {
     "hash": "54a62464bd20384f563587c7c2548156",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -232,7 +306,8 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "ecec6f5d1f908de02d134232aa3c3d38"
+      "ecec6f5d1f908de02d134232aa3c3d38",
+      "218b4ac2d4fef73fa99d2197f7ac799e"
     ]
   },
   {
@@ -721,7 +796,8 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "93ec6e4d96422a3b8279394b4a851e36"
+      "93ec6e4d96422a3b8279394b4a851e36",
+      "218b4ac2d4fef73fa99d2197f7ac799e"
     ]
   },
   {
@@ -36255,306 +36331,6 @@
       "091fec6bbd9c620389c9a73d7d988658",
       "f36520e4c34a3cc32d0a705593dd5d37",
       "dfbdd9d8fe9309a429776b4cec11c7d1"
-    ]
-  },
-  {
-    "hash": "02997997280285999cb22661da53f0ca",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Indigenous rangers pull killer \u2018ghost nets\u2019 from Australia\u2019s northern coast",
-    "link": "https://news.mongabay.com/2026/08/indigenous-rangers-pull-killer-ghost-nets-from-northern-australias-coast/",
-    "published": "31 Aug 2026 20:02:22 +0000",
-    "summary": "On a remote beach on Groote Eylandt, a large island in Australia\u2019s Gulf of Carpentaria, Kirsten Eden and her colleagues found a fishing net that someone had tried to make disappear. It had been burned and melted into a lump while at sea, and thrown overboard. It didn\u2019t sink, but floated to shore as....",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31195439/aad44e0a-4b0b-4d7d-8261-c4daa88bad1d-768x512.jpg",
-    "timestamp": "2026-08-31T20:02:22+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "caec7730ee805da543c52719940c5857",
-      "94c9492238c6336c8bfae37161e10cb9",
-      "7d380c190aa67dd9b669e4f61fe8e5e0",
-      "501661e983054374331829047b6d6e5c",
-      "73099f300dba634d7368a09d7fd42eb9"
-    ]
-  },
-  {
-    "hash": "895c4bed5ff60db029a526ce60dcef7d",
-    "source": "Alaska Public Media",
-    "category": "News",
-    "title": "This local entrepreneur thinks your pets should eat as well as you do | Hometown, Alaska",
-    "link": "https://alaskapublic.org/programs/hometown-alaska/2026-08-31/this-local-business-thinks-your-pets-should-eat-as-well-as-you-do-hometown",
-    "published": "Mon, 31 Aug 2026 20:00:26 GMT",
-    "summary": "Drool Central is a pet treat company using locally-sourced ingredients, whose owner works with students from the Anchorage School District's Adult Community Transition Program.",
-    "dataTag": "[Region: Southcentral] [Category: News]",
-    "sourceAttribution": "Source: Alaska Public Media",
-    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/f033f62/2147483647/strip/false/crop/4032x3024+0+0/resize/267x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F01%2F1a7ac1764bdc9608b4eb63e16f11%2Fimg-9269.jpeg",
-    "timestamp": "2026-08-31T20:00:26+00:00",
-    "impactScore": 30,
-    "region": "Cook Inlet",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "3249677ec566e5d1aa6b1ecafab905d8",
-      "64c612b3d577293a8be617286b006fef",
-      "77a6fdd16ae648dcfcaee81c0ccb388e",
-      "c9851aa4e6fedfb38aa12043bd0a69a3",
-      "e8ba0fc0da85a23f770253ea8b9c405b"
-    ]
-  },
-  {
-    "hash": "e6b963ec54fccff3ab8db7a7d4893afa",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Coastal Texas and Louisiana warned of tropical storm as a potential hurricane moves toward Hawaii",
-    "link": "https://news.mongabay.com/short-article/2026/08/coastal-texas-and-louisiana-warned-of-tropical-storm-as-a-potential-hurricane-moves-toward-hawaii/",
-    "published": "31 Aug 2026 19:56:29 +0000",
-    "summary": "MIAMI (AP) \u2014 The National Hurricane Center issued a tropical storm warning on Monday for the Gulf of Mexico coast from the Galveston and Houston, Texas, area to the western parishes of Louisiana. As of late Monday morning, the potential tropical cyclone was centered about 120 miles (195 kilometers)....",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/31195157/AP26243562165200-768x512.jpg",
-    "timestamp": "2026-08-31T19:56:29+00:00",
-    "impactScore": 55,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "caec7730ee805da543c52719940c5857",
-      "94c9492238c6336c8bfae37161e10cb9",
-      "7d380c190aa67dd9b669e4f61fe8e5e0",
-      "501661e983054374331829047b6d6e5c",
-      "73099f300dba634d7368a09d7fd42eb9"
-    ]
-  },
-  {
-    "hash": "8913b61830bafe14d063c26de7324a4c",
-    "source": "Alaska Public Media",
-    "category": "News",
-    "title": "Mayor says Haines is 'bleeding young families' as childcare options get even scarcer",
-    "link": "https://alaskapublic.org/news/alaska-desk/2026-08-31/mayor-says-haines-is-bleeding-young-families-as-childcare-options-get-even-scarcer",
-    "published": "Mon, 31 Aug 2026 19:55:12 GMT",
-    "summary": "A preschool's closure is raising concerns about younger families\u2019 ability to thrive in Haines, or even stay there.",
-    "dataTag": "[Region: Southeast] [Category: News]",
-    "sourceAttribution": "Source: Alaska Public Media",
-    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/9eae6b8/2147483647/strip/false/crop/1936x1291+0+0/resize/300x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fa8%2Fdeb4b7e14bdb9b3f6f10fe989c54%2Fchairs.jpg",
-    "timestamp": "2026-08-31T19:55:12+00:00",
-    "impactScore": 55,
-    "region": "Southeast",
-    "sector": "governance",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "5296a69ffecba2c2553734b20c259660",
-      "6ac9e00102b9ef43f14f2c0d352c7377",
-      "f89439ae777281423461a91b7d940e4b",
-      "010a8b5ad6d3b6865fbe180201dff2e8",
-      "bad6906a5ffeac77ab6db17317745ac6"
-    ]
-  },
-  {
-    "hash": "56265d8fb415e11f38791909423884a4",
-    "source": "Alaska Beacon",
-    "category": "News",
-    "title": "Federal judge pauses case on mifepristone access until after midterm elections",
-    "link": "https://alaskabeacon.com/2026/08/31/repub/federal-judge-pauses-case-on-mifepristone-access-until-after-midterm-elections/",
-    "published": "Mon, 31 Aug 2026 19:52:47 +0000",
-    "summary": "Three cases are pending in federal courts that could change access to one of two drugs commonly used to terminate a pregnancy and treat miscarriages. If the lawsuit out of Texas is successful, it would revoke access to the drug entirely in all states. A federal judge in Texas paused the case until a...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Alaska Beacon",
-    "imageUrl": "https://alaskabeacon.com/wp-content/uploads/2026/08/mifepristone.jpg",
-    "timestamp": "2026-08-31T19:52:47+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "cb4399cd5c9aba9ef3c0c010b556c339",
-      "091fec6bbd9c620389c9a73d7d988658",
-      "f36520e4c34a3cc32d0a705593dd5d37",
-      "dfbdd9d8fe9309a429776b4cec11c7d1",
-      "cefd93f4d5372fe819ebb50a2e57b164"
-    ]
-  },
-  {
-    "hash": "0603b6d0b3273b626a9c6425a220fe9b",
-    "source": "KNOM Nome Indigenous Radio",
-    "category": "Native",
-    "title": "Fall storm season is near, here are some ways to prepare",
-    "link": "https://knom.org/2026/08/31/fall-storm-season-is-near-here-are-some-ways-to-prepare/",
-    "published": "Mon, 31 Aug 2026 19:46:34 +0000",
-    "summary": "In western Alaska, fall storms can mean power outages, flooding, and days without access to services like running water. While storms are unpredictable, state emergency officials say the time to prepare for a storm is long before it is in the forecast. Alaska\u2019s Division of Homeland Security and Emer...",
-    "dataTag": "[Region: Statewide] [Category: Native]",
-    "sourceAttribution": "Source: KNOM Nome Indigenous Radio",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T19:46:34+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "f462fd0ff65698d86971731407428b7c",
-      "06602cf6f79fbbfb93308a4b24b9b432",
-      "20b29bacd2fbbe1bb820c246d09bf315",
-      "6488e18bc4ede1cdc94cd264aa2e60fc",
-      "1ccd5aaaee8886502f650a2baa1954f8"
-    ]
-  },
-  {
-    "hash": "ac29537ee300c517b5ac13bbb7bf8271",
-    "source": "KCAW Sitka",
-    "category": "Radio",
-    "title": "AmDocs Sitka returns for second year",
-    "link": "https://www.kcaw.org/2026/08/31/amdocs-sitka-returns-for-second-year/",
-    "published": "Mon, 31 Aug 2026 19:44:47 +0000",
-    "summary": "The second annual American Documentary and Animation Film Festival \u2014 AmDocs \u2014 returns to Sitka October 9-11. Organizer Debbie Miller joined KCAW for the Morning Interview to discuss the event, which will feature 33 films and a variety of programming. Listen to the conversation here:",
-    "dataTag": "[Region: Southeast] [Category: Radio]",
-    "sourceAttribution": "Source: KCAW Sitka",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T19:44:47+00:00",
-    "impactScore": 30,
-    "region": "Southeast",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "5296a69ffecba2c2553734b20c259660",
-      "6ac9e00102b9ef43f14f2c0d352c7377",
-      "f89439ae777281423461a91b7d940e4b",
-      "010a8b5ad6d3b6865fbe180201dff2e8",
-      "bad6906a5ffeac77ab6db17317745ac6"
-    ]
-  },
-  {
-    "hash": "42bb90c73f953a3681759e5b1fd34c16",
-    "source": "USDA Alaska Statistics",
-    "category": "Agriculture",
-    "title": "Egg Products",
-    "link": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/eggs0826.pdf",
-    "published": "",
-    "summary": "Shell Eggs Broken Up Slightly from Last Year...",
-    "dataTag": "[Region: Statewide] [Category: Agriculture]",
-    "sourceAttribution": "Source: USDA Alaska Statistics",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T19:43:52.319782+00:00",
-    "impactScore": 20,
-    "region": "Statewide",
-    "sector": "subsistence",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d56d7e25d7f422eb2be79be180674298",
-      "8d49b799aeec5e590c5057aa6e7b31fb",
-      "02811ee87b2dece8ab6c40cf3f3674c6",
-      "bb711b480022c8a99e1289b1e2d318e7",
-      "8169913517a35afcb7232c4b0e69fd11"
-    ]
-  },
-  {
-    "hash": "1fa5ad2e18444cc6a61b201070bcafb8",
-    "source": "USDA Alaska Statistics",
-    "category": "Agriculture",
-    "title": "Agricultural Prices",
-    "link": "http://www.nass.usda.gov/Publications/Todays_Reports/reports/agpr0826.pdf",
-    "published": "",
-    "summary": "July Prices Received Index Down 4.1 Percent...",
-    "dataTag": "[Region: Statewide] [Category: Agriculture]",
-    "sourceAttribution": "Source: USDA Alaska Statistics",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T19:43:52.319562+00:00",
-    "impactScore": 20,
-    "region": "Statewide",
-    "sector": "subsistence",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d56d7e25d7f422eb2be79be180674298",
-      "8d49b799aeec5e590c5057aa6e7b31fb",
-      "02811ee87b2dece8ab6c40cf3f3674c6",
-      "bb711b480022c8a99e1289b1e2d318e7",
-      "8169913517a35afcb7232c4b0e69fd11"
-    ]
-  },
-  {
-    "hash": "efb27d3ef02cb8fc06c274355192e6cd",
-    "source": "Native American Law Blog",
-    "category": "Native",
-    "title": "Federal Court Upholds Oregon's EPR Law in Full After Constitutional Challenge\n\nAugust 31, 2026",
-    "link": "https://hklaw.com/en/insights/publications/2026/08/federal-court-upholds-oregons-epr-law-in-full-after-constitutional",
-    "published": "",
-    "summary": "Federal Court Upholds Oregon's EPR Law in Full After Constitutional Challenge August 31, 2026",
-    "dataTag": "[Region: Statewide] [Category: Native]",
-    "sourceAttribution": "Source: Native American Law Blog",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T19:43:46+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "f462fd0ff65698d86971731407428b7c",
-      "06602cf6f79fbbfb93308a4b24b9b432",
-      "20b29bacd2fbbe1bb820c246d09bf315",
-      "6488e18bc4ede1cdc94cd264aa2e60fc",
-      "1ccd5aaaee8886502f650a2baa1954f8"
-    ]
-  },
-  {
-    "hash": "fbea7a38bf8221fe5aace87d7c418162",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.0 - 17 km W of Four Mile Road, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rgmryj",
-    "published": "",
-    "summary": "Time 2026-08-31 19:41:28 UTC 2026-08-31 19:41:28 UTC at epicenter Location 64.600\u00b0N 149.485\u00b0W Depth 5.00 km (3.11 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T19:41:28+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "59d980acd57e1d2e822715811d555253",
-      "49802fc67b2f2207cf54d9c8602b42dd",
-      "e0d5a0beafa2ff368cc7e59d1498b0a3",
-      "8040332c3fcade58903307e933bfb871",
-      "4c2923da941271c80b88c1e2a22abf86"
-    ]
-  },
-  {
-    "hash": "c718cc2e0c9cab0fc173badf632d3f6e",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 0.8 - 88 km NNW of Karluk, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rgmjbx",
-    "published": "",
-    "summary": "Time 2026-08-31 19:31:14 UTC 2026-08-31 19:31:14 UTC at epicenter Location 58.305\u00b0N 154.999\u00b0W Depth 5.00 km (3.11 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-08-31T19:31:14+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "59d980acd57e1d2e822715811d555253",
-      "49802fc67b2f2207cf54d9c8602b42dd",
-      "e0d5a0beafa2ff368cc7e59d1498b0a3",
-      "8040332c3fcade58903307e933bfb871",
-      "4c2923da941271c80b88c1e2a22abf86"
     ]
   }
 ]
