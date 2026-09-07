@@ -122,6 +122,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/06/at-least-5-dead-after-amazon-cargo-plane-barreled-off-runway-at-miami-airport/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06</news:publication_date>
+      <news:title>Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/arts/2026/09/06/tlingit-opera-to-bring-1800s-tlingit-russian-battles-to-the-stage-in-juneau/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-10</news:publication_date>
       <news:title>Trump administration order would upend nation’s childhood vaccine schedule</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>Trump demands major changes to childhood vaccine recommendations</news:title>
     </news:news>
   </url>
 </urlset>
