@@ -1,5 +1,105 @@
 [
   {
+    "hash": "66a0d7c590937edadd92ce6927d761cd",
+    "source": "Juneau Empire",
+    "category": "Regional",
+    "title": "State experts talk about tsunami, landslide risks for Southeast Alaska",
+    "link": "https://www.juneauempire.com/2026/09/07/state-experts-talk-about-tsunami-landslide-risks-for-southeast-alaska/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "With glacial flooding last month in Juneau, a landslide-driven tsunami last year in Tracy Arm, deadly landslides in Wrangell in 2023 and in Sitka, Haines and Ketchikan in recent years, the presence of natural disasters in Southeast Alaska is becoming more apparent.",
+    "dataTag": "[Region: Southeast] [Category: Regional]",
+    "sourceAttribution": "Source: Juneau Empire",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 65,
+    "region": "Southeast",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "bb9812d8aea6cecbbe69104e9ca4cb34",
+      "e5001a179e9914a97f50e41c2f2938ea",
+      "ec494c537a4869d6c1ba55c12109d0af",
+      "900fbe7df9bca7c8d7e95ceb86786faf",
+      "0e5fbc81a711c665854a33153a73ea0f"
+    ]
+  },
+  {
+    "hash": "f72c074d034a83a30169072d524a52f1",
+    "source": "Juneau Empire",
+    "category": "Regional",
+    "title": "OPINION: The form that takes away your health care",
+    "link": "https://www.juneauempire.com/2026/09/07/opinion-the-form-that-takes-away-your-health-care/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "Medicaid recipients must prove themselves while Washington escapes scrutiny",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Juneau Empire",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "b03962017949f91100534546ef674c0c",
+    "source": "Homer News",
+    "category": "Regional",
+    "title": "OPINION: The form that takes away your health care",
+    "link": "https://www.homernews.com/2026/09/07/opinion-the-form-that-takes-away-your-health-care/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "Medicaid recipients must prove themselves while Washington escapes scrutiny",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Homer News",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "58364448136c6264c5fcb16e8e0ab7fa",
+    "source": "Peninsula Clarion",
+    "category": "Regional",
+    "title": "OPINION: The form that takes away your health care",
+    "link": "https://www.peninsulaclarion.com/2026/09/07/opinion-the-form-that-takes-away-your-health-care/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "Medicaid recipients must prove themselves while Washington escapes scrutiny",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Peninsula Clarion",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
     "hash": "a6ddc33dd680eb10b99b0d5df9be1639",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -17,11 +117,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -42,11 +142,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -67,11 +167,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
       "cf035c19fdefc865a7c04d63ba572540",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -92,11 +192,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -319,6 +419,56 @@
     "relatedSignalIds": []
   },
   {
+    "hash": "e09298201e9fe4777646ae09715be54b",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "XCOTTON Helps Global Brands Protect Every Customer After Purchase",
+    "link": "https://www.newsminer.com/online_features/press_releases/xcotton-helps-global-brands-protect-every-customer-after-purchase/article_13e7f5c3-ced2-5005-994e-4a19bf4afb00.html",
+    "published": "Sun, 06 Sep 2026 19:59:00 -0800",
+    "summary": "LOS ANGELES and NEW YORK and LAS VEGAS, Sept. 6, 2026 /PRNewswire/ -- As IFA 2026 enters its final days in Berlin, global brands are showcasing the next generation of products designed to improve everyday life\u2014from smart home solutions and\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/e/1f/e1f6815f-604c-5996-8023-295d0bc4158c/6a9e9375c0e63.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:59:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "6704211c3782a76ba3b7af10ccc254b5",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "XCOTTON Helps Global Brands Protect Every Customer After Purchase",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_e8454ed5-8a4f-5a33-8783-b852af723691.html",
+    "published": "Sun, 06 Sep 2026 19:59:00 -0800",
+    "summary": "LOS ANGELES and NEW YORK and LAS VEGAS, Sept. 6, 2026 /PRNewswire/ -- As IFA 2026 enters its final days in Berlin, global brands are showcasing the next generation of products designed to improve everyday life\u2014from smart home solutions and\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/8/fb/8fb6f9f8-ff66-5017-907a-2627d4f450af/6a9e936bda1ab.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:59:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
     "hash": "6a44aa56e0c94c5294949de874ebaedd",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -336,11 +486,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -361,11 +511,161 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "927b78d123675a190bedd18abff5d365",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Park Systems Expands North American Footprint with New Regional Office in Hillsboro, Oregon",
+    "link": "https://www.newsminer.com/online_features/press_releases/park-systems-expands-north-american-footprint-with-new-regional-office-in-hillsboro-oregon/article_104bb25c-046d-59e8-8cde-800b9e0d9760.html",
+    "published": "Sun, 06 Sep 2026 19:10:00 -0800",
+    "summary": "SANTA CLARA, Calif., Sept. 6, 2026 /PRNewswire/ -- Park Systems, a leading global manufacturer of atomic force microscopy (AFM) and nanoscale metrology systems, today announced the opening of its newest regional office in Hillsboro, Oregon. The strategic addition enhances the\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/c/ab/cabc1a8d-adb0-5203-851f-31435414343a/6a9e9376c288d.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:10:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "15af7e8b1bcd9f133570f2db29385b06",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Park Systems Expands North American Footprint with New Regional Office in Hillsboro, Oregon",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_2d054861-25e0-5f54-811a-e7231434fe4d.html",
+    "published": "Sun, 06 Sep 2026 19:10:00 -0800",
+    "summary": "SANTA CLARA, Calif., Sept. 6, 2026 /PRNewswire/ -- Park Systems, a leading global manufacturer of atomic force microscopy (AFM) and nanoscale metrology systems, today announced the opening of its newest regional office in Hillsboro, Oregon. The strategic addition enhances the\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/d/d7/dd760a52-987f-52b6-9581-dd14bd534a47/6a9e936ce2447.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:10:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "dcfbf266943877d384e5867df390f9ea",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Author Tom Holtom Releases \u201cSemper Fidelis,\u201d a Tribute to the Marines Who Never Came Home, Until Now",
+    "link": "https://www.newsminer.com/online_features/press_releases/author-tom-holtom-releases-semper-fidelis-a-tribute-to-the-marines-who-never-came-home/article_4088c15e-4cfd-5c10-8bb2-fc39598f3396.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "A personal and historical novel about Carlson\u2019s Raiders, one family\u2019s decades-long wait, and the Marines who kept their promise to bring the fallen home",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/3/53/3535cec8-b261-5415-8d96-e34c2b954aa6/6a9e937653f23.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "f37c2805a96e56491ee6accdce60d6fd",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Tom Holtom\u2019s \u201cSemper Fidelis\u201d Captures the Human Cost of War Through One Marine Family\u2019s Sacrifice",
+    "link": "https://www.newsminer.com/online_features/press_releases/tom-holtom-s-semper-fidelis-captures-the-human-cost-of-war-through-one-marine-family/article_8334dd88-8bab-5f5d-aab5-e023eb548141.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "New book follows one Marine family across generations, from the uncertainty of World War II to a long-awaited homecoming.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/b/a1/ba16e3a0-836b-5df6-8ee8-41a2a6bc3d40/6a9e93768a290.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "faacab1c21cf965cda06378027ccd91e",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Author Tom Holtom Releases \u201cSemper Fidelis,\u201d a Tribute to the Marines Who Never Came Home, Until Now",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_60a33d52-8c37-59c1-b706-eb1471bbf168.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "A personal and historical novel about Carlson\u2019s Raiders, one family\u2019s decades-long wait, and the Marines who kept their promise to bring the fallen home",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/6/80/680f0619-33ea-58a5-a810-bbb375c5ef11/6a9e936c729a2.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "f910d13c00ab4e2dedf96e08c18ef9b2",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Tom Holtom\u2019s \u201cSemper Fidelis\u201d Captures the Human Cost of War Through One Marine Family\u2019s Sacrifice",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_7964849a-c9dc-5dd1-9a50-b03b2c65c005.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "New book follows one Marine family across generations, from the uncertainty of World War II to a long-awaited homecoming.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/d/9a/d9aee0fa-553f-5c4f-a2f2-110cb9a4c00a/6a9e936ca99bf.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
     ]
   },
   {
@@ -483,11 +783,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -508,11 +808,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -533,11 +833,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -558,11 +858,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -583,11 +883,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -608,11 +908,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -691,6 +991,31 @@
     ]
   },
   {
+    "hash": "1113490af0ba7a6d59267dc4bf43626d",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target",
+    "link": "https://www.adn.com/nation-world/2026/09/07/deadly-iran-wedding-strike-likely-due-to-us-bomb-missing-a-nearby-target/",
+    "published": "Sun, 06 Sep 2026 22:29:00 +0000",
+    "summary": "The Pentagon is investigating the high likelihood that an explosion in southern Iran that destroyed a home hosting a wedding celebration was caused by a U.S. bomb that missed a nearby target, a person familiar with the operation said. The strike on the home, which Iranian officials said killed at le...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/3aNPK8SUQ9pt-3g1jJMeNKj3pN8=/cloudfront-us-east-1.images.arcpublishing.com/adn/M4QHQU6QBUR2SB4HXRMIAMT7JE.jpg",
+    "timestamp": "2026-09-06T22:29:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
     "hash": "d597b1ff672d6f95b1eb3ca9e5f2ef41",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -708,11 +1033,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -783,11 +1108,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -835,11 +1160,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -860,11 +1185,36 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "be6cf42708a29a54eda5c2c93058b9b8",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Judge weighs whether Reflecting Pool charge against Olympian should be out for good",
+    "link": "https://www.adn.com/nation-world/2026/09/07/judge-weighs-whether-reflecting-pool-charge-against-olympian-should-be-out-for-good/",
+    "published": "Sun, 06 Sep 2026 20:23:00 +0000",
+    "summary": "A judge in D.C. pressed federal prosecutors to explain Friday why they should keep the option to reopen a case against a former Olympian who had been accused of vandalizing the Lincoln Memorial Reflecting Pool even as they acknowledged there is no evidence linking him to a crime. Assistant U.S. Atto...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/bVctpx8ghpqhI_jpC-t_V8wzIVc=/cloudfront-us-east-1.images.arcpublishing.com/adn/4Y5CMDLJFGDJ3GHXR2Q4UL5GTQ.jpg",
+    "timestamp": "2026-09-06T20:23:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
     ]
   },
   {
@@ -968,6 +1318,25 @@
     ]
   },
   {
+    "hash": "3283dbae018e8fd1b061aab415209dbe",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Man Driving While at Four Times Legal Limit Arrested on Kenai Peninsula",
+    "link": "https://alaska-native-news.com/man-driving-while-at-four-times-legal-limit-arrested-on-kenai-peninsula/86118/",
+    "published": "Sun, 06 Sep 2026 20:01:34 +0000",
+    "summary": "On Thursday, just before 3 pm, Alaska Wildlife Troopers (AWT) observed a white pickup truck in the ditch near the intersection of Swanson River Road and Jacobson Avenue. Troopers contacted the driver, identified as 50-year-old Jason Daniels, and observed signs consistent with alcohol impairment. Dan...",
+    "dataTag": "[Region: Southcentral] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-06T20:01:34+00:00",
+    "impactScore": 38,
+    "region": "Cook Inlet",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": []
+  },
+  {
     "hash": "a226cbb9be82708e7c9b819d0fb12e91",
     "source": "Anchorage Daily News",
     "category": "News",
@@ -1010,11 +1379,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1035,11 +1404,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1179,11 +1548,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1231,11 +1600,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1306,11 +1675,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1331,11 +1700,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1356,11 +1725,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1381,11 +1750,32 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "8093674768465455313bf8b69e4b7b6b",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "This Day in Alaska History-September 6th, 1867",
+    "link": "https://alaska-native-news.com/september-6th-1867/44415/",
+    "published": "Sun, 06 Sep 2026 14:00:49 +0000",
+    "summary": "On September 6, 1867, Union Brigadier General Jefferson C. Davis-not the Confederate president Jefferson Davis-was appointed the first commander of U.S. military forces in the newly established District of Alaska. The following year, Davis ordered Russian residents in Sitka to leave their homes, say...",
+    "dataTag": "[Region: Southeast] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-06T14:00:49+00:00",
+    "impactScore": 38,
+    "region": "Southeast",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "5bd20013dccb404bddbebba76a25437a"
     ]
   },
   {
@@ -2231,11 +2621,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2356,11 +2746,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2406,11 +2796,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2456,11 +2846,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2481,11 +2871,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2531,11 +2921,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2631,11 +3021,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2656,11 +3046,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2831,11 +3221,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2906,11 +3296,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3106,11 +3496,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3131,11 +3521,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3181,11 +3571,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3206,11 +3596,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3417,11 +3807,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3539,11 +3929,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3564,11 +3954,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3589,11 +3979,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3658,11 +4048,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3758,11 +4148,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3810,11 +4200,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3860,11 +4250,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3910,11 +4300,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -3960,11 +4350,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4157,11 +4547,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4182,11 +4572,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4228,11 +4618,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4253,11 +4643,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4279,6 +4669,29 @@
     "entitySlugs": [],
     "relatedSignalIds": [
       "47432f137b0a55ab081c6377f00e5c61"
+    ]
+  },
+  {
+    "hash": "a6224f8b36c8840a4bda6c3978229525",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Ancient \u2018cheetah\u2019 adapted to a fish-based diet to survive",
+    "link": "https://alaska-native-news.com/ancient-cheetah-adapted-to-a-fish-based-diet-to-survive/86072/",
+    "published": "Sat, 05 Sep 2026 14:23:37 +0000",
+    "summary": "When the now-extinct American cheetah was enduring the last ice age, a glaciated barrier broke up its territory into two distinct territories \u2014 one in central North America and another much farther north. Analysis from the Alaska Stable Isotope Facility at the University of Alaska Fairbanks helped a...",
+    "dataTag": "[Region: Interior] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-05T14:23:37+00:00",
+    "impactScore": 38,
+    "region": "Interior",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "7196dc868f4596c542302e394d30a10f",
+      "0a44d364797149a7c79396b17fa67ad0",
+      "64f9486562cfab4f6929e0ecdcdf619b"
     ]
   },
   {
@@ -4307,6 +4720,129 @@
     ]
   },
   {
+    "hash": "7196dc868f4596c542302e394d30a10f",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Fairbanks Brother Places Chokehold on Sibling Multiple Times, Arrested for Assault",
+    "link": "https://alaska-native-news.com/fairbanks-brother-places-chokehold-on-sibling-multiple-times-arrested-for-assault/86062/",
+    "published": "Sat, 05 Sep 2026 14:05:16 +0000",
+    "summary": "On last Sunday. at about 5:30 pm, Alaska State Troopers responded to a Fairbanks residence regarding a reported mental health crisis. During the course of the investigation, Troopers learned that the caller, Charlie Reich III, had assaulted his brother the previous evening during an argument. Reich....",
+    "dataTag": "[Region: Interior] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-05T14:05:16+00:00",
+    "impactScore": 38,
+    "region": "Interior",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a6224f8b36c8840a4bda6c3978229525",
+      "0a44d364797149a7c79396b17fa67ad0",
+      "64f9486562cfab4f6929e0ecdcdf619b"
+    ]
+  },
+  {
+    "hash": "ed72a701b8dfa01b0f8f974075edaa55",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Q&A: The Arctic melt season is a week longer now than it was in the 1980s, shows new UW research on sea ice trends",
+    "link": "https://alaska-native-news.com/qa-the-arctic-melt-season-is-a-week-longer-now-than-it-was-in-the-1980s-shows-new-uw-research-on-sea-ice-trends/86069/",
+    "published": "Sat, 05 Sep 2026 14:03:14 +0000",
+    "summary": "Relatively few people have been to the Arctic, and even fewer have set foot in Antarctica. Most of us rely on our imaginations and media to visualize these landscapes and the ways they are changing. Research shows that the Arctic is warming four times faster than the global average. The sea ice is m...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-05T14:03:14+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d6f06a94ba09115b76022b01ecf4a59f",
+      "51249b2474d4ec2befcd33259b65aa9b",
+      "5b8be11af2876bdb214a6ca03237c401",
+      "ee2dab21958756d7d134e0f219ccf728",
+      "dc6b414b8b17befcabd211a0b6eeb7c6"
+    ]
+  },
+  {
+    "hash": "4dba4c2784844671445af5b9c49592cc",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "\u2018Outrageous\u2019: Pentagon Secretly Working to Divert Billions From National Institutes of Health",
+    "link": "https://alaska-native-news.com/outrageous-pentagon-secretly-working-to-divert-billions-from-national-institutes-of-health/86067/",
+    "published": "Sat, 05 Sep 2026 14:02:35 +0000",
+    "summary": "\u201cThese funds were provided for lifesaving medical research, not as extra money for the Department of Defense,\u201d said Rep. Rosa DeLauro. US President Donald Trump\u2019s Department of Defense is reportedly working to divert billions of dollars in federal funding from the National Institutes of Health to bo...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-05T14:02:35+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d6f06a94ba09115b76022b01ecf4a59f",
+      "51249b2474d4ec2befcd33259b65aa9b",
+      "5b8be11af2876bdb214a6ca03237c401",
+      "ee2dab21958756d7d134e0f219ccf728",
+      "dc6b414b8b17befcabd211a0b6eeb7c6"
+    ]
+  },
+  {
+    "hash": "16395325ab435822b2d6545374790d12",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Trump EPA Takes \u2018Yet Another Sledgehammer\u2019 to Clean Water Act",
+    "link": "https://alaska-native-news.com/trump-epa-takes-yet-another-sledgehammer-to-clean-water-act/86064/",
+    "published": "Sat, 05 Sep 2026 14:01:17 +0000",
+    "summary": "\u201cThis proposal declares open season on the nation\u2019s waterways,\u201d one critic charged. President Donald Trump\u2019s administration sparked fresh fury on Friday when it proposed a supplemental rule to further gut Clean Water Act protections for streams and wetlands in the wake of a \u201ccatastrophic\u201d US Supreme...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-05T14:01:17+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d6f06a94ba09115b76022b01ecf4a59f",
+      "51249b2474d4ec2befcd33259b65aa9b",
+      "5b8be11af2876bdb214a6ca03237c401",
+      "ee2dab21958756d7d134e0f219ccf728",
+      "dc6b414b8b17befcabd211a0b6eeb7c6"
+    ]
+  },
+  {
+    "hash": "dec2adda882a8972a97a1a13279786f0",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "This Day in Alaska History-September 5th,  1881",
+    "link": "https://alaska-native-news.com/september-5th-1881/44390/",
+    "published": "Sat, 05 Sep 2026 14:00:23 +0000",
+    "summary": "When Mottrom Dulany Ball left Virginia for Alaska in 1878, he was not setting out to become a pioneer in the usual sense. He was a lawyer, former Confederate cavalry officer, newspaper editor and political figure whose career had taken an unexpected turn following the Civil War. His appointment to A...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-05T14:00:23+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d6f06a94ba09115b76022b01ecf4a59f",
+      "51249b2474d4ec2befcd33259b65aa9b",
+      "5b8be11af2876bdb214a6ca03237c401",
+      "ee2dab21958756d7d134e0f219ccf728",
+      "dc6b414b8b17befcabd211a0b6eeb7c6"
+    ]
+  },
+  {
     "hash": "d6a4d47e373e156028db25f7917d4921",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -4324,11 +4860,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4399,11 +4935,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4449,11 +4985,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4474,11 +5010,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4499,11 +5035,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4524,11 +5060,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4549,11 +5085,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4574,11 +5110,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -4599,11 +5135,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -9686,6 +10222,31 @@
     ]
   },
   {
+    "hash": "0a44d364797149a7c79396b17fa67ad0",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Former employee indicted for embezzling from Native Village of Mary\u2019s Igloo Traditional Council",
+    "link": "https://alaska-native-news.com/former-employee-indicted-for-embezzling-from-native-village-of-marys-igloo-traditional-council/86044/",
+    "published": "Fri, 04 Sep 2026 14:05:15 +0000",
+    "summary": "FAIRBANKS, Alaska \u2013 A federal grand jury in Alaska returned an indictment last month charging a former employee of a federally recognized Tribe located in Western Alaska with embezzling over $88,000 from the Tribal organization. According to court documents, between January 1, 2018, and Aug. 31, 202...",
+    "dataTag": "[Region: Interior] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-04T14:05:15+00:00",
+    "impactScore": 38,
+    "region": "Interior",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "30199a196af119ac9a23c4a65c816fe0",
+      "87414bcaabcf900e982d05de18a6deec",
+      "52cc171059fdb8418c61bfaa61d31ae8",
+      "d195d1a1fc83951bdabc5f8218c9959a",
+      "97035a1c2459a9242f2c1f0d935d2b0b"
+    ]
+  },
+  {
     "hash": "d815a931a90c3a1c7b1bf870476f4ee6",
     "source": "The Cordova Times",
     "category": "Regional",
@@ -9708,6 +10269,31 @@
       "48a4a9e64f98d39640fbbe6da28c039e",
       "dd61b97f21c2fd6adcdafa60238d71f7",
       "71c731f29199003cdcb0588b7104a841"
+    ]
+  },
+  {
+    "hash": "64f9486562cfab4f6929e0ecdcdf619b",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "ACEP receives $3 million to advance energy resilience",
+    "link": "https://alaska-native-news.com/acep-receives-3-million-to-advance-energy-resilience/86047/",
+    "published": "Fri, 04 Sep 2026 14:04:58 +0000",
+    "summary": "The Alaska Center for Energy and Power at the University of Alaska Fairbanks has received $3 million to study technology that can strengthen energy systems in remote and strategically important regions. The Office of Naval Research award will support the work of the Alaska Regional Collaboration for...",
+    "dataTag": "[Region: Interior] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-04T14:04:58+00:00",
+    "impactScore": 38,
+    "region": "Interior",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "30199a196af119ac9a23c4a65c816fe0",
+      "87414bcaabcf900e982d05de18a6deec",
+      "52cc171059fdb8418c61bfaa61d31ae8",
+      "d195d1a1fc83951bdabc5f8218c9959a",
+      "97035a1c2459a9242f2c1f0d935d2b0b"
     ]
   },
   {

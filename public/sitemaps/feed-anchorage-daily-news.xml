@@ -89,6 +89,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/07/deadly-iran-wedding-strike-likely-due-to-us-bomb-missing-a-nearby-target/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06</news:publication_date>
+      <news:title>Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/06/german-far-right-party-set-for-regional-election-triumph-but-uncertain-of-governing/</loc>
     <news:news>
       <news:publication>
@@ -119,6 +130,17 @@
       </news:publication>
       <news:publication_date>2026-09-06</news:publication_date>
       <news:title>Tlingit opera to bring 1800s Tlingit-Russian battles to the stage in Juneau</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/07/judge-weighs-whether-reflecting-pool-charge-against-olympian-should-be-out-for-good/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06</news:publication_date>
+      <news:title>Judge weighs whether Reflecting Pool charge against Olympian should be out for good</news:title>
     </news:news>
   </url>
   <url>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-10</news:publication_date>
       <news:title>RFK Jr. is targeting a decades-old loophole allowing chemicals in food supply</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/water-systems-are-ripe-for-cyberattacks-experts-warn-after-suspected-iranian-hacks/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>Water systems are ripe for cyberattacks, experts warn after suspected Iranian hacks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/they-said-they-would-build-ai-safely-then-it-went-rogue/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>They said they would build AI safely. Then it went rogue.</news:title>
     </news:news>
   </url>
 </urlset>

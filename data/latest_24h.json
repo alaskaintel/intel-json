@@ -1,5 +1,105 @@
 [
   {
+    "hash": "66a0d7c590937edadd92ce6927d761cd",
+    "source": "Juneau Empire",
+    "category": "Regional",
+    "title": "State experts talk about tsunami, landslide risks for Southeast Alaska",
+    "link": "https://www.juneauempire.com/2026/09/07/state-experts-talk-about-tsunami-landslide-risks-for-southeast-alaska/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "With glacial flooding last month in Juneau, a landslide-driven tsunami last year in Tracy Arm, deadly landslides in Wrangell in 2023 and in Sitka, Haines and Ketchikan in recent years, the presence of natural disasters in Southeast Alaska is becoming more apparent.",
+    "dataTag": "[Region: Southeast] [Category: Regional]",
+    "sourceAttribution": "Source: Juneau Empire",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 65,
+    "region": "Southeast",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "bb9812d8aea6cecbbe69104e9ca4cb34",
+      "e5001a179e9914a97f50e41c2f2938ea",
+      "ec494c537a4869d6c1ba55c12109d0af",
+      "900fbe7df9bca7c8d7e95ceb86786faf",
+      "0e5fbc81a711c665854a33153a73ea0f"
+    ]
+  },
+  {
+    "hash": "f72c074d034a83a30169072d524a52f1",
+    "source": "Juneau Empire",
+    "category": "Regional",
+    "title": "OPINION: The form that takes away your health care",
+    "link": "https://www.juneauempire.com/2026/09/07/opinion-the-form-that-takes-away-your-health-care/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "Medicaid recipients must prove themselves while Washington escapes scrutiny",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Juneau Empire",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "b03962017949f91100534546ef674c0c",
+    "source": "Homer News",
+    "category": "Regional",
+    "title": "OPINION: The form that takes away your health care",
+    "link": "https://www.homernews.com/2026/09/07/opinion-the-form-that-takes-away-your-health-care/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "Medicaid recipients must prove themselves while Washington escapes scrutiny",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Homer News",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "58364448136c6264c5fcb16e8e0ab7fa",
+    "source": "Peninsula Clarion",
+    "category": "Regional",
+    "title": "OPINION: The form that takes away your health care",
+    "link": "https://www.peninsulaclarion.com/2026/09/07/opinion-the-form-that-takes-away-your-health-care/",
+    "published": "Mon, 07 Sep 2026 11:30:00 +0000",
+    "summary": "Medicaid recipients must prove themselves while Washington escapes scrutiny",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Peninsula Clarion",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T11:30:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
     "hash": "a6ddc33dd680eb10b99b0d5df9be1639",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -17,11 +117,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -42,11 +142,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -67,11 +167,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
       "cf035c19fdefc865a7c04d63ba572540",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -92,11 +192,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -319,6 +419,56 @@
     "relatedSignalIds": []
   },
   {
+    "hash": "e09298201e9fe4777646ae09715be54b",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "XCOTTON Helps Global Brands Protect Every Customer After Purchase",
+    "link": "https://www.newsminer.com/online_features/press_releases/xcotton-helps-global-brands-protect-every-customer-after-purchase/article_13e7f5c3-ced2-5005-994e-4a19bf4afb00.html",
+    "published": "Sun, 06 Sep 2026 19:59:00 -0800",
+    "summary": "LOS ANGELES and NEW YORK and LAS VEGAS, Sept. 6, 2026 /PRNewswire/ -- As IFA 2026 enters its final days in Berlin, global brands are showcasing the next generation of products designed to improve everyday life\u2014from smart home solutions and\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/e/1f/e1f6815f-604c-5996-8023-295d0bc4158c/6a9e9375c0e63.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:59:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "6704211c3782a76ba3b7af10ccc254b5",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "XCOTTON Helps Global Brands Protect Every Customer After Purchase",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_e8454ed5-8a4f-5a33-8783-b852af723691.html",
+    "published": "Sun, 06 Sep 2026 19:59:00 -0800",
+    "summary": "LOS ANGELES and NEW YORK and LAS VEGAS, Sept. 6, 2026 /PRNewswire/ -- As IFA 2026 enters its final days in Berlin, global brands are showcasing the next generation of products designed to improve everyday life\u2014from smart home solutions and\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/8/fb/8fb6f9f8-ff66-5017-907a-2627d4f450af/6a9e936bda1ab.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:59:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
     "hash": "6a44aa56e0c94c5294949de874ebaedd",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -336,11 +486,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "4cefde0cad74d69f307c7e8cd54595dc"
     ]
   },
   {
@@ -361,11 +511,161 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "927b78d123675a190bedd18abff5d365",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Park Systems Expands North American Footprint with New Regional Office in Hillsboro, Oregon",
+    "link": "https://www.newsminer.com/online_features/press_releases/park-systems-expands-north-american-footprint-with-new-regional-office-in-hillsboro-oregon/article_104bb25c-046d-59e8-8cde-800b9e0d9760.html",
+    "published": "Sun, 06 Sep 2026 19:10:00 -0800",
+    "summary": "SANTA CLARA, Calif., Sept. 6, 2026 /PRNewswire/ -- Park Systems, a leading global manufacturer of atomic force microscopy (AFM) and nanoscale metrology systems, today announced the opening of its newest regional office in Hillsboro, Oregon. The strategic addition enhances the\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/c/ab/cabc1a8d-adb0-5203-851f-31435414343a/6a9e9376c288d.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:10:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "15af7e8b1bcd9f133570f2db29385b06",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Park Systems Expands North American Footprint with New Regional Office in Hillsboro, Oregon",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_2d054861-25e0-5f54-811a-e7231434fe4d.html",
+    "published": "Sun, 06 Sep 2026 19:10:00 -0800",
+    "summary": "SANTA CLARA, Calif., Sept. 6, 2026 /PRNewswire/ -- Park Systems, a leading global manufacturer of atomic force microscopy (AFM) and nanoscale metrology systems, today announced the opening of its newest regional office in Hillsboro, Oregon. The strategic addition enhances the\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/d/d7/dd760a52-987f-52b6-9581-dd14bd534a47/6a9e936ce2447.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T03:10:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "dcfbf266943877d384e5867df390f9ea",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Author Tom Holtom Releases \u201cSemper Fidelis,\u201d a Tribute to the Marines Who Never Came Home, Until Now",
+    "link": "https://www.newsminer.com/online_features/press_releases/author-tom-holtom-releases-semper-fidelis-a-tribute-to-the-marines-who-never-came-home/article_4088c15e-4cfd-5c10-8bb2-fc39598f3396.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "A personal and historical novel about Carlson\u2019s Raiders, one family\u2019s decades-long wait, and the Marines who kept their promise to bring the fallen home",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/3/53/3535cec8-b261-5415-8d96-e34c2b954aa6/6a9e937653f23.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "f37c2805a96e56491ee6accdce60d6fd",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Tom Holtom\u2019s \u201cSemper Fidelis\u201d Captures the Human Cost of War Through One Marine Family\u2019s Sacrifice",
+    "link": "https://www.newsminer.com/online_features/press_releases/tom-holtom-s-semper-fidelis-captures-the-human-cost-of-war-through-one-marine-family/article_8334dd88-8bab-5f5d-aab5-e023eb548141.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "New book follows one Marine family across generations, from the uncertainty of World War II to a long-awaited homecoming.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/b/a1/ba16e3a0-836b-5df6-8ee8-41a2a6bc3d40/6a9e93768a290.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "faacab1c21cf965cda06378027ccd91e",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Author Tom Holtom Releases \u201cSemper Fidelis,\u201d a Tribute to the Marines Who Never Came Home, Until Now",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_60a33d52-8c37-59c1-b706-eb1471bbf168.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "A personal and historical novel about Carlson\u2019s Raiders, one family\u2019s decades-long wait, and the Marines who kept their promise to bring the fallen home",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/6/80/680f0619-33ea-58a5-a810-bbb375c5ef11/6a9e936c729a2.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
+    "hash": "f910d13c00ab4e2dedf96e08c18ef9b2",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Tom Holtom\u2019s \u201cSemper Fidelis\u201d Captures the Human Cost of War Through One Marine Family\u2019s Sacrifice",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_7964849a-c9dc-5dd1-9a50-b03b2c65c005.html",
+    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
+    "summary": "New book follows one Marine family across generations, from the uncertainty of World War II to a long-awaited homecoming.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/d/9a/d9aee0fa-553f-5c4f-a2f2-110cb9a4c00a/6a9e936ca99bf.image.jpg?resize=300%2C462",
+    "timestamp": "2026-09-07T02:15:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
     ]
   },
   {
@@ -483,11 +783,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "65425b0189654cda290c4a9dbea23965",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -508,11 +808,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "69b0fc6aa8406461701e87ebc518a4c9"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -533,11 +833,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -558,11 +858,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -583,11 +883,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -608,11 +908,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -691,6 +991,31 @@
     ]
   },
   {
+    "hash": "1113490af0ba7a6d59267dc4bf43626d",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target",
+    "link": "https://www.adn.com/nation-world/2026/09/07/deadly-iran-wedding-strike-likely-due-to-us-bomb-missing-a-nearby-target/",
+    "published": "Sun, 06 Sep 2026 22:29:00 +0000",
+    "summary": "The Pentagon is investigating the high likelihood that an explosion in southern Iran that destroyed a home hosting a wedding celebration was caused by a U.S. bomb that missed a nearby target, a person familiar with the operation said. The strike on the home, which Iranian officials said killed at le...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/3aNPK8SUQ9pt-3g1jJMeNKj3pN8=/cloudfront-us-east-1.images.arcpublishing.com/adn/M4QHQU6QBUR2SB4HXRMIAMT7JE.jpg",
+    "timestamp": "2026-09-06T22:29:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
+    ]
+  },
+  {
     "hash": "d597b1ff672d6f95b1eb3ca9e5f2ef41",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -708,11 +1033,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -783,11 +1108,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -835,11 +1160,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -860,11 +1185,36 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "be6cf42708a29a54eda5c2c93058b9b8",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Judge weighs whether Reflecting Pool charge against Olympian should be out for good",
+    "link": "https://www.adn.com/nation-world/2026/09/07/judge-weighs-whether-reflecting-pool-charge-against-olympian-should-be-out-for-good/",
+    "published": "Sun, 06 Sep 2026 20:23:00 +0000",
+    "summary": "A judge in D.C. pressed federal prosecutors to explain Friday why they should keep the option to reopen a case against a former Olympian who had been accused of vandalizing the Lincoln Memorial Reflecting Pool even as they acknowledged there is no evidence linking him to a crime. Assistant U.S. Atto...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/bVctpx8ghpqhI_jpC-t_V8wzIVc=/cloudfront-us-east-1.images.arcpublishing.com/adn/4Y5CMDLJFGDJ3GHXR2Q4UL5GTQ.jpg",
+    "timestamp": "2026-09-06T20:23:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d7ee150dc021ae3ee11c2b544dc4df3e",
+      "9914ab083abed15771a2210200817d4c",
+      "c73c3917c4bcebaa4ab01f8aca95b625",
+      "1072dd67ef34bd23fdaa4a3e525be042",
+      "7142b6b1e55d1e0c081821e437fbf290"
     ]
   },
   {
@@ -968,6 +1318,25 @@
     ]
   },
   {
+    "hash": "3283dbae018e8fd1b061aab415209dbe",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Man Driving While at Four Times Legal Limit Arrested on Kenai Peninsula",
+    "link": "https://alaska-native-news.com/man-driving-while-at-four-times-legal-limit-arrested-on-kenai-peninsula/86118/",
+    "published": "Sun, 06 Sep 2026 20:01:34 +0000",
+    "summary": "On Thursday, just before 3 pm, Alaska Wildlife Troopers (AWT) observed a white pickup truck in the ditch near the intersection of Swanson River Road and Jacobson Avenue. Troopers contacted the driver, identified as 50-year-old Jason Daniels, and observed signs consistent with alcohol impairment. Dan...",
+    "dataTag": "[Region: Southcentral] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-06T20:01:34+00:00",
+    "impactScore": 38,
+    "region": "Cook Inlet",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": []
+  },
+  {
     "hash": "a226cbb9be82708e7c9b819d0fb12e91",
     "source": "Anchorage Daily News",
     "category": "News",
@@ -1010,11 +1379,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1035,11 +1404,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1179,11 +1548,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1231,11 +1600,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1306,11 +1675,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1331,11 +1700,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1356,11 +1725,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -1381,11 +1750,32 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
+    ]
+  },
+  {
+    "hash": "8093674768465455313bf8b69e4b7b6b",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "This Day in Alaska History-September 6th, 1867",
+    "link": "https://alaska-native-news.com/september-6th-1867/44415/",
+    "published": "Sun, 06 Sep 2026 14:00:49 +0000",
+    "summary": "On September 6, 1867, Union Brigadier General Jefferson C. Davis-not the Confederate president Jefferson Davis-was appointed the first commander of U.S. military forces in the newly established District of Alaska. The following year, Davis ordered Russian residents in Sitka to leave their homes, say...",
+    "dataTag": "[Region: Southeast] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-06T14:00:49+00:00",
+    "impactScore": 38,
+    "region": "Southeast",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "5bd20013dccb404bddbebba76a25437a"
     ]
   },
   {
@@ -2231,11 +2621,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a6ddc33dd680eb10b99b0d5df9be1639",
+      "9af50f5ba441b5e62614aabee9c7e6ae",
+      "774132442e383a826c0232bd1a413039",
       "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
+      "6a44aa56e0c94c5294949de874ebaedd"
     ]
   },
   {
@@ -2304,306 +2694,6 @@
     "region": "Statewide",
     "sector": "governance",
     "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d7ee150dc021ae3ee11c2b544dc4df3e",
-      "9914ab083abed15771a2210200817d4c",
-      "c73c3917c4bcebaa4ab01f8aca95b625",
-      "1072dd67ef34bd23fdaa4a3e525be042",
-      "7142b6b1e55d1e0c081821e437fbf290"
-    ]
-  },
-  {
-    "hash": "d8f79d6f916271bc4af929a260f1e731",
-    "source": "Peninsula Clarion",
-    "category": "Regional",
-    "title": "Pumpkin Festival to bring fall crowds back to Kenai Greenstrip",
-    "link": "https://www.peninsulaclarion.com/2026/09/06/pumpkin-festival-to-bring-fall-crowds-back-to-kenai-greenstrip/",
-    "published": "Sun, 06 Sep 2026 12:30:00 +0000",
-    "summary": "Free Oct. 10 event adds an extra hour, six food trucks and new activities",
-    "dataTag": "[Region: Southcentral] [Category: Regional]",
-    "sourceAttribution": "Source: Peninsula Clarion",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T12:30:00+00:00",
-    "impactScore": 30,
-    "region": "Cook Inlet",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "7f949b63bf28a41b75cbdb2ccc469421",
-      "a226cbb9be82708e7c9b819d0fb12e91",
-      "256eaf7a98dafaf3571da6c03ef84238",
-      "d1b810fcf431699c0162ec039bcac8fe",
-      "6bab8d139971de2ebc3bab6286c91280"
-    ]
-  },
-  {
-    "hash": "6b87168effe6d02a8760a9e7d2edb735",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 2.5 - 93 km S of Kokhanok, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrafwf",
-    "published": "",
-    "summary": "Time 2026-09-06 12:23:47 UTC 2026-09-06 12:23:47 UTC at epicenter Location 58.614\u00b0N 155.038\u00b0W Depth 133.30 km (82.83 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T12:23:47+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
-    ]
-  },
-  {
-    "hash": "722de44512796ed4b17194b7cfcf68d9",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Strategies to prevent cardiovascular diseases",
-    "link": "https://www.newsminer.com/extra/alaska_pulse/strategies-to-prevent-cardiovascular-diseases/article_2d22c527-7c05-4087-8702-ea2f6433ca22.html",
-    "published": "Sun, 06 Sep 2026 04:15:00 -0800",
-    "summary": "Heart disease and strokes are leading causes of death in the United States. While you can't change some risk factors for it, such as family history, you can take steps to lower the risk of heart disease.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/c/a8/ca896d31-313f-450e-b54b-b446d6c6c856/6a9cb4d67621f.image.jpg?resize=300%2C391",
-    "timestamp": "2026-09-06T12:15:00+00:00",
-    "impactScore": 50,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d7ee150dc021ae3ee11c2b544dc4df3e",
-      "9914ab083abed15771a2210200817d4c",
-      "c73c3917c4bcebaa4ab01f8aca95b625",
-      "1072dd67ef34bd23fdaa4a3e525be042",
-      "7142b6b1e55d1e0c081821e437fbf290"
-    ]
-  },
-  {
-    "hash": "f2c7df07b9bab09847a3b5e5dfb49175",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 2.5 - 90 km WSW of Akhiok, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqzrqb",
-    "published": "",
-    "summary": "Time 2026-09-06 12:07:21 UTC 2026-09-06 12:07:21 UTC at epicenter Location 56.764\u00b0N 155.614\u00b0W Depth 0.40 km (0.25 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T12:07:21+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
-    ]
-  },
-  {
-    "hash": "51249b2474d4ec2befcd33259b65aa9b",
-    "source": "Indian Country Today Alaska",
-    "category": "Native",
-    "title": "Suicide deaths and attempts among Alaska youth continue at high rates, report shows",
-    "link": "https://ictnews.org/uncategorized/suicide-deaths-and-attempts-among-alaska-youth-continue-at-high-rates-report-shows/",
-    "published": "Sun, 06 Sep 2026 12:00:00 +0000",
-    "summary": "Trigger warning : This story contains material about suicides and suicidal ideations. If you or someone you know is in need of support, resources for American Indians, Alaska Natives, and Indigenous peoples can be found at 988 Lifeline\u2019s website . The 988 Lifeline is a national suicide and crisis li...",
-    "dataTag": "[Region: Southcentral] [Category: Native]",
-    "sourceAttribution": "Source: Indian Country Today Alaska",
-    "imageUrl": "https://i0.wp.com/ictnews.org/wp-content/uploads/2026/09/20260902_162523-2048x1536-1.jpg?fit=1024%2C768&ssl=1",
-    "timestamp": "2026-09-06T12:00:00+00:00",
-    "impactScore": 63,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d6f06a94ba09115b76022b01ecf4a59f",
-      "5b8be11af2876bdb214a6ca03237c401",
-      "ee2dab21958756d7d134e0f219ccf728",
-      "dc6b414b8b17befcabd211a0b6eeb7c6",
-      "1afc0fa2a78e129a353fd3f2661c283e"
-    ]
-  },
-  {
-    "hash": "60581bb3f86fccc4e8f6150edc28500d",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.5 - 3 km NE of Big Lake, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqzhzr",
-    "published": "",
-    "summary": "Time 2026-09-06 11:56:17 UTC 2026-09-06 11:56:17 UTC at epicenter Location 61.549\u00b0N 149.912\u00b0W Depth 30.20 km (18.77 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T11:56:17+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
-    ]
-  },
-  {
-    "hash": "ad0bdaf080f7670402bd3589bdd9ebc5",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.8 - 77 km WNW of Tyonek, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqyobb",
-    "published": "",
-    "summary": "Time 2026-09-06 11:33:15 UTC 2026-09-06 11:33:15 UTC at epicenter Location 61.291\u00b0N 152.496\u00b0W Depth 5.00 km (3.11 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T11:33:15+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
-    ]
-  },
-  {
-    "hash": "05a43d85fb8c07ab2422e46cc62a7198",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Editor's note",
-    "link": "https://www.newsminer.com/extra/alaska_pulse/editors-note/article_008232e8-cd7b-41a2-8228-d0035da1ef0c.html",
-    "published": "Sun, 06 Sep 2026 03:00:00 -0800",
-    "summary": "This issue marks five years since I took the helm of Alaska Pulse. In that time, we've explored everything from heart health and cancer to nutrition, sleep, aging, mental health and the remarkable ways the human body can heal itself.\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T11:00:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d7ee150dc021ae3ee11c2b544dc4df3e",
-      "9914ab083abed15771a2210200817d4c",
-      "c73c3917c4bcebaa4ab01f8aca95b625",
-      "1072dd67ef34bd23fdaa4a3e525be042",
-      "7142b6b1e55d1e0c081821e437fbf290"
-    ]
-  },
-  {
-    "hash": "c2cff3d914d96c12cf43d0deae01d778",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 2.6 - 3 km SSW of Chenega, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rqxcnx",
-    "published": "",
-    "summary": "Time 2026-09-06 10:50:00 UTC 2026-09-06 10:50:00 UTC at epicenter Location 60.038\u00b0N 148.025\u00b0W Depth 36.80 km (22.87 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T10:50:00+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "cf035c19fdefc865a7c04d63ba572540",
-      "6a44aa56e0c94c5294949de874ebaedd",
-      "4cefde0cad74d69f307c7e8cd54595dc",
-      "575b80a5d53c3c13d9c27c032963dc8c",
-      "65425b0189654cda290c4a9dbea23965"
-    ]
-  },
-  {
-    "hash": "55aa211b8cbbfb23ad56e21810c90125",
-    "source": "Juneau Empire",
-    "category": "Regional",
-    "title": "OPINION: Crooked path may be only straight answer for gas pipeline",
-    "link": "https://www.juneauempire.com/2026/09/06/opinion-crooked-path-may-be-only-straight-answer-for-gas-pipeline/",
-    "published": "Sun, 06 Sep 2026 10:30:00 +0000",
-    "summary": "President Donald Trump has a lot of irresponsible ideas: Igniting a trade war with Canada because I figure he never liked hockey; declaring that Lake Ontario should forever more be called Lake America because it\u2019s easier to spell; and taking much of Venezuela\u2019s oil because no one can stop him and he...",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Juneau Empire",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T10:30:00+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d7ee150dc021ae3ee11c2b544dc4df3e",
-      "9914ab083abed15771a2210200817d4c",
-      "c73c3917c4bcebaa4ab01f8aca95b625",
-      "1072dd67ef34bd23fdaa4a3e525be042",
-      "7142b6b1e55d1e0c081821e437fbf290"
-    ]
-  },
-  {
-    "hash": "fbbcf78746d7dc406eccf456201c9240",
-    "source": "Homer News",
-    "category": "Regional",
-    "title": "OPINION: Crooked path may be only straight answer for gas pipeline",
-    "link": "https://www.homernews.com/2026/09/06/opinion-crooked-path-may-be-only-straight-answer-for-gas-pipeline/",
-    "published": "Sun, 06 Sep 2026 10:30:00 +0000",
-    "summary": "President Donald Trump has a lot of irresponsible ideas: Igniting a trade war with Canada because I figure he never liked hockey; declaring that Lake Ontario should forever more be called Lake America because it\u2019s easier to spell; and taking much of Venezuela\u2019s oil because no one can stop him and he...",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Homer News",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T10:30:00+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d7ee150dc021ae3ee11c2b544dc4df3e",
-      "9914ab083abed15771a2210200817d4c",
-      "c73c3917c4bcebaa4ab01f8aca95b625",
-      "1072dd67ef34bd23fdaa4a3e525be042",
-      "7142b6b1e55d1e0c081821e437fbf290"
-    ]
-  },
-  {
-    "hash": "fb925d7e956aecad5062d5fa8e57a46a",
-    "source": "Peninsula Clarion",
-    "category": "Regional",
-    "title": "OPINION: Crooked path may be only straight answer for gas pipeline",
-    "link": "https://www.peninsulaclarion.com/2026/09/06/opinion-crooked-path-may-be-only-straight-answer-for-gas-pipeline/",
-    "published": "Sun, 06 Sep 2026 10:30:00 +0000",
-    "summary": "President Donald Trump has a lot of irresponsible ideas: Igniting a trade war with Canada because I figure he never liked hockey; declaring that Lake Ontario should forever more be called Lake America because it\u2019s easier to spell; and taking much of Venezuela\u2019s oil because no one can stop him and he...",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Peninsula Clarion",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T10:30:00+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
       "d7ee150dc021ae3ee11c2b544dc4df3e",
