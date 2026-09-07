@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrycnr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>M 2.7 - 46 km N of Valdez, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxzxo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>M 1.2 - 10 km E of Fox, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>M 2.3 - 8 km N of Meadow Lakes, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxnpv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>M 1.0 - 87 km NW of Karluk, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxaqi</loc>
     <news:news>
       <news:publication>
@@ -20,6 +64,17 @@
       </news:publication>
       <news:publication_date>2026-09-06</news:publication_date>
       <news:title>M 2.7 - 139 km WNW of Arctic Village, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrwrsv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06</news:publication_date>
+      <news:title>M 2.8 - 138 km ENE of Anaktuvuk Pass, Alaska</news:title>
     </news:news>
   </url>
   <url>
@@ -10943,61 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-07</news:publication_date>
       <news:title>M 1.5 - 39 km WNW of Anchor Point, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pngzvi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>M 2.2 - 88 km ENE of Ouzinkie, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pneluv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>M 0.9 - 80 km NNW of Karluk, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmxivz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>M 1.8 - 16 km ENE of Willow, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmsqsd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>M 2.5 - 40 km WNW of Four Mile Road, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pmrvwz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>M 2.0 - 26 km SW of Cantwell, Alaska</news:title>
     </news:news>
   </url>
 </urlset>
