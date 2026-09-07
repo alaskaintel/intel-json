@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/07/trump-suggests-renaming-new-mexico-amid-torrent-of-online-memes-and-taunts/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>Trump suggests renaming New Mexico amid torrent of online memes and taunts</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/07/israeli-airstrikes-on-a-village-in-southern-lebanon-kill-12-people-including-2-children/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/07/nannies-for-millionaires-this-states-free-child-care-program-had-a-rocky-start/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>‘Nannies for Millionaires’? This state’s free childcare program had a rocky start.</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/07/the-poorest-in-the-us-cant-find-housing-even-as-low-income-units-sit-empty/</loc>
     <news:news>
       <news:publication>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-10</news:publication_date>
       <news:title>Ingebrigtsen wins 5,000m gold at European championships, Hunt takes women’s 100m</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/alaska-life/advice/2026/08/10/i-treat-brain-fog-here-are-6-surprising-causes-many-people-overlook/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>I treat brain fog. Here are 6 surprising causes many people overlook.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/canada-puts-the-military-on-standby-as-british-columbia-wildfires-kill-1-and-displace-thousands/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>Canada puts the military on standby as British Columbia wildfires kill 1 and displace thousands</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/sports/2026/08/10/alaska-sports-notebook-uaa-gymnastics-announces-new-recruits-abl-all-league-teams-unveiled/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>Alaska sports notebook: UAA gymnastics announces new recruits, ABL All-League Teams unveiled</news:title>
     </news:news>
   </url>
 </urlset>
