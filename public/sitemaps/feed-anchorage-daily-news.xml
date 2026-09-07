@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/alaska-life/advice/2026/09/07/miss-manners-are-some-rules-of-etiquette-more-important-than-others/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>Miss Manners: Are some rules of etiquette more important than others?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/alaska-life/advice/2026/09/07/dear-annie-how-many-of-you-are-actually-able-to-take-the-time-to-reset-and-rest-today/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>Dear Annie: How many of you are actually able to take the time to reset and rest today?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/alaska-life/advice/2026/09/07/asking-eric-i-matched-with-my-pastor-on-a-dating-app-do-i-tell-him-i-know-him-in-real-life/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>Asking Eric: I matched with my pastor on a dating app. Do I tell him I know him in real life?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/06/these-teachers-fight-ai-cheating-with-classes-that-force-students-to-show-they-are-learning/</loc>
     <news:news>
       <news:publication>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-10</news:publication_date>
       <news:title>They said they would build AI safely. Then it went rogue.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/ukraines-push-to-cripple-russia-in-crimea-is-just-getting-started-drone-chief-says/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>Ukraine’s push to cripple Russia in Crimea is just getting started, drone chief says</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/wisconsin-and-minnesota-primaries-next-to-feature-progressive-clash-with-democratic-establishment/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>Wisconsin and Minnesota primaries next to feature progressive clash with Democratic establishment</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/20-dead-and-buildings-collapsed-after-74-magnitude-earthquake-shakes-western-colombia/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>20 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia</news:title>
     </news:news>
   </url>
 </urlset>
