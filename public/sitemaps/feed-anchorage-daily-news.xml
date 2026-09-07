@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/alaska-news/mat-su/2026/09/07/antimony-plant-offloaded-at-port-mackenzie-up-to-40-jobs-planned/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>Antimony plant offloaded at Port MacKenzie; up to 40 jobs planned</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/07/as-social-security-fund-runs-dry-some-republicans-say-its-time-to-raise-taxes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>As Social Security fund runs dry, some Republicans say it’s time to raise taxes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/business-economy/energy/2026/09/07/state-owned-gasline-corporation-says-it-will-continue-to-pursue-alaska-lng-pipeline-in-2027/</loc>
     <news:news>
       <news:publication>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Anchorage begins motel demolition in push to clean up blighted buildings</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/sports/national-sports/2026/08/10/the-pull-of-a-home-olympics-why-us-medalists-are-coming-back-for-los-angeles-2028/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>The pull of a home Olympics: Why US medalists are coming back for Los Angeles 2028</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/10/a-twist-in-the-race-for-lindsey-grahams-seat-no-clear-trump-aligned-candidate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10</news:publication_date>
-      <news:title>A twist in the race for Lindsey Graham’s seat: No clear Trump-aligned candidate</news:title>
     </news:news>
   </url>
 </urlset>

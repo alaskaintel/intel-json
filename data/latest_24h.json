@@ -1,5 +1,127 @@
 [
   {
+    "hash": "a6db4fd727eef3d84c0103481916ca40",
+    "source": "Peninsula Clarion",
+    "category": "Regional",
+    "title": "Kenai voters to decide on $75,000 property tax exemption",
+    "link": "https://www.peninsulaclarion.com/2026/09/07/kenai-voters-to-decide-on-75000-property-tax-exemption/",
+    "published": "Mon, 07 Sep 2026 23:30:00 +0000",
+    "summary": "New measure could save eligible homeowners up to $326.25 each year",
+    "dataTag": "[Region: Southcentral] [Category: Regional]",
+    "sourceAttribution": "Source: Peninsula Clarion",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T23:30:00+00:00",
+    "impactScore": 30,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "3e9a05cbb6c1915372d1853d4f774886",
+      "6cd249055156e0038a3795db0a4c9fb6",
+      "7f949b63bf28a41b75cbdb2ccc469421",
+      "a226cbb9be82708e7c9b819d0fb12e91",
+      "256eaf7a98dafaf3571da6c03ef84238"
+    ]
+  },
+  {
+    "hash": "6a6f57f6477247d3550cc1cdae752871",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Antimony plant offloaded at Port MacKenzie; up to 40 jobs planned",
+    "link": "https://www.adn.com/alaska-news/mat-su/2026/09/07/antimony-plant-offloaded-at-port-mackenzie-up-to-40-jobs-planned/",
+    "published": "Mon, 07 Sep 2026 23:24:18 +0000",
+    "summary": "Equipment for a pilot plant at Port MacKenzie that will process antimony ore and employ about 40 people over the next two years was unloaded Sunday from a barge. The barge pulled into port at about 2 a.m., and more than 40 containers were moved ashore starting mid-morning, borough officials said. \u201cI...",
+    "dataTag": "[Region: Mat-Su] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/HcaSTzYW8K3qOYCpc1VOTLpEEWQ=/cloudfront-us-east-1.images.arcpublishing.com/adn/IHOQJWGPPBFZFFBKXRB2BHKPCE.jpg",
+    "timestamp": "2026-09-07T23:24:18+00:00",
+    "impactScore": 30,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "3e9a05cbb6c1915372d1853d4f774886",
+      "6cd249055156e0038a3795db0a4c9fb6",
+      "7f949b63bf28a41b75cbdb2ccc469421",
+      "a226cbb9be82708e7c9b819d0fb12e91",
+      "256eaf7a98dafaf3571da6c03ef84238"
+    ]
+  },
+  {
+    "hash": "4690d6c0d373554c140c27244f1729fc",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 2.2 - 48 km N of Valdez, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtsdur",
+    "published": "",
+    "summary": "Time 2026-09-07 23:20:29 UTC 2026-09-07 23:20:29 UTC at epicenter Location 61.563\u00b0N 146.482\u00b0W Depth 16.00 km (9.94 mi)",
+    "dataTag": "[Region: Gulf Coast] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T23:20:29+00:00",
+    "impactScore": 70,
+    "region": "Gulf Coast",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "ae667d9bbe2c2737e25437f096f74013",
+      "da817bdc86e8f5bd1b146d173f3674a8"
+    ]
+  },
+  {
+    "hash": "de36fe94a028849a4a838196d0a4615b",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 1.0 - 7 km ENE of Fox, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtrrqt",
+    "published": "",
+    "summary": "Time 2026-09-07 23:06:27 UTC 2026-09-07 23:06:27 UTC at epicenter Location 64.991\u00b0N 147.486\u00b0W Depth 5.00 km (3.11 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T23:06:27+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
+      "516dbdd2eb082936dd0140655d8abe27",
+      "a15d7565fefd5767b74d76198cc34e2f",
+      "6fa90f0d2c14b3cebbc45679e7c92573"
+    ]
+  },
+  {
+    "hash": "778a37c0d3148edb1edaa13ce0b509c8",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "As Social Security fund runs dry, some Republicans say it\u2019s time to raise taxes",
+    "link": "https://www.adn.com/nation-world/2026/09/07/as-social-security-fund-runs-dry-some-republicans-say-its-time-to-raise-taxes/",
+    "published": "Mon, 07 Sep 2026 22:59:36 +0000",
+    "summary": "For decades, Washington has replayed the same fight over taming the soaring national debt: Democrats cite a need for more taxes. Republicans refuse. And anyone who suggests cutting the biggest source of spending - federal retirement benefits - gets attacked. But a coming crisis in Social Security ap...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/D9X3JYZ0IOgwJUn0h1C2AKRCZJg=/cloudfront-us-east-1.images.arcpublishing.com/adn/JGDOZHECY364CW5NLSPHD7CDJA.jpg",
+    "timestamp": "2026-09-07T22:59:36+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99",
+      "61c18eecf191746c49ba9761246399b3"
+    ]
+  },
+  {
     "hash": "d8cfb935691b2c71c28c9ceff799e7ad",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -17,11 +139,36 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
       "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "85d1ce8f78b41bf0495b4891c00f129c"
+    ]
+  },
+  {
+    "hash": "6c59ea4ea7146a78d84008cca023657b",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 1.5 - 32 km NE of Manley Hot Springs, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtrdfk",
+    "published": "",
+    "summary": "Time 2026-09-07 22:49:47 UTC 2026-09-07 22:49:47 UTC at epicenter Location 65.206\u00b0N 150.141\u00b0W Depth 2.70 km (1.68 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T22:49:47+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
+      "516dbdd2eb082936dd0140655d8abe27",
+      "a15d7565fefd5767b74d76198cc34e2f",
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -58,7 +205,7 @@
     "title": "Forest Service surveys goshawks",
     "link": "https://www.chilkatvalleynews.com/2026/09/07/forest-service-surveys-goshawks/",
     "published": "Mon, 07 Sep 2026 22:43:03 +0000",
-    "summary": "(Courtesy/ Gillfoto, Wikimedia Commons ) Deep in some of the most remote areas of forest on Wrangell Island, U.S. Forest Service natural resource technician Anna Belback tramped her way through dense trees and brush to set up a pair of speakers. She cranked up the volume and hit play \u2014 an invisible...",
+    "summary": "(Courtesy/ Gillfoto, Wikimedia Commons ) Deep in some of the most remote areas of forest on Wrangell Island, U.S. Forest Service natural resource technician Anna Belback tramped her way through dense trees and brush to set up a pair of speakers. She cranked up the volume and hit play \u2014 an invisible....",
     "dataTag": "[Region: Southeast] [Category: Regional]",
     "sourceAttribution": "Source: Chilkat Valley News",
     "imageUrl": "https://www.chilkatvalleynews.com/wp-content/uploads/2026/09/American-Goshawk-1009x1024.jpg",
@@ -69,11 +216,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "87131d9c712085b3d89dbb0e60cf31ac",
       "688e417fde6f6738809465dd12ea0dac",
       "37991edf8b59b4a5b0fd304239f652ec",
       "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34",
-      "e5001a179e9914a97f50e41c2f2938ea"
+      "bb9812d8aea6cecbbe69104e9ca4cb34"
     ]
   },
   {
@@ -94,11 +241,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ea0999a3a6261f2f03e320d4595c5f62",
       "688e417fde6f6738809465dd12ea0dac",
       "37991edf8b59b4a5b0fd304239f652ec",
       "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34",
-      "e5001a179e9914a97f50e41c2f2938ea"
+      "bb9812d8aea6cecbbe69104e9ca4cb34"
     ]
   },
   {
@@ -119,11 +266,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
       "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "85d1ce8f78b41bf0495b4891c00f129c"
     ]
   },
   {
@@ -144,11 +291,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
       "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "3d7088ac99fb3c31edec5dc9aed4ae1d"
     ]
   },
   {
@@ -169,11 +316,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
       "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "3d7088ac99fb3c31edec5dc9aed4ae1d"
     ]
   },
   {
@@ -194,11 +341,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
       "a000a63a8a68687c1cf2bd5081cb4f99",
       "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "3d7088ac99fb3c31edec5dc9aed4ae1d"
     ]
   },
   {
@@ -269,11 +416,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0",
-      "788cf81fbf7540cb8a2394430d59257f"
+      "3d7088ac99fb3c31edec5dc9aed4ae1d"
     ]
   },
   {
@@ -294,11 +441,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ea0999a3a6261f2f03e320d4595c5f62",
+      "87131d9c712085b3d89dbb0e60cf31ac",
       "37991edf8b59b4a5b0fd304239f652ec",
       "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34",
-      "e5001a179e9914a97f50e41c2f2938ea",
-      "ec494c537a4869d6c1ba55c12109d0af"
+      "bb9812d8aea6cecbbe69104e9ca4cb34"
     ]
   },
   {
@@ -344,11 +491,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "a15d7565fefd5767b74d76198cc34e2f",
       "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156",
-      "80df17a31c1241f8eccaf0cbcbc34cb5"
+      "85d1ce8f78b41bf0495b4891c00f129c"
     ]
   },
   {
@@ -369,11 +516,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156",
-      "80df17a31c1241f8eccaf0cbcbc34cb5"
+      "85d1ce8f78b41bf0495b4891c00f129c"
     ]
   },
   {
@@ -394,11 +541,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0",
-      "788cf81fbf7540cb8a2394430d59257f"
+      "3d7088ac99fb3c31edec5dc9aed4ae1d"
     ]
   },
   {
@@ -419,11 +566,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0",
-      "788cf81fbf7540cb8a2394430d59257f"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -444,11 +591,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156",
-      "80df17a31c1241f8eccaf0cbcbc34cb5"
+      "85d1ce8f78b41bf0495b4891c00f129c"
     ]
   },
   {
@@ -490,11 +637,11 @@
       "nws"
     ],
     "relatedSignalIds": [
+      "ea0999a3a6261f2f03e320d4595c5f62",
+      "87131d9c712085b3d89dbb0e60cf31ac",
       "688e417fde6f6738809465dd12ea0dac",
       "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34",
-      "e5001a179e9914a97f50e41c2f2938ea",
-      "ec494c537a4869d6c1ba55c12109d0af"
+      "bb9812d8aea6cecbbe69104e9ca4cb34"
     ]
   },
   {
@@ -515,11 +662,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "54a62464bd20384f563587c7c2548156",
-      "80df17a31c1241f8eccaf0cbcbc34cb5"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -562,11 +709,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "80df17a31c1241f8eccaf0cbcbc34cb5"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -608,11 +755,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -633,11 +780,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "30ae45093105e853d0b7b2dbb86278d0",
-      "788cf81fbf7540cb8a2394430d59257f"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -658,11 +805,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "788cf81fbf7540cb8a2394430d59257f"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -683,11 +830,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -708,11 +855,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -799,11 +946,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -824,11 +971,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -849,11 +996,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -874,11 +1021,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -899,11 +1046,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -948,11 +1095,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -973,11 +1120,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1023,11 +1170,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1048,11 +1195,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1073,11 +1220,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1098,11 +1245,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1167,11 +1314,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ea0999a3a6261f2f03e320d4595c5f62",
+      "87131d9c712085b3d89dbb0e60cf31ac",
       "688e417fde6f6738809465dd12ea0dac",
       "37991edf8b59b4a5b0fd304239f652ec",
-      "bb9812d8aea6cecbbe69104e9ca4cb34",
-      "e5001a179e9914a97f50e41c2f2938ea",
-      "ec494c537a4869d6c1ba55c12109d0af"
+      "bb9812d8aea6cecbbe69104e9ca4cb34"
     ]
   },
   {
@@ -1192,11 +1339,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1217,11 +1364,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1242,11 +1389,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1289,11 +1436,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1314,11 +1461,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1339,11 +1486,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1364,11 +1511,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1414,11 +1561,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1439,11 +1586,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1464,11 +1611,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1608,11 +1755,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1633,11 +1780,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1658,11 +1805,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1683,11 +1830,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1708,11 +1855,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1733,11 +1880,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1758,11 +1905,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1783,11 +1930,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1808,11 +1955,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1833,11 +1980,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1858,11 +2005,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1883,11 +2030,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1908,11 +2055,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
       "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
+      "61c18eecf191746c49ba9761246399b3"
     ]
   },
   {
@@ -1934,7 +2081,8 @@
     "entitySlugs": [],
     "relatedSignalIds": [
       "da817bdc86e8f5bd1b146d173f3674a8",
-      "06f5560bac07a31b5dd830959981d35b"
+      "06f5560bac07a31b5dd830959981d35b",
+      "4690d6c0d373554c140c27244f1729fc"
     ]
   },
   {
@@ -1955,11 +2103,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -1980,11 +2128,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -2005,11 +2153,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   },
   {
@@ -2030,111 +2178,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "d7e01ace1c61f10e3ca2572f1b4285be",
       "516dbdd2eb082936dd0140655d8abe27",
       "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
-    ]
-  },
-  {
-    "hash": "6f598a4c517e4f6523cacab6e021f818",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 2.7 - 139 km WNW of Arctic Village, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrwrsv",
-    "published": "",
-    "summary": "Time 2026-09-06 23:37:15 UTC 2026-09-06 23:37:15 UTC at epicenter Location 68.644\u00b0N 148.615\u00b0W Depth 0.00 km (0.00 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T23:37:15+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "516dbdd2eb082936dd0140655d8abe27",
-      "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
-    ]
-  },
-  {
-    "hash": "897d32c7646c4eaaf1630e8a55351d21",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 2.8 - 138 km ENE of Anaktuvuk Pass, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrwrsv",
-    "published": "",
-    "summary": "Time 2026-09-06 23:37:15 UTC 2026-09-06 23:37:15 UTC at epicenter Location 68.639\u00b0N 148.655\u00b0W Depth 5.00 km (3.11 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-06T23:37:15+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "516dbdd2eb082936dd0140655d8abe27",
-      "a15d7565fefd5767b74d76198cc34e2f",
-      "6fa90f0d2c14b3cebbc45679e7c92573",
-      "85d1ce8f78b41bf0495b4891c00f129c",
-      "54a62464bd20384f563587c7c2548156"
-    ]
-  },
-  {
-    "hash": "b627e9541ef2839edf475f7bedfa4184",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Kentucky man with a red meat allergy turns to ostrich farming, serving others like him",
-    "link": "https://www.adn.com/nation-world/2026/09/06/kentucky-man-with-a-red-meat-allergy-turns-to-ostrich-farming-serving-others-like-him/",
-    "published": "Sun, 06 Sep 2026 23:14:00 +0000",
-    "summary": "DANVILLE, Ky. \u2014 When a friend approached Brent Williams four years ago with a business proposition to start an ostrich farm, he was more than intrigued \u2014 he had a personal motivation as someone who developed a life-threatening allergy to red meat, triggered by tick bites. The problem, known as alpha...",
-    "dataTag": "[Region: Interior] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/VIGdc_QgkvAezSNDkNYYhNaVu-Y=/cloudfront-us-east-1.images.arcpublishing.com/adn/7I5UGYPNCLTPPDAP77PARVDFLE.jpg",
-    "timestamp": "2026-09-06T23:14:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "a000a63a8a68687c1cf2bd5081cb4f99",
-      "61c18eecf191746c49ba9761246399b3",
-      "3d7088ac99fb3c31edec5dc9aed4ae1d",
-      "edcb70e8a999a4ded893030d2eaa58ef",
-      "30ae45093105e853d0b7b2dbb86278d0"
-    ]
-  },
-  {
-    "hash": "7f949b63bf28a41b75cbdb2ccc469421",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Federal government transfers ownership of Alaska Native Medical Center to tribal consortium",
-    "link": "https://www.adn.com/alaska-news/anchorage/2026/09/06/federal-government-transfers-ownership-of-alaska-native-medical-center-to-tribal-consortium/",
-    "published": "Sun, 06 Sep 2026 23:08:44 +0000",
-    "summary": "The federal government has transferred ownership of an Anchorage hospital that serves as the centerpiece of Alaska\u2019s tribal healthcare system to an organization that has managed the facility for years. The Indian Health Service transferred ownership of the Alaska Native Medical Center to the Alaska....",
-    "dataTag": "[Region: Southcentral] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/Mo2uMUu84qFE-otn3Eny_Rvd61I=/cloudfront-us-east-1.images.arcpublishing.com/adn/Z2I4YXAGUBF3TB6AKFE7LKCNPE.JPG",
-    "timestamp": "2026-09-06T23:08:44+00:00",
-    "impactScore": 30,
-    "region": "Cook Inlet",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "3e9a05cbb6c1915372d1853d4f774886",
-      "6cd249055156e0038a3795db0a4c9fb6",
-      "a226cbb9be82708e7c9b819d0fb12e91",
-      "256eaf7a98dafaf3571da6c03ef84238",
-      "d8f79d6f916271bc4af929a260f1e731"
+      "6fa90f0d2c14b3cebbc45679e7c92573"
     ]
   }
 ]
