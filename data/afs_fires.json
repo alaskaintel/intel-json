@@ -61,7 +61,7 @@
         "published": "2026-07-10T22:32:06+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: State",
         "hash": "a29de5e83748c48c2c75e8f8ea95000d",
         "type": "fire",
         "location": {
@@ -89,12 +89,12 @@
         "published": "2026-08-28T15:35:35+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TNF | Cause: None | Owner: State",
+        "summary": "Status: Out | Area: TNF | Cause: None | Owner: Private",
         "hash": "74d036d97777f9b421cf4a608b969a26",
         "type": "fire",
         "location": {
-            "lon": -135.46282013576737,
-            "lat": 59.25117303323371
+            "lon": -135.46105413492165,
+            "lat": 59.2500370335314
         }
     },
     {
@@ -173,7 +173,7 @@
         "published": "2026-06-19T23:25:18+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: NPS",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: NPS",
         "hash": "1b847892bd3335a0d212c10335752afe",
         "type": "fire",
         "location": {
@@ -243,7 +243,7 @@
         "published": "2026-08-28T20:48:12+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: Pre | Area: UYD | Cause: Undetermined | Owner: BLM",
+        "summary": "Status: Pre | Area: UYD | Cause: Human | Owner: BLM",
         "hash": "259d9a4d6e803f4f48c778bc23e424b1",
         "type": "fire",
         "location": {
@@ -327,7 +327,7 @@
         "published": "2026-08-28T22:30:21+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: KKS | Cause: None | Owner: Private",
+        "summary": "Status: Out | Area: KKS | Cause: Power generation / transmission / distribution | Owner: Private",
         "hash": "2ad5a8409f84d73d0d794354b480c5be",
         "type": "fire",
         "location": {
@@ -373,8 +373,8 @@
         "hash": "d5089587afba45fb7a39e66fbc32e719",
         "type": "fire",
         "location": {
-            "lon": -133.23182110054825,
-            "lat": 55.76825741398085
+            "lon": -133.24242110168205,
+            "lat": 55.768242412457276
         }
     },
     {
@@ -383,7 +383,7 @@
         "published": "2026-08-16T21:27:00+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: KKS | Cause: None | Owner: Private",
+        "summary": "Status: Out | Area: KKS | Cause: Power generation / transmission / distribution | Owner: Private",
         "hash": "daa98e96bb0af6f0ae8be61f2a7cc2d3",
         "type": "fire",
         "location": {
@@ -436,10 +436,10 @@
     {
         "title": "Sturgill''s Landing Fire (0.1 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
-        "published": "2026-08-10T00:04:05+00:00",
+        "published": "2026-08-09T19:50:00+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TNF | Cause: None | Owner: USFS",
+        "summary": "Status: U/C | Area: TNF | Cause: None | Owner: USFS",
         "hash": "1b2560b26c99b224f6c271f998c10132",
         "type": "fire",
         "location": {
@@ -476,6 +476,20 @@
         }
     },
     {
+        "title": "Woodpecker Cove Fire (0.1 acres)",
+        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
+        "published": "2026-09-02T17:57:19+00:00",
+        "source": "Alaska Fire Service",
+        "category": "Emergency",
+        "summary": "Status: U/C | Area: TNF | Cause: None | Owner: USFS",
+        "hash": "dcf8d0767bc2ad67aa88c68c155eea42",
+        "type": "fire",
+        "location": {
+            "lon": -132.8722594055515,
+            "lat": 56.509689461275315
+        }
+    },
+    {
         "title": "2026 Alut Ave Project RX Fire (0.01 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-01-01T17:06:00+00:00",
@@ -487,20 +501,6 @@
         "location": {
             "lon": -151.75630003925136,
             "lat": 59.75056943687824
-        }
-    },
-    {
-        "title": "South Bridget Cove Fire (0.1 acres)",
-        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
-        "published": "2026-08-21T23:48:42+00:00",
-        "source": "Alaska Fire Service",
-        "category": "Emergency",
-        "summary": "Status: Out | Area: TNF | Cause: Recreation and ceremony | Owner: County",
-        "hash": "df60a34b276087be7d686692308c4f14",
-        "type": "fire",
-        "location": {
-            "lon": -134.9382377236194,
-            "lat": 58.62780412615753
         }
     },
     {
@@ -532,31 +532,31 @@
         }
     },
     {
-        "title": "Mabel Fire (0.1 acres)",
-        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
-        "published": "2026-08-26T05:25:00+00:00",
-        "source": "Alaska Fire Service",
-        "category": "Emergency",
-        "summary": "Status: Out | Area: CRS | Cause: Debris and open burning | Owner: Private",
-        "hash": "9fae510b6cf026e443855d38fcc377ba",
-        "type": "fire",
-        "location": {
-            "lon": -145.5407566729128,
-            "lat": 62.10801930274038
-        }
-    },
-    {
         "title": "Henshaw Fire (1.78 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-06-30T02:17:17+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: TAD | Cause: Natural | Owner: ANC",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: ANC",
         "hash": "a57f7bddbd3bd2219d605dccf3171f26",
         "type": "fire",
         "location": {
             "lon": -152.3147278312079,
             "lat": 66.66195084513878
+        }
+    },
+    {
+        "title": "Sandy Beach Fire (0.1 acres)",
+        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
+        "published": "2026-09-05T04:29:10+00:00",
+        "source": "Alaska Fire Service",
+        "category": "Emergency",
+        "summary": "Status: U/U | Area: TNF | Cause: None | Owner: USFS",
+        "hash": "15a1884f11590d61fcadcba65b34c3c7",
+        "type": "fire",
+        "location": {
+            "lon": -132.42896931160914,
+            "lat": 56.41722152634659
         }
     },
     {
@@ -775,7 +775,7 @@
         "published": "2026-07-07T20:01:39+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "68a39206b44293e20d9d140f67e9b449",
         "type": "fire",
         "location": {
@@ -873,7 +873,7 @@
         "published": "2026-06-21T22:03:54+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: NPS",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: NPS",
         "hash": "d237c4b5dc2a79954b7f3fed94f5b731",
         "type": "fire",
         "location": {
@@ -929,7 +929,7 @@
         "published": "2026-07-30T21:45:59+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Undetermined | Owner: Private",
+        "summary": "Status: Out | Area: TAD | Cause: Undetermined | Owner: Private",
         "hash": "c3503520ce5a38d4f24c2b0cfa69c4e6",
         "type": "fire",
         "location": {
@@ -943,7 +943,7 @@
         "published": "2026-06-23T22:48:20+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Undetermined | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: Undetermined | Owner: State",
         "hash": "fb7b75d73fef138237d7711d768e31ff",
         "type": "fire",
         "location": {
@@ -957,7 +957,7 @@
         "published": "2026-06-23T22:58:48+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Undetermined | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: Undetermined | Owner: BLM",
         "hash": "4300d73fc254a2f0136f98be2b705b7e",
         "type": "fire",
         "location": {
@@ -999,7 +999,7 @@
         "published": "2026-06-27T00:10:15+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "4d636183e1e0e9fbf247bc1b0c3b04e5",
         "type": "fire",
         "location": {
@@ -1013,7 +1013,7 @@
         "published": "2026-06-27T02:42:23+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "7c743367b31d8f3a107ceeb28332e8fd",
         "type": "fire",
         "location": {
@@ -1139,7 +1139,7 @@
         "published": "2026-08-31T21:35:24+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: KKS | Cause: None | Owner: Private",
+        "summary": "Status: Out | Area: KKS | Cause: Human | Owner: Private",
         "hash": "94f3a0d12c19b0978afff0f8ba2a3359",
         "type": "fire",
         "location": {
@@ -1167,7 +1167,7 @@
         "published": "2026-07-09T01:34:00+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "24a1f331f56bc4faa6d879ea9e506522",
         "type": "fire",
         "location": {
@@ -1209,7 +1209,7 @@
         "published": "2026-07-19T22:34:39+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Undetermined | Owner: NPS",
+        "summary": "Status: Out | Area: TAD | Cause: Undetermined | Owner: NPS",
         "hash": "6fa47fc0a51def959202b65783bf5e9b",
         "type": "fire",
         "location": {
@@ -1251,7 +1251,7 @@
         "published": "2026-06-21T23:05:31+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: BLM",
         "hash": "e5cb076423d0afcc0fe4b366ebfa7215",
         "type": "fire",
         "location": {
@@ -1265,12 +1265,26 @@
         "published": "2026-06-28T01:42:21+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "3aa09184d9209e005eace08658954a57",
         "type": "fire",
         "location": {
             "lon": -151.0177708702269,
             "lat": 66.65697807469365
+        }
+    },
+    {
+        "title": "Koliganek Fire (0.1 acres)",
+        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
+        "published": "2026-09-02T16:44:42+00:00",
+        "source": "Alaska Fire Service",
+        "category": "Emergency",
+        "summary": "Status: U/U | Area: SWS | Cause: Undetermined | Owner: State",
+        "hash": "c4477b2bf5be508d11bf114c05e07e61",
+        "type": "fire",
+        "location": {
+            "lon": -156.28085518633824,
+            "lat": 60.29383367836961
         }
     },
     {
@@ -1372,6 +1386,20 @@
         }
     },
     {
+        "title": "White Stone Fire (0.1 acres)",
+        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
+        "published": "2026-09-05T02:42:00+00:00",
+        "source": "Alaska Fire Service",
+        "category": "Emergency",
+        "summary": "Status: U/C | Area: TNF | Cause: None | Owner: USFS",
+        "hash": "5925515be2c20a00b9c79359b66d8b77",
+        "type": "fire",
+        "location": {
+            "lon": -135.09225942769436,
+            "lat": 58.063396112502865
+        }
+    },
+    {
         "title": "Weshrinarin Fire (24.53 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-06-22T21:59:06+00:00",
@@ -1447,7 +1475,7 @@
         "published": "2026-06-25T03:10:04+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: State",
         "hash": "4c64de4bc3597e71cd836cbe6c81eb55",
         "type": "fire",
         "location": {
@@ -1517,7 +1545,7 @@
         "published": "2026-08-29T20:58:31+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: KKS | Cause: None | Owner: State",
+        "summary": "Status: Out | Area: KKS | Cause: None | Owner: State",
         "hash": "259a7e80353bdbfd2ca20903e2e7f4cc",
         "type": "fire",
         "location": {
@@ -1526,27 +1554,13 @@
         }
     },
     {
-        "title": "Sodak Fire (0.1 acres)",
-        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
-        "published": "2026-08-30T04:22:12+00:00",
-        "source": "Alaska Fire Service",
-        "category": "Emergency",
-        "summary": "Status: Out | Area: MSS | Cause: None | Owner: Private",
-        "hash": "4ab85e30a7de7e9f8084b235ed8a56f0",
-        "type": "fire",
-        "location": {
-            "lon": -149.04734027023457,
-            "lat": 61.523401757630914
-        }
-    },
-    {
-        "title": "Canyon Fire (1064 acres)",
+        "title": "Canyon Fire (1063.98 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-06-12T01:20:30+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: State",
-        "hash": "c25622b6be7ff4d6f126e902f3f1b561",
+        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: State",
+        "hash": "43b6acce6ead8a9fe0ce7413d3575b8f",
         "type": "fire",
         "location": {
             "lon": -150.8131395909195,
@@ -1573,7 +1587,7 @@
         "published": "2026-06-28T03:21:18+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "2e83a21b092de7d39beec83765d5ca93",
         "type": "fire",
         "location": {
@@ -1615,7 +1629,7 @@
         "published": "2026-07-06T22:59:39+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: NPS",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: NPS",
         "hash": "836e9c59be6c0c1a20ae6d933e4de707",
         "type": "fire",
         "location": {
@@ -1727,12 +1741,12 @@
         "published": "2026-08-12T17:32:00+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: TNF | Cause: Undetermined | Owner: Private",
+        "summary": "Status: Out | Area: TNF | Cause: Undetermined | Owner: Private",
         "hash": "650d65ec9666f92a63649be9e709e3fd",
         "type": "fire",
         "location": {
-            "lon": -135.85439120465404,
-            "lat": 59.30344897124846
+            "lon": -135.8544042046582,
+            "lat": 59.30345397124631
         }
     },
     {
@@ -1741,7 +1755,7 @@
         "published": "2026-08-06T02:26:28+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: TNF | Cause: Recreation and ceremony | Owner: USFS",
+        "summary": "Status: Out | Area: TNF | Cause: Recreation and ceremony | Owner: USFS",
         "hash": "0f2a5c68e3b73922faf2714232349935",
         "type": "fire",
         "location": {
@@ -1769,7 +1783,7 @@
         "published": "2026-06-25T02:44:21+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "3fd3a43cb63b40b2ffe895aae268bdd7",
         "type": "fire",
         "location": {
@@ -1783,7 +1797,7 @@
         "published": "2026-06-25T04:41:20+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: None | Owner: BLM",
         "hash": "890df2d9f33a74ab7f76688db78ef6aa",
         "type": "fire",
         "location": {

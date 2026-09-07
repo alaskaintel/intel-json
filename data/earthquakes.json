@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T20:49:51.711269+00:00",
+  "updated": "2026-09-07T21:59:59.823284+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -35,7 +35,7 @@
       "magnitude": 2.6,
       "place": "32 km NW of Willow, Alaska",
       "time": "2026-09-07T20:12:17.050000+00:00",
-      "updated": "2026-09-07T20:16:36.215000+00:00",
+      "updated": "2026-09-07T21:23:41.320000+00:00",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtlwqn",
       "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rtlwqn&format=geojson",
       "status": "automatic",
@@ -43,8 +43,8 @@
       "type": "earthquake",
       "title": "M 2.6 - 32 km NW of Willow, Alaska",
       "alert": null,
-      "felt": null,
-      "cdi": null,
+      "felt": 1,
+      "cdi": 1,
       "mmi": null,
       "sig": 104,
       "lat": 61.991,

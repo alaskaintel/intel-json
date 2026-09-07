@@ -111,6 +111,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://news.mongabay.com/2026/09/tanzanias-first-official-wildlife-corridor-links-savanna-elephants-to-rainforest/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Mongabay Alaska</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04</news:publication_date>
+      <news:title>Tanzania’s first official wildlife corridor links savanna elephants to rainforest</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://news.mongabay.com/short-article/2026/09/brazils-senate-passes-rare-earth-minerals-regulation-paving-the-way-for-boosted-exploration/</loc>
     <news:news>
       <news:publication>
@@ -5993,17 +6004,6 @@
       </news:publication>
       <news:publication_date>2026-07-10</news:publication_date>
       <news:title>Nepal’s Rhino translocation success in numbers masks habitat struggles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://news.mongabay.com/short-article/2026/07/how-effective-are-canopy-bridges-really/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mongabay Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09</news:publication_date>
-      <news:title>How effective are canopy bridges really?</news:title>
     </news:news>
   </url>
 </urlset>
