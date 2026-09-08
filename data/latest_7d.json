@@ -1,5 +1,155 @@
 [
   {
+    "hash": "0cdc91fa3d277af328de47752f506d8e",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 3.1 - 25 km E of Nenana, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rumtco",
+    "published": "",
+    "summary": "DYFI? - III Time 2026-09-08 09:37:50 UTC 2026-09-08 09:37:50 UTC at epicenter Location 64.607\u00b0N 148.567\u00b0W Depth 5.90 km (3.67 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T09:37:50+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "7adbea2a50dae3e6527e27e5f3a0b55c",
+      "daf6f3c949f7b4a345eabe0dd5c6d94f",
+      "23b822809ffb90b5c3e5fc2137b8ec25",
+      "de36fe94a028849a4a838196d0a4615b",
+      "d8cfb935691b2c71c28c9ceff799e7ad"
+    ]
+  },
+  {
+    "hash": "728504f35888a45c1a224d8c12b95d57",
+    "source": "KNBA Anchorage",
+    "category": "Radio",
+    "title": "Bill Hill\u2019s dark horse bid for Alaska congressional seat",
+    "link": "https://www.knba.org/news/2026-09-08/bill-hills-dark-horse-bid-for-alaska-congressional-seat",
+    "published": "Tue, 08 Sep 2026 08:38:52 GMT",
+    "summary": "Republican Congressman Nick Begich enters the general election after a decisive primary win. But independent Bill Hill is betting he can rally Democrats and moderate Republicans to close the gap.",
+    "dataTag": "[Region: Statewide] [Category: Radio]",
+    "sourceAttribution": "Source: KNBA Anchorage",
+    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/11b65ff/2147483647/strip/false/crop/4032x3024+0+0/resize/267x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F0a%2Fa8ba25ba443594035e77956e48bc%2F8-19-26-bill-hill-portrait.jpeg",
+    "timestamp": "2026-09-08T08:38:52+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "1a008e47fe745dc99da4f53b32042bb9",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Miss Manners: How do I politely deflect questions about a painful subject?",
+    "link": "https://www.adn.com/alaska-life/advice/2026/09/08/miss-manners-how-do-i-politely-deflect-questions-about-a-painful-subject/",
+    "published": "Tue, 08 Sep 2026 08:19:00 +0000",
+    "summary": "DEAR MISS MANNERS: I am very fortunate to have found a number of good companions through my active participation in local clubs. However, most of my new friends are a generation or more older than I. They are wonderful people, and I am grateful for their kind interest in me. Yet I find it uncomforta...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/rwlhKCejlPRH-A_boSAZwmM6sj8=/cloudfront-us-east-1.images.arcpublishing.com/adn/RVBRDFHLTRE6DFUM37EXSOHXIA.jpg",
+    "timestamp": "2026-09-08T08:19:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "557b5b8c1ce1473f7c8787ce74aef8e2",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Dear Annie: How do I declutter without starting a war in our home?",
+    "link": "https://www.adn.com/alaska-life/advice/2026/09/08/dear-annie-how-do-i-declutter-without-starting-a-war-in-our-home/",
+    "published": "Tue, 08 Sep 2026 08:17:00 +0000",
+    "summary": "Dear Annie: I am desperate to declutter our house, but my husband has a very hard time letting go of anything. Our closets are overflowing, the garage is packed, and we have boxes of things we haven\u2019t opened in years. There are old tools, clothes that no longer fit, broken electronics, stacks of pap...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/mIw4T9Zu2irVdHGXLItqC8E8gc0=/cloudfront-us-east-1.images.arcpublishing.com/adn/NJXH7B6MUNENPFANBUVA3TOJ4E.jpg",
+    "timestamp": "2026-09-08T08:17:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "217eb9a2e3d902fb94c7e1b161170b19",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Asking Eric: My partner wants me to move in, but not with my dog",
+    "link": "https://www.adn.com/alaska-life/advice/2026/09/08/asking-eric-my-partner-wants-me-to-move-in-but-not-with-my-dog/",
+    "published": "Tue, 08 Sep 2026 08:15:00 +0000",
+    "summary": "Dear Eric: My special friend and I are in our late 70\u2019s and have lost our long-time spouses. We are blessed to have found each other on a hiking trip and for two years have been inseparable. His family loves me and I love his family. Recently he has asked me to sell my house and move in with him. So...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/FZa8e37AGKK3ccfK-gzeP1zmI2k=/cloudfront-us-east-1.images.arcpublishing.com/adn/6CKS7ITAGFBOZDKAODQRBN2LJM.jpg",
+    "timestamp": "2026-09-08T08:15:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "64d4cd1b654f793eb61476902828ef48",
+    "source": "Mongabay Alaska",
+    "category": "Environment",
+    "title": "\u2018Birds know no borders\u2019: Interview with BirdLife Africa\u2019s Alex Ngari",
+    "link": "https://news.mongabay.com/2026/09/birds-know-no-borders-interview-with-birdlife-africas-alex-ngari/",
+    "published": "08 Sep 2026 07:36:54 +0000",
+    "summary": "Every year, twice a year, millions of birds belonging to hundreds of species fly between breeding grounds in Europe and Asia and their non-breeding habitats in Africa. Scientists have surprisingly sparse knowledge of exactly where many species actually go \u2014 or what risks and obstacles the migrating....",
+    "dataTag": "[Region: Statewide] [Category: Environment]",
+    "sourceAttribution": "Source: Mongabay Alaska",
+    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08072428/PallidharrierCircus.macrourus_OmskRussia2026_YaroslavBurmatovINaturalistBYNC4.0-768x512.jpg",
+    "timestamp": "2026-09-08T07:36:54+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "environment",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
+      "8441874dfb929b269fc304219bc041b0",
+      "ee9608fd134e6cc50bff4bda35bb2066",
+      "bd900ed98642691c2bee3f88cad1de54",
+      "d38232b907c348c8d649f6fa10a29869"
+    ]
+  },
+  {
     "hash": "cec71a722af89b2001fc286d5d38b343",
     "source": "Mongabay Alaska",
     "category": "Environment",
@@ -1964,11 +2114,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
       "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2355,11 +2505,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "bd900ed98642691c2bee3f88cad1de54",
       "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2455,11 +2605,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2480,11 +2630,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2505,11 +2655,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "d38232b907c348c8d649f6fa10a29869",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "d38232b907c348c8d649f6fa10a29869"
     ]
   },
   {
@@ -2530,11 +2680,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897"
+      "d38232b907c348c8d649f6fa10a29869"
     ]
   },
   {
@@ -5390,11 +5540,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897"
+      "d38232b907c348c8d649f6fa10a29869"
     ]
   },
   {
@@ -34779,506 +34929,6 @@
       "5022908aacf7e2e0babb67fb72b9f20a",
       "1c307d064cb2079f898cd0cf5330dde5",
       "87df4e416536df0f10706ee1a284c2f9"
-    ]
-  },
-  {
-    "hash": "58f9932f2c91cf5c25902b501d3c215c",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.2 - 19 km SSW of South Van Horn, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhpdld",
-    "published": "",
-    "summary": "Time 2026-09-01 09:54:20 UTC 2026-09-01 09:54:20 UTC at epicenter Location 64.639\u00b0N 147.883\u00b0W Depth 15.00 km (9.32 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T09:54:20+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "7c08e4afa13f4b1c6aceec0264faf6c9",
-      "8cce681d2ed3f424a6a8491d994d6b39",
-      "5022908aacf7e2e0babb67fb72b9f20a",
-      "1c307d064cb2079f898cd0cf5330dde5",
-      "87df4e416536df0f10706ee1a284c2f9"
-    ]
-  },
-  {
-    "hash": "79359d04ceb42fdab379f9325e21142b",
-    "source": "Juneau Empire",
-    "category": "Regional",
-    "title": "OPINION: Everyone will pay for federal debt because everyone benefitted",
-    "link": "https://www.juneauempire.com/2026/09/01/opinion-everyone-will-pay-for-federal-debt-because-everyone-benefitted/",
-    "published": "Tue, 01 Sep 2026 09:30:00 +0000",
-    "summary": "Compared to federal spending, the average American is downright frugal.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Juneau Empire",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T09:30:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "5a4bf034aabb21e497df5c465b9adf3b",
-      "8982342b0bedb3743862a5b6857aa4e4",
-      "d10dfc1c39e1d2cb1a23376e2320ee77",
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d"
-    ]
-  },
-  {
-    "hash": "29d99a884da226d7cdf825a817c71564",
-    "source": "Homer News",
-    "category": "Regional",
-    "title": "OPINION: Everyone will pay for federal debt because everyone benefitted",
-    "link": "https://www.homernews.com/2026/09/01/opinion-everyone-will-pay-for-federal-debt-because-everyone-benefitted/",
-    "published": "Tue, 01 Sep 2026 09:30:00 +0000",
-    "summary": "Compared to federal spending, the average American is downright frugal.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Homer News",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T09:30:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "5a4bf034aabb21e497df5c465b9adf3b",
-      "8982342b0bedb3743862a5b6857aa4e4",
-      "d10dfc1c39e1d2cb1a23376e2320ee77",
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d"
-    ]
-  },
-  {
-    "hash": "7483f1a8419670b981a3eacc6d2da7bd",
-    "source": "Peninsula Clarion",
-    "category": "Regional",
-    "title": "OPINION: Everyone will pay for federal debt because everyone benefitted",
-    "link": "https://www.peninsulaclarion.com/2026/09/01/opinion-everyone-will-pay-for-federal-debt-because-everyone-benefitted/",
-    "published": "Tue, 01 Sep 2026 09:30:00 +0000",
-    "summary": "Compared to federal spending, the average American is downright frugal.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Peninsula Clarion",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T09:30:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "5a4bf034aabb21e497df5c465b9adf3b",
-      "8982342b0bedb3743862a5b6857aa4e4",
-      "d10dfc1c39e1d2cb1a23376e2320ee77",
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d"
-    ]
-  },
-  {
-    "hash": "23b1006dd5fc7375dc26be367edd7dda",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 0.9 - 77 km WNW of Ninilchik, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhnrpy",
-    "published": "",
-    "summary": "Time 2026-09-01 09:10:43 UTC 2026-09-01 09:10:43 UTC at epicenter Location 60.399\u00b0N 152.879\u00b0W Depth 130.10 km (80.84 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T09:10:43+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "5022908aacf7e2e0babb67fb72b9f20a",
-      "1c307d064cb2079f898cd0cf5330dde5",
-      "87df4e416536df0f10706ee1a284c2f9",
-      "77f7c7c0198b877beffa1806f0b32f9d",
-      "81b7f39ba9c45ff6ef1b627c07784955"
-    ]
-  },
-  {
-    "hash": "6f545eb4587bc367477a6942cbfe5d66",
-    "source": "Mining.com Alaska",
-    "category": "Mining",
-    "title": "Rio\u2019s Barton joins Carney\u2019s $1T investment drive",
-    "link": "https://www.mining.com/rios-barton-joins-carneys-1t-investment-drive/",
-    "published": "Tue, 01 Sep 2026 08:55:00 +0000",
-    "summary": "Canadian Prime Minister Mark Carney has named Rio Tinto (LON, ASX, NYSE: RIO) chair Dominic Barton to lead Invest in Canada\u2019s board as Ottawa expands the federal agency\u2019s role in attracting global capital to critical minerals, energy and major infrastructure projects. Gurinder Grewal, founder and ma...",
-    "dataTag": "[Region: Statewide] [Category: Mining]",
-    "sourceAttribution": "Source: Mining.com Alaska",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:55:00+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "energy",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "b29a97d068669c51f1ff5b4c3a819ce9",
-      "fe8ab4d2b8b655d9bfc3a05baead9ce9",
-      "122ba7ffb46807d3053bfadf4a17b317",
-      "8f7cb6a725a0da01b6513386e37064ef",
-      "3b15176561d01c396c3ba34075421564"
-    ]
-  },
-  {
-    "hash": "a7aa3c836c81daaa70652c43f28237e9",
-    "source": "Mining.com Alaska",
-    "category": "Mining",
-    "title": "Rio Tinto\u2019s Barton joins Carney\u2019s $1T investment drive",
-    "link": "https://www.mining.com/rios-barton-joins-carneys-1t-investment-drive/",
-    "published": "Tue, 01 Sep 2026 08:55:00 +0000",
-    "summary": "Canadian Prime Minister Mark Carney has named Rio Tinto (LON, ASX, NYSE: RIO) chair Dominic Barton to lead Invest on Canada\u2019s board as Ottawa expands the federal agency\u2019s role in attracting global capital to critical minerals, energy and major infrastructure projects. Gurinder Grewal, founder and ma...",
-    "dataTag": "[Region: Statewide] [Category: Mining]",
-    "sourceAttribution": "Source: Mining.com Alaska",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:55:00+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "energy",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "b29a97d068669c51f1ff5b4c3a819ce9",
-      "fe8ab4d2b8b655d9bfc3a05baead9ce9",
-      "122ba7ffb46807d3053bfadf4a17b317",
-      "8f7cb6a725a0da01b6513386e37064ef",
-      "3b15176561d01c396c3ba34075421564"
-    ]
-  },
-  {
-    "hash": "60aeaf6ac5ddd5b136844c93f189701c",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.7 - 92 km ENE of Ugashik, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhmqjc",
-    "published": "",
-    "summary": "Time 2026-09-01 08:39:20 UTC 2026-09-01 08:39:20 UTC at epicenter Location 57.807\u00b0N 155.947\u00b0W Depth 109.40 km (67.98 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:39:20+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "87df4e416536df0f10706ee1a284c2f9",
-      "77f7c7c0198b877beffa1806f0b32f9d",
-      "81b7f39ba9c45ff6ef1b627c07784955",
-      "7d209e0f8a7c035802b4d3b94e68338c",
-      "2805c37f824d77d9e2ead116a3166f48"
-    ]
-  },
-  {
-    "hash": "a3838f65f080be54db535e6c95e98a80",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.5 - 13 km E of Talkeetna, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhmayw",
-    "published": "",
-    "summary": "Time 2026-09-01 08:21:31 UTC 2026-09-01 08:21:31 UTC at epicenter Location 62.301\u00b0N 149.851\u00b0W Depth 9.40 km (5.84 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:21:31+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "87df4e416536df0f10706ee1a284c2f9",
-      "77f7c7c0198b877beffa1806f0b32f9d",
-      "81b7f39ba9c45ff6ef1b627c07784955",
-      "7d209e0f8a7c035802b4d3b94e68338c",
-      "2805c37f824d77d9e2ead116a3166f48"
-    ]
-  },
-  {
-    "hash": "12b227bdeb929f145ea6515f98164f7b",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Miss Manners: I think it\u2019s rude when people identify or define others by their weight",
-    "link": "https://www.adn.com/alaska-life/advice/2026/09/01/miss-manners-i-think-its-rude-when-people-identify-or-define-others-by-their-weight/",
-    "published": "Tue, 01 Sep 2026 08:19:00 +0000",
-    "summary": "DEAR MISS MANNERS: I know a few people who define everyone by their weight. Now, these people aren\u2019t perfect themselves, but their imperfections aren\u2019t as readily apparent as being fat. No imperfection is as apparent as that! It drives me nuts when they describe someone as \u201cchubby\u201d or \u201cfat\u201d when no....",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/rwlhKCejlPRH-A_boSAZwmM6sj8=/cloudfront-us-east-1.images.arcpublishing.com/adn/RVBRDFHLTRE6DFUM37EXSOHXIA.jpg",
-    "timestamp": "2026-09-01T08:19:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8982342b0bedb3743862a5b6857aa4e4",
-      "d10dfc1c39e1d2cb1a23376e2320ee77",
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d",
-      "c84d067dba6685c1bafe91014d363f3a"
-    ]
-  },
-  {
-    "hash": "a0c8f7edc80a074028266eb90faa6a8b",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Dear Annie: I love my friend, but can\u2019t get a word in edgewise",
-    "link": "https://www.adn.com/alaska-life/advice/2026/09/01/dear-annie-i-love-my-friend-but-cant-get-a-word-in-edgewise/",
-    "published": "Tue, 01 Sep 2026 08:17:00 +0000",
-    "summary": "Dear Annie: I have a friend I\u2019ve known for more than 30 years. He is a good person, loyal and generous, and we share a lot of history. The problem is that he has absolutely no sense of when he has lost a room. At dinner parties, he can take over the entire conversation with a story that lasts 15 or....",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/mIw4T9Zu2irVdHGXLItqC8E8gc0=/cloudfront-us-east-1.images.arcpublishing.com/adn/NJXH7B6MUNENPFANBUVA3TOJ4E.jpg",
-    "timestamp": "2026-09-01T08:17:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "d10dfc1c39e1d2cb1a23376e2320ee77",
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d",
-      "c84d067dba6685c1bafe91014d363f3a",
-      "fc088179e4056d229742e2532c119356"
-    ]
-  },
-  {
-    "hash": "a5d93db89c40b00dad1c541546dafdac",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Asking Eric: I\u2019m a widower. Is it possible to be in love with two people this late in life?",
-    "link": "https://www.adn.com/alaska-life/advice/2026/09/01/asking-eric-im-a-widower-is-it-possible-to-be-in-love-with-two-people-this-late-in-life/",
-    "published": "Tue, 01 Sep 2026 08:15:00 +0000",
-    "summary": "Dear Eric: My wife of 44 years passed away after a six-year battle with cancer. During that time, she said that with all the billions of people on the planet, I could surely find someone else to love. And that I had her permission. After an appropriate time of mourning, I went on a dating site and m...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/FZa8e37AGKK3ccfK-gzeP1zmI2k=/cloudfront-us-east-1.images.arcpublishing.com/adn/6CKS7ITAGFBOZDKAODQRBN2LJM.jpg",
-    "timestamp": "2026-09-01T08:15:00+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d",
-      "c84d067dba6685c1bafe91014d363f3a",
-      "fc088179e4056d229742e2532c119356",
-      "b608aeb47b464d6d6d678fdaf4f582bc"
-    ]
-  },
-  {
-    "hash": "0af86b06b1b88df127d44dbba841b843",
-    "source": "Alaska Governor's Office",
-    "category": "Government",
-    "title": "Recovery Month 2026",
-    "link": "https://gov.alaska.gov/recovery-month-2026/",
-    "published": "Tue, 01 Sep 2026 08:09:47 +0000",
-    "summary": "WHEREAS, it is essential that all Alaskans recognize the critical need for affordable, accessible, and high-quality substance abuse treatment; and WHEREAS, substance abuse, co-occurring mental disorders, and related physical illnesses are significant public health challenges that affect thousands of...",
-    "dataTag": "[Region: Statewide] [Category: Government]",
-    "sourceAttribution": "Source: Alaska Governor's Office",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:09:47+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d",
-      "c84d067dba6685c1bafe91014d363f3a",
-      "fc088179e4056d229742e2532c119356",
-      "b608aeb47b464d6d6d678fdaf4f582bc"
-    ]
-  },
-  {
-    "hash": "7a2fb2c6dd4d2ea5ba81ad3e4f7ae519",
-    "source": "Alaska Governor's Office",
-    "category": "Government",
-    "title": "Support Dog and Cat Adoption Month 2026",
-    "link": "https://gov.alaska.gov/support-dog-and-cat-adoption-month-2026/",
-    "published": "Tue, 01 Sep 2026 08:06:20 +0000",
-    "summary": "WHEREAS, the State of Alaska values the lives of dogs and cats and supports adoption; and WHEREAS, a 90 percent save rate of dogs and cats who are unowned will be achieved if more Alaskans seeking a pet choose to adopt from their local animal shelter or rescue group; and WHEREAS, many loving and hea...",
-    "dataTag": "[Region: Statewide] [Category: Government]",
-    "sourceAttribution": "Source: Alaska Governor's Office",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:06:20+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d",
-      "c84d067dba6685c1bafe91014d363f3a",
-      "fc088179e4056d229742e2532c119356",
-      "b608aeb47b464d6d6d678fdaf4f582bc"
-    ]
-  },
-  {
-    "hash": "ddc22da477cce33ed58223c78b24192e",
-    "source": "Alaska Governor's Office",
-    "category": "Government",
-    "title": "Alaska Blood Donation Week 2026",
-    "link": "https://gov.alaska.gov/alaska-blood-donation-week-2026/",
-    "published": "Tue, 01 Sep 2026 08:04:40 +0000",
-    "summary": "WHEREAS, the State of Alaska is committed to ensuring the safety and security of its residents and those visiting our state by ensuring that our medical centers have a sufficient supply of blood; and WHEREAS, a local in-state sufficient blood supply is crucial for treating those recovering from acci...",
-    "dataTag": "[Region: Statewide] [Category: Government]",
-    "sourceAttribution": "Source: Alaska Governor's Office",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:04:40+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d",
-      "c84d067dba6685c1bafe91014d363f3a",
-      "fc088179e4056d229742e2532c119356",
-      "b608aeb47b464d6d6d678fdaf4f582bc"
-    ]
-  },
-  {
-    "hash": "5b79ce293c205d92fc52913421fb45f5",
-    "source": "Alaska Governor's Office",
-    "category": "Government",
-    "title": "Childhood Cancer Awareness Month 2026",
-    "link": "https://gov.alaska.gov/childhood-cancer-awareness-month-2026/",
-    "published": "Tue, 01 Sep 2026 08:02:34 +0000",
-    "summary": "WHEREAS, our children are our most precious resource, and their well-being is vital to a bright future for Alaska; and WHEREAS, cancer is a life-altering diagnosis for anyone, and its impact is felt more profoundly when it touches a child and their family; and WHEREAS, pediatric cancer is the leadin...",
-    "dataTag": "[Region: Statewide] [Category: Government]",
-    "sourceAttribution": "Source: Alaska Governor's Office",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T08:02:34+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "19c6c05e8f91f8182d5c4dab30954e71",
-      "c329e3f718d874662ded7d0d15f1686d",
-      "c84d067dba6685c1bafe91014d363f3a",
-      "fc088179e4056d229742e2532c119356",
-      "b608aeb47b464d6d6d678fdaf4f582bc"
-    ]
-  },
-  {
-    "hash": "8fe6ac1876f388e1bd5d8f2fcc02796e",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "UN fund for sharing biodiversity benefits struggles for attention \u2014 and money",
-    "link": "https://news.mongabay.com/2026/09/un-fund-for-sharing-biodiversity-benefits-struggles-for-attention-and-money/",
-    "published": "01 Sep 2026 07:17:33 +0000",
-    "summary": "NAIROBI \u2014 On Nov. 19, 2025, a small U.K.-based artificial intelligence startup called TierraViva AI transferred $1,000 to a United Nations trust account. It was the first payment ever received by the Cali Fund, a mechanism created at the U.N. biodiversity summit a year earlier in Cali, Colombia. The...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/01021940/31248760644_5d0887d57d_k-768x512.jpg",
-    "timestamp": "2026-09-01T07:17:33+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "127101858e0fe8908a76f97bc918b076",
-      "7f1a165b4398f897c1475cb8f3e10bd4",
-      "a26f42484b59749e72006b10c8815469",
-      "21fe3cb55e0994b6180b50d15a42dea4",
-      "caec7730ee805da543c52719940c5857"
-    ]
-  },
-  {
-    "hash": "c168251bdce45350394f0c5ad8c3e7bc",
-    "source": "Chilkat Valley News",
-    "category": "Regional",
-    "title": "New engineering estimates show Lutak Dock project could cost twice borough\u2019s budget",
-    "link": "https://www.chilkatvalleynews.com/2026/08/31/new-engineering-estimates-show-lutak-dock-project-could-cost-twice-boroughs-budget/",
-    "published": "Tue, 01 Sep 2026 07:13:40 +0000",
-    "summary": "Lutak Dock engineers have released cost estimates showing some iterations of the design nearly doubling the borough\u2019s available project funds. The engineering firm Moffatt & Nichol has been tasked with doing the first round of designs on the dock rebuild, and assured the Haines Borough assembly in r...",
-    "dataTag": "[Region: Southeast] [Category: Regional]",
-    "sourceAttribution": "Source: Chilkat Valley News",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T07:13:40+00:00",
-    "impactScore": 45,
-    "region": "Southeast",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "fff485417c516ba7ba9d11aa6443ee3e",
-      "ba434c3991f8a1ada9265ae0782c1fbb",
-      "3b12058a9bb89b917a511cf3b81b4f6d",
-      "2b14bd77f7a53ac1a124649a052d82f0",
-      "5e4eac10818641984a7ee42a5654cd36"
-    ]
-  },
-  {
-    "hash": "f1463f2f1b479e7ff9ecfadfa7f3e724",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 4.5 - 105 km SSW of Nikolski, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdag",
-    "published": "",
-    "summary": "ShakeMap - II Time 2026-09-01 07:05:57 UTC 2026-09-01 07:05:57 UTC at epicenter Location 52.039\u00b0N 169.339\u00b0W Depth 42.23 km (26.24 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T07:05:57+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "87df4e416536df0f10706ee1a284c2f9",
-      "77f7c7c0198b877beffa1806f0b32f9d",
-      "81b7f39ba9c45ff6ef1b627c07784955",
-      "7d209e0f8a7c035802b4d3b94e68338c",
-      "2805c37f824d77d9e2ead116a3166f48"
-    ]
-  },
-  {
-    "hash": "e4165e41aba9d04cdd44c2292040a8cd",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 3.8 - 94 km SSW of Nikolski, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhjbnf",
-    "published": "",
-    "summary": "ShakeMap - II Time 2026-09-01 06:52:12 UTC 2026-09-01 06:52:12 UTC at epicenter Location 52.110\u00b0N 169.183\u00b0W Depth 10.40 km (6.46 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-01T06:52:12+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "87df4e416536df0f10706ee1a284c2f9",
-      "77f7c7c0198b877beffa1806f0b32f9d",
-      "81b7f39ba9c45ff6ef1b627c07784955",
-      "7d209e0f8a7c035802b4d3b94e68338c",
-      "2805c37f824d77d9e2ead116a3166f48"
     ]
   }
 ]

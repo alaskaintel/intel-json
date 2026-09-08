@@ -1,5 +1,155 @@
 [
   {
+    "hash": "0cdc91fa3d277af328de47752f506d8e",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 3.1 - 25 km E of Nenana, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rumtco",
+    "published": "",
+    "summary": "DYFI? - III Time 2026-09-08 09:37:50 UTC 2026-09-08 09:37:50 UTC at epicenter Location 64.607\u00b0N 148.567\u00b0W Depth 5.90 km (3.67 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T09:37:50+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "7adbea2a50dae3e6527e27e5f3a0b55c",
+      "daf6f3c949f7b4a345eabe0dd5c6d94f",
+      "23b822809ffb90b5c3e5fc2137b8ec25",
+      "de36fe94a028849a4a838196d0a4615b",
+      "d8cfb935691b2c71c28c9ceff799e7ad"
+    ]
+  },
+  {
+    "hash": "728504f35888a45c1a224d8c12b95d57",
+    "source": "KNBA Anchorage",
+    "category": "Radio",
+    "title": "Bill Hill\u2019s dark horse bid for Alaska congressional seat",
+    "link": "https://www.knba.org/news/2026-09-08/bill-hills-dark-horse-bid-for-alaska-congressional-seat",
+    "published": "Tue, 08 Sep 2026 08:38:52 GMT",
+    "summary": "Republican Congressman Nick Begich enters the general election after a decisive primary win. But independent Bill Hill is betting he can rally Democrats and moderate Republicans to close the gap.",
+    "dataTag": "[Region: Statewide] [Category: Radio]",
+    "sourceAttribution": "Source: KNBA Anchorage",
+    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/11b65ff/2147483647/strip/false/crop/4032x3024+0+0/resize/267x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F0a%2Fa8ba25ba443594035e77956e48bc%2F8-19-26-bill-hill-portrait.jpeg",
+    "timestamp": "2026-09-08T08:38:52+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "1a008e47fe745dc99da4f53b32042bb9",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Miss Manners: How do I politely deflect questions about a painful subject?",
+    "link": "https://www.adn.com/alaska-life/advice/2026/09/08/miss-manners-how-do-i-politely-deflect-questions-about-a-painful-subject/",
+    "published": "Tue, 08 Sep 2026 08:19:00 +0000",
+    "summary": "DEAR MISS MANNERS: I am very fortunate to have found a number of good companions through my active participation in local clubs. However, most of my new friends are a generation or more older than I. They are wonderful people, and I am grateful for their kind interest in me. Yet I find it uncomforta...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/rwlhKCejlPRH-A_boSAZwmM6sj8=/cloudfront-us-east-1.images.arcpublishing.com/adn/RVBRDFHLTRE6DFUM37EXSOHXIA.jpg",
+    "timestamp": "2026-09-08T08:19:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "557b5b8c1ce1473f7c8787ce74aef8e2",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Dear Annie: How do I declutter without starting a war in our home?",
+    "link": "https://www.adn.com/alaska-life/advice/2026/09/08/dear-annie-how-do-i-declutter-without-starting-a-war-in-our-home/",
+    "published": "Tue, 08 Sep 2026 08:17:00 +0000",
+    "summary": "Dear Annie: I am desperate to declutter our house, but my husband has a very hard time letting go of anything. Our closets are overflowing, the garage is packed, and we have boxes of things we haven\u2019t opened in years. There are old tools, clothes that no longer fit, broken electronics, stacks of pap...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/mIw4T9Zu2irVdHGXLItqC8E8gc0=/cloudfront-us-east-1.images.arcpublishing.com/adn/NJXH7B6MUNENPFANBUVA3TOJ4E.jpg",
+    "timestamp": "2026-09-08T08:17:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "217eb9a2e3d902fb94c7e1b161170b19",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Asking Eric: My partner wants me to move in, but not with my dog",
+    "link": "https://www.adn.com/alaska-life/advice/2026/09/08/asking-eric-my-partner-wants-me-to-move-in-but-not-with-my-dog/",
+    "published": "Tue, 08 Sep 2026 08:15:00 +0000",
+    "summary": "Dear Eric: My special friend and I are in our late 70\u2019s and have lost our long-time spouses. We are blessed to have found each other on a hiking trip and for two years have been inseparable. His family loves me and I love his family. Recently he has asked me to sell my house and move in with him. So...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/FZa8e37AGKK3ccfK-gzeP1zmI2k=/cloudfront-us-east-1.images.arcpublishing.com/adn/6CKS7ITAGFBOZDKAODQRBN2LJM.jpg",
+    "timestamp": "2026-09-08T08:15:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a04d093273d4bd4a45e47c8bbafce1d2",
+      "ac70d1902802de270c03c83e4b517a2c",
+      "7745be937c2438975189cadd7af536bb",
+      "b52813cddfb35a4b7ae7722dd8c9ae90",
+      "448186d6d26e1ddfef003db288fe94bc"
+    ]
+  },
+  {
+    "hash": "64d4cd1b654f793eb61476902828ef48",
+    "source": "Mongabay Alaska",
+    "category": "Environment",
+    "title": "\u2018Birds know no borders\u2019: Interview with BirdLife Africa\u2019s Alex Ngari",
+    "link": "https://news.mongabay.com/2026/09/birds-know-no-borders-interview-with-birdlife-africas-alex-ngari/",
+    "published": "08 Sep 2026 07:36:54 +0000",
+    "summary": "Every year, twice a year, millions of birds belonging to hundreds of species fly between breeding grounds in Europe and Asia and their non-breeding habitats in Africa. Scientists have surprisingly sparse knowledge of exactly where many species actually go \u2014 or what risks and obstacles the migrating....",
+    "dataTag": "[Region: Statewide] [Category: Environment]",
+    "sourceAttribution": "Source: Mongabay Alaska",
+    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08072428/PallidharrierCircus.macrourus_OmskRussia2026_YaroslavBurmatovINaturalistBYNC4.0-768x512.jpg",
+    "timestamp": "2026-09-08T07:36:54+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "environment",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
+      "8441874dfb929b269fc304219bc041b0",
+      "ee9608fd134e6cc50bff4bda35bb2066",
+      "bd900ed98642691c2bee3f88cad1de54",
+      "d38232b907c348c8d649f6fa10a29869"
+    ]
+  },
+  {
     "hash": "cec71a722af89b2001fc286d5d38b343",
     "source": "Mongabay Alaska",
     "category": "Environment",
@@ -1964,11 +2114,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
       "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2355,11 +2505,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "bd900ed98642691c2bee3f88cad1de54",
       "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2455,11 +2605,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2480,11 +2630,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "0168f467d32b3d92d379e81a6aba6897",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "0168f467d32b3d92d379e81a6aba6897"
     ]
   },
   {
@@ -2505,11 +2655,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "d38232b907c348c8d649f6fa10a29869",
-      "bd803cb52c5e1dd4f58d04e3b7f59158"
+      "d38232b907c348c8d649f6fa10a29869"
     ]
   },
   {
@@ -2530,11 +2680,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897"
+      "d38232b907c348c8d649f6fa10a29869"
     ]
   },
   {
@@ -5390,11 +5540,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "cec71a722af89b2001fc286d5d38b343",
       "8441874dfb929b269fc304219bc041b0",
       "ee9608fd134e6cc50bff4bda35bb2066",
       "bd900ed98642691c2bee3f88cad1de54",
-      "d38232b907c348c8d649f6fa10a29869",
-      "0168f467d32b3d92d379e81a6aba6897"
+      "d38232b907c348c8d649f6fa10a29869"
     ]
   },
   {
