@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/news/local_news/solidarity-takes-to-the-streets-as-fairbanks-celebrates-labor-day/article_8a9ea462-f96e-4ad3-9362-75e13e1d8386.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Solidarity takes to the streets as Fairbanks celebrates Labor Day</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/online_features/press_releases/xcotton-helps-global-brands-protect-every-customer-after-purchase/article_13e7f5c3-ced2-5005-994e-4a19bf4afb00.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-06</news:publication_date>
       <news:title>International Chamber Music Alaska returns for second year</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/features/latitude_65/cartoonist-featured-in-librarys-alaska-author-night/article_c0409b6d-a95d-4693-ab7d-8db4abed13ba.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06</news:publication_date>
-      <news:title>Cartoonist featured in library's Alaska Author Night</news:title>
     </news:news>
   </url>
 </urlset>

@@ -1,12 +1,333 @@
 [
   {
+    "hash": "daf6f3c949f7b4a345eabe0dd5c6d94f",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 2.5 - 16 km W of Salamatof, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ruccoc",
+    "published": "",
+    "summary": "DYFI? - II Time 2026-09-08 04:18:53 UTC 2026-09-08 04:18:53 UTC at epicenter Location 60.639\u00b0N 151.618\u00b0W Depth 77.60 km (48.22 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T04:18:53+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "23b822809ffb90b5c3e5fc2137b8ec25",
+      "de36fe94a028849a4a838196d0a4615b",
+      "d8cfb935691b2c71c28c9ceff799e7ad",
+      "6c59ea4ea7146a78d84008cca023657b",
+      "d7e01ace1c61f10e3ca2572f1b4285be"
+    ]
+  },
+  {
+    "hash": "b52813cddfb35a4b7ae7722dd8c9ae90",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Alaska Department of Law finds possible errors in 91 candidates\u2019 financial disclosure forms",
+    "link": "https://www.adn.com/politics/2026/09/07/alaska-department-of-law-finds-possible-errors-in-91-candidates-financial-disclosure-forms/",
+    "published": "Tue, 08 Sep 2026 03:00:53 +0000",
+    "summary": "A preliminary review conducted by the Alaska Department of Law found that 91 out of 121 candidates had \u201csome sort of inaccuracy\u201d on their financial disclosure statements, Lt. Gov. Nancy Dahlstrom said Monday. That was the reason that Dahlstrom, a Republican who oversees Alaska\u2019s elections, said she...",
+    "dataTag": "[Region: Southcentral] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/qSgP68fHhJO7s7xSSMyXF5Fwplk=/cloudfront-us-east-1.images.arcpublishing.com/adn/5MITL2QGLFFRVA3O2HUPMQ3WZI.JPG",
+    "timestamp": "2026-09-08T03:00:53+00:00",
+    "impactScore": 55,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
+    "hash": "993560c69272d07de9498163da34a84a",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Solidarity takes to the streets as Fairbanks celebrates Labor Day",
+    "link": "https://www.newsminer.com/news/local_news/solidarity-takes-to-the-streets-as-fairbanks-celebrates-labor-day/article_8a9ea462-f96e-4ad3-9362-75e13e1d8386.html",
+    "published": "Mon, 07 Sep 2026 18:45:00 -0800",
+    "summary": "The parade featured graders, fire engines, dozers, school and municipal buses, delivery trucks and an assortment of union floats, all highlighting labor groups that helped build and support Fairbanks and Interior Alaska.",
+    "dataTag": "[Region: Interior] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/f/b0/fb02ad18-d105-41fd-aaee-2b8dad3120e5/6a9f4beeea258.image.jpg?crop=1725%2C883%2C24%2C4&resize=300%2C154&order=crop%2Cresize",
+    "timestamp": "2026-09-08T02:45:00+00:00",
+    "impactScore": 30,
+    "region": "Interior",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "0990e144f10dd1fd36bcf89364cce987",
+      "c84fe7f3597e764e76af498a06512c80",
+      "f849a46d42248fd7c9bddc4385dde4b6",
+      "4355a5bee8210c4bee388227f4d4dbbe",
+      "4cfbe5b757947fb4c15d5fde86397eca"
+    ]
+  },
+  {
+    "hash": "5db5bd670b4a339de081f79cb6a2c463",
+    "source": "Peninsula Clarion",
+    "category": "Regional",
+    "title": "Sterling Highway storage yard permit delayed in Soldotna",
+    "link": "https://www.peninsulaclarion.com/2026/09/07/sterling-highway-storage-yard-permit-delayed-in-soldotna/",
+    "published": "Tue, 08 Sep 2026 02:30:00 +0000",
+    "summary": "Public notice error pushes conditional-use hearing to Oct. 7",
+    "dataTag": "[Region: Southcentral] [Category: Regional]",
+    "sourceAttribution": "Source: Peninsula Clarion",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T02:30:00+00:00",
+    "impactScore": 45,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "a134e2b904b0ac92c32c670e1084f00a",
+      "a6db4fd727eef3d84c0103481916ca40",
+      "6a6f57f6477247d3550cc1cdae752871",
+      "3e9a05cbb6c1915372d1853d4f774886",
+      "6cd249055156e0038a3795db0a4c9fb6"
+    ]
+  },
+  {
+    "hash": "448186d6d26e1ddfef003db288fe94bc",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Opinion: I\u2019m voting to retain ranked choice voting and you should, too",
+    "link": "https://www.adn.com/opinions/2026/09/07/opinion-im-voting-to-retain-ranked-choice-voting-and-you-should-too/",
+    "published": "Tue, 08 Sep 2026 02:08:04 +0000",
+    "summary": "This November, I will be voting no on Ballot Measure 2, and this is why. RCV emulates Alaska\u2019s value of independence Sixty-three percent of Alaskans are not registered as Republicans or Democrats. We\u2019re independent. It is ingrained in our lifestyle and values. Yet in a conventional primary, we end u...",
+    "dataTag": "[Region: Southcentral] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/x7-8khPZgY5CH0QRGDnHjRM4O_E=/cloudfront-us-east-1.images.arcpublishing.com/adn/X7EWSXWVPNHSRG77SOENPHZIFY.jpeg",
+    "timestamp": "2026-09-08T02:08:04+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
+    "hash": "c91a2f2991c077a8f0ee7781d48188ba",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Opinion: The Navy is no place for a presidential vanity project",
+    "link": "https://www.adn.com/opinions/2026/09/07/opinion-the-navy-is-no-place-for-a-presidential-vanity-project/",
+    "published": "Tue, 08 Sep 2026 02:06:37 +0000",
+    "summary": "President Trump\u2019s staff and Cabinet are constantly distracting him from his main mission. They ask him to focus on the Strait of Hormuz \u2014 \u201cAmerican territory\u201d \u2014 tariffs on the soon-to-be 51st state, the war in Ukraine and letters to his good friend Kim Jong Un, to name a few. And he needs time for h...",
+    "dataTag": "[Region: Southcentral] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/afBYeJRNycIG6LVNXcOX7igOfi0=/cloudfront-us-east-1.images.arcpublishing.com/adn/GTJFLH56MSLVRVLEVTK65MXXH4.jpg",
+    "timestamp": "2026-09-08T02:06:37+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
+    "hash": "dff9bba62b126155aa1d84e36096d816",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Opinion: To protect Alaska\u2019s old-growth forests, the Roadless Rule must be kept in place",
+    "link": "https://www.adn.com/opinions/2026/09/07/opinion-to-protect-alaskas-old-growth-forests-the-roadless-rule-must-be-kept-in-place/",
+    "published": "Tue, 08 Sep 2026 02:05:29 +0000",
+    "summary": "The 2001 National Roadless Rule protected 45 million acres of national forest lands from new road building and logging across the United States. There are 9.37 million acres of inventoried roadless areas in Alaska\u2019s Tongass National Forest and 5.4 million acres in the Chugach National Forest, the tw...",
+    "dataTag": "[Region: Southcentral] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/ffhyYfbr7_YywOFeA43A6Jq4zEE=/cloudfront-us-east-1.images.arcpublishing.com/adn/ZNXENFXYIJFOTGTVKCYNBRXFHQ.jpg",
+    "timestamp": "2026-09-08T02:05:29+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
+    "hash": "cf2672e3775829c8c8c793a742cc5caf",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "State, national fisheries debates set for this week",
+    "link": "https://www.kodiakdailymirror.com/news/article_4c66192d-2ad0-4826-a20e-197b156d92ed.html",
+    "published": "Mon, 07 Sep 2026 18:00:00 -0800",
+    "summary": "As of this weekend, front runners in the Alaska Gubernatorial, and U.S. House and Senate races have each confirmed they\u2019ll attend this week\u2019s 36th annual Kodiak Chamber of Commerce Fisheries Debates.",
+    "dataTag": "[Region: Gulf Coast] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T02:00:00+00:00",
+    "impactScore": 30,
+    "region": "Gulf Coast",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "576ea65b7e874389f4475ab7630359f6",
+      "ee210c225e6e7772200c7924fc82be2f",
+      "68e08e081bd294ac7edacd7488df15c4",
+      "ba3d7349eead47d36d86664830e8f1a2"
+    ]
+  },
+  {
+    "hash": "471ccd230352dbdb6dbd62fb48c5db28",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Aaron Judge activated from 60-day injured list by New York Yankees",
+    "link": "https://www.adn.com/sports/national-sports/2026/09/07/aaron-judge-activated-from-60-day-injured-list-by-new-york-yankees/",
+    "published": "Tue, 08 Sep 2026 01:46:20 +0000",
+    "summary": "NEW YORK \u2014 After missing more than three months, Aaron Judge is ready to return to the New York Yankees. The three-time MVP was reinstated from the 60-day injured list Monday night, an off day for the Yankees. They open a three-game series at home Tuesday night against the Colorado Rockies. Judge ha...",
+    "dataTag": "[Region: Southcentral] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/AADRuTxlxpgbHwxMps8Z7_BRETE=/cloudfront-us-east-1.images.arcpublishing.com/adn/7JRFZ5IUIOGDNPRCJLOC6GQ3RQ.jpg",
+    "timestamp": "2026-09-08T01:46:20+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
+    "hash": "ee210c225e6e7772200c7924fc82be2f",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Assembly candidates take the stage Tuesday",
+    "link": "https://www.kodiakdailymirror.com/news/article_8e872a12-d8f6-4fd0-b7a4-00532ff0bf20.html",
+    "published": "Mon, 07 Sep 2026 17:45:00 -0800",
+    "summary": "In a third \u2014 and less heralded debate this week \u2014 you can hear directly from the candidates running for the Kodiak Island Borough Assembly at the Kodiak Chamber of Commerce\u2019s 2026 Candidates Forum.",
+    "dataTag": "[Region: Gulf Coast] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T01:45:00+00:00",
+    "impactScore": 30,
+    "region": "Gulf Coast",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "576ea65b7e874389f4475ab7630359f6",
+      "cf2672e3775829c8c8c793a742cc5caf",
+      "68e08e081bd294ac7edacd7488df15c4",
+      "ba3d7349eead47d36d86664830e8f1a2"
+    ]
+  },
+  {
+    "hash": "f8b5a92cac60cf73a087ed79cc4beed4",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Rybakina overpowers Osaka, will face Zheng in US Open quarterfinals with a chance to become No. 1",
+    "link": "https://www.adn.com/sports/national-sports/2026/09/07/rybakina-overpowers-osaka-will-face-zheng-in-us-open-quarterfinals-with-a-chance-to-become-no-1/",
+    "published": "Tue, 08 Sep 2026 01:44:22 +0000",
+    "summary": "NEW YORK \u2014 Elena Rybakina overpowered Naomi Osaka at the U.S. Open and is a win away from the No. 1 ranking in women\u2019s tennis. She just has to beat Zheng Qinwen, which won\u2019t be easy. Even when Zheng goes down \u2014 way, way down \u2014 she refuses to stay there. Rybakina advanced to the quarterfinals Monday...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/c14VY9nxH9lA750-ndyMnslD9WM=/cloudfront-us-east-1.images.arcpublishing.com/adn/FCNM252BWT2APK2WSUJ2BFMJYQ.jpg",
+    "timestamp": "2026-09-08T01:44:22+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
+    "hash": "68e08e081bd294ac7edacd7488df15c4",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Kodiak football celebrates home win for first time since 2023",
+    "link": "https://www.kodiakdailymirror.com/sports/article_8ff45655-fad5-4daa-857b-c4f8fd370af7.html",
+    "published": "Mon, 07 Sep 2026 17:13:00 -0800",
+    "summary": "Kodiak football hosted a two-hour party Friday evening at Joe Floyd Track and Field.",
+    "dataTag": "[Region: Gulf Coast] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/d/75/d75b36ec-0303-45bf-a857-1f548fed71b9/6a9f6318a0461.image.jpg?resize=300%2C268",
+    "timestamp": "2026-09-08T01:13:00+00:00",
+    "impactScore": 30,
+    "region": "Gulf Coast",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "576ea65b7e874389f4475ab7630359f6",
+      "cf2672e3775829c8c8c793a742cc5caf",
+      "ee210c225e6e7772200c7924fc82be2f",
+      "ba3d7349eead47d36d86664830e8f1a2"
+    ]
+  },
+  {
+    "hash": "ba3d7349eead47d36d86664830e8f1a2",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Hot times produced at Kodiak\u2019s home opener cross country meet",
+    "link": "https://www.kodiakdailymirror.com/sports/article_ffb51b49-11a7-406d-9325-b9a7ed0a50d8.html",
+    "published": "Mon, 07 Sep 2026 17:10:00 -0800",
+    "summary": "A record temperature brought fast times that pushed three runners into the record books on the 5-kilometer cross country course at Fort Abercrombie State Historical Park.",
+    "dataTag": "[Region: Gulf Coast] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/7/b3/7b3a71e6-865e-4c22-a885-d0dd48e0ec96/6a9f6105d6c94.image.jpg?resize=300%2C388",
+    "timestamp": "2026-09-08T01:10:00+00:00",
+    "impactScore": 50,
+    "region": "Gulf Coast",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "576ea65b7e874389f4475ab7630359f6",
+      "cf2672e3775829c8c8c793a742cc5caf",
+      "ee210c225e6e7772200c7924fc82be2f",
+      "68e08e081bd294ac7edacd7488df15c4"
+    ]
+  },
+  {
     "hash": "b10bb243d840837b577e0db0e41dad48",
     "source": "Chilkat Valley News",
     "category": "Regional",
     "title": "Amid ferry troubles, worries about bears Haines hosts cross country meet",
     "link": "https://www.chilkatvalleynews.com/2026/09/07/amid-ferry-troubles-worries-about-bears-haines-hosts-cross-country-meet/",
     "published": "Tue, 08 Sep 2026 00:51:52 +0000",
-    "summary": "Sophia Hedden is congratulated by her supporters after finishing her race at the 2025 ASAA Cross Country Division III Championships at Mike Janecek Trails in Palmer, Alaska, on Saturday, Oct. 4, 2025. Hedden placed fourth out of 29 girls who competed in the North Cross Country Meet in Haines. (Jake...",
+    "summary": "Sophia Hedden is congratulated by her supporters after finishing her race at the 2025 ASAA Cross Country Division III Championships at Mike Janecek Trails in Palmer, Alaska, on Saturday, Oct. 4, 2025. Hedden placed fourth out of 29 girls who competed in the North Cross Country Meet in Haines. (Jake....",
     "dataTag": "[Region: Mat-Su] [Category: Regional]",
     "sourceAttribution": "Source: Chilkat Valley News",
     "imageUrl": "https://www.chilkatvalleynews.com/wp-content/uploads/2025/10/DSC07745-1024x683.jpg",
@@ -291,11 +612,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "b10bb243d840837b577e0db0e41dad48",
       "87131d9c712085b3d89dbb0e60cf31ac",
       "688e417fde6f6738809465dd12ea0dac",
       "37991edf8b59b4a5b0fd304239f652ec",
-      "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34"
+      "66a0d7c590937edadd92ce6927d761cd"
     ]
   },
   {
@@ -316,11 +637,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "b10bb243d840837b577e0db0e41dad48",
       "ea0999a3a6261f2f03e320d4595c5f62",
       "688e417fde6f6738809465dd12ea0dac",
       "37991edf8b59b4a5b0fd304239f652ec",
-      "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34"
+      "66a0d7c590937edadd92ce6927d761cd"
     ]
   },
   {
@@ -474,6 +795,31 @@
     ]
   },
   {
+    "hash": "3aae229794746136338fedf4ab0d3c99",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "From substitute teacher to the NFL, persistence pays off for Seahawks WR Foster",
+    "link": "https://www.adn.com/nation-world/2026/09/07/from-substitute-teacher-to-the-nfl-persistence-pays-off-for-seahawks-wr-foster/",
+    "published": "Mon, 07 Sep 2026 21:49:00 +0000",
+    "summary": "SEATTLE \u2014 Montorie Foster Jr. spent parts of the past year working as a substitute teacher and pursuing his real estate license. Now he\u2019s on the roster for the Seattle Seahawks. The receiver was waived by the Seahawks in training camp last year, but he never quite gave up on the dream of playing in...",
+    "dataTag": "[Region: Western Alaska] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/lIKSteZhtYEMbnsJZ-sYnTsESYE=/cloudfront-us-east-1.images.arcpublishing.com/adn/SFJPY2KBD7VUREJGG2VIKRBA7M.jpg",
+    "timestamp": "2026-09-07T21:49:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
     "hash": "a000a63a8a68687c1cf2bd5081cb4f99",
     "source": "Alaska Watchman",
     "category": "News",
@@ -499,6 +845,31 @@
     ]
   },
   {
+    "hash": "3c9233708c67c96bcb83144a1c76b2ab",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Germany\u2019s Merz shocked by far-right state election triumph but doubles down on unpopular reforms",
+    "link": "https://www.adn.com/nation-world/2026/09/07/germanys-merz-shocked-by-far-right-state-election-triumph-but-doubles-down-on-unpopular-reforms/",
+    "published": "Mon, 07 Sep 2026 21:43:00 +0000",
+    "summary": "BERLIN \u2014 German Chancellor Friedrich Merz doubled down Monday on pushing through unpopular reforms to Europe\u2019s largest economy after a far-right party surged to a landslide victory in a regional election, with a very good chance of forming the first far-right state government since the Nazi era. Mer...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/d8mfL2yd8jbXBCScxMtyOPBfhGA=/cloudfront-us-east-1.images.arcpublishing.com/adn/WCJ66SSWLD2TOJP5VTWWI23IVU.jpg",
+    "timestamp": "2026-09-07T21:43:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
     "hash": "688e417fde6f6738809465dd12ea0dac",
     "source": "Anchorage Daily News",
     "category": "News",
@@ -516,11 +887,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "b10bb243d840837b577e0db0e41dad48",
       "ea0999a3a6261f2f03e320d4595c5f62",
       "87131d9c712085b3d89dbb0e60cf31ac",
       "37991edf8b59b4a5b0fd304239f652ec",
-      "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34"
+      "66a0d7c590937edadd92ce6927d761cd"
     ]
   },
   {
@@ -690,7 +1061,12 @@
     "sector": "governance",
     "urgency": "background",
     "entitySlugs": [],
-    "relatedSignalIds": []
+    "relatedSignalIds": [
+      "cf2672e3775829c8c8c793a742cc5caf",
+      "ee210c225e6e7772200c7924fc82be2f",
+      "68e08e081bd294ac7edacd7488df15c4",
+      "ba3d7349eead47d36d86664830e8f1a2"
+    ]
   },
   {
     "hash": "37991edf8b59b4a5b0fd304239f652ec",
@@ -712,11 +1088,11 @@
       "nws"
     ],
     "relatedSignalIds": [
+      "b10bb243d840837b577e0db0e41dad48",
       "ea0999a3a6261f2f03e320d4595c5f62",
       "87131d9c712085b3d89dbb0e60cf31ac",
       "688e417fde6f6738809465dd12ea0dac",
-      "66a0d7c590937edadd92ce6927d761cd",
-      "bb9812d8aea6cecbbe69104e9ca4cb34"
+      "66a0d7c590937edadd92ce6927d761cd"
     ]
   },
   {
@@ -809,8 +1185,8 @@
     "urgency": "now",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "e48d9e8ec01f17145c9a52359be45d02",
-      "ee8f4f421c2ffa0451e6e4c3bde432e3"
+      "ee8f4f421c2ffa0451e6e4c3bde432e3",
+      "e48d9e8ec01f17145c9a52359be45d02"
     ]
   },
   {
@@ -1034,6 +1410,31 @@
     "link": "https://www.adn.com/nation-world/2026/09/07/nannies-for-millionaires-this-states-free-child-care-program-had-a-rocky-start/",
     "published": "Mon, 07 Sep 2026 16:34:44 +0000",
     "summary": "SANTA FE \u2014 A year after New Mexico launched free childcare for all families, Dakota Rivera still can\u2019t find a place to send her kids. The mom of two was ecstatic when the state\u2019s Democratic governor, Michelle Lujan Grisham, announced last September that New Mexico would expand its day care assistanc...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/iTdOHDGb97mzJOZZ3fGsXot6ZAE=/cloudfront-us-east-1.images.arcpublishing.com/adn/EB2S7UFJBMLYXMRR5B35ZQ2ORA.jpg",
+    "timestamp": "2026-09-07T16:34:44+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "778a37c0d3148edb1edaa13ce0b509c8",
+      "66cca2876be2ca26f0ba1b65bf020ed8",
+      "a910ad1cbb8fddeddcc8a812addc32b6",
+      "cd39aabefe7879074997f9ae23af086d",
+      "a000a63a8a68687c1cf2bd5081cb4f99"
+    ]
+  },
+  {
+    "hash": "d9e74d5870fe00b49d3cf54b02aac818",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "One year into free child care in New Mexico, too many kids and not enough slots",
+    "link": "https://www.adn.com/nation-world/2026/09/07/nannies-for-millionaires-this-states-free-child-care-program-had-a-rocky-start/",
+    "published": "Mon, 07 Sep 2026 16:34:44 +0000",
+    "summary": "SANTA FE \u2014 A year after New Mexico launched free child care for all families, Dakota Rivera still can\u2019t find a place to send her kids. The mom of two was ecstatic when the state\u2019s Democratic governor, Michelle Lujan Grisham, announced last September that New Mexico would expand its day care assistan...",
     "dataTag": "[Region: Statewide] [Category: News]",
     "sourceAttribution": "Source: Anchorage Daily News",
     "imageUrl": "https://www.adn.com/resizer/iTdOHDGb97mzJOZZ3fGsXot6ZAE=/cloudfront-us-east-1.images.arcpublishing.com/adn/EB2S7UFJBMLYXMRR5B35ZQ2ORA.jpg",
@@ -1412,11 +1813,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "b10bb243d840837b577e0db0e41dad48",
       "ea0999a3a6261f2f03e320d4595c5f62",
       "87131d9c712085b3d89dbb0e60cf31ac",
       "688e417fde6f6738809465dd12ea0dac",
-      "37991edf8b59b4a5b0fd304239f652ec",
-      "bb9812d8aea6cecbbe69104e9ca4cb34"
+      "37991edf8b59b4a5b0fd304239f652ec"
     ]
   },
   {
@@ -1814,275 +2215,6 @@
       "bd900ed98642691c2bee3f88cad1de54",
       "d38232b907c348c8d649f6fa10a29869",
       "0168f467d32b3d92d379e81a6aba6897"
-    ]
-  },
-  {
-    "hash": "ecd7b5f5edcbb55296461c8eccfec3ae",
-    "source": "USGS Alaska Science",
-    "category": "Science",
-    "title": "Yellowstone Volcano Observatory\u2026in Arizona?!",
-    "link": "https://www.usgs.gov/observatories/yvo/news/yellowstone-volcano-observatoryin-arizona?utm_source=comms&utm_medium=rss&utm_campaign=news",
-    "published": "Mon, 7 Sep 2026 00:30:00 EDT",
-    "summary": "The Yellowstone Volcano Observatory is not only responsible for monitoring and studying Yellowstone, but also volcanic systems throughout southwestern United States. Arizona hosts multiple volcanic fields, and new research suggests there may be more young volcanism in the state than previously thoug...",
-    "dataTag": "[Region: Statewide] [Category: Science]",
-    "sourceAttribution": "Source: USGS Alaska Science",
-    "imageUrl": null,
-    "timestamp": "2026-09-07T04:30:00+00:00",
-    "impactScore": 35,
-    "region": "Statewide",
-    "sector": "research",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": []
-  },
-  {
-    "hash": "e09298201e9fe4777646ae09715be54b",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "XCOTTON Helps Global Brands Protect Every Customer After Purchase",
-    "link": "https://www.newsminer.com/online_features/press_releases/xcotton-helps-global-brands-protect-every-customer-after-purchase/article_13e7f5c3-ced2-5005-994e-4a19bf4afb00.html",
-    "published": "Sun, 06 Sep 2026 19:59:00 -0800",
-    "summary": "LOS ANGELES and NEW YORK and LAS VEGAS, Sept. 6, 2026 /PRNewswire/ -- As IFA 2026 enters its final days in Berlin, global brands are showcasing the next generation of products designed to improve everyday life\u2014from smart home solutions and\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/e/1f/e1f6815f-604c-5996-8023-295d0bc4158c/6a9e9375c0e63.image.jpg?resize=300%2C169",
-    "timestamp": "2026-09-07T03:59:00+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
-    ]
-  },
-  {
-    "hash": "6704211c3782a76ba3b7af10ccc254b5",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "XCOTTON Helps Global Brands Protect Every Customer After Purchase",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_e8454ed5-8a4f-5a33-8783-b852af723691.html",
-    "published": "Sun, 06 Sep 2026 19:59:00 -0800",
-    "summary": "LOS ANGELES and NEW YORK and LAS VEGAS, Sept. 6, 2026 /PRNewswire/ -- As IFA 2026 enters its final days in Berlin, global brands are showcasing the next generation of products designed to improve everyday life\u2014from smart home solutions and\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/8/fb/8fb6f9f8-ff66-5017-907a-2627d4f450af/6a9e936bda1ab.image.jpg?resize=300%2C169",
-    "timestamp": "2026-09-07T03:59:00+00:00",
-    "impactScore": 45,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
-    ]
-  },
-  {
-    "hash": "6a44aa56e0c94c5294949de874ebaedd",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.5 - 6 km W of Dutch Harbor, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/av94420578",
-    "published": "",
-    "summary": "Time 2026-09-07 03:37:59 UTC 2026-09-07 03:37:59 UTC at epicenter Location 53.899\u00b0N 166.637\u00b0W Depth 9.12 km (5.67 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-07T03:37:59+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b",
-      "d8cfb935691b2c71c28c9ceff799e7ad",
-      "6c59ea4ea7146a78d84008cca023657b",
-      "d7e01ace1c61f10e3ca2572f1b4285be"
-    ]
-  },
-  {
-    "hash": "4cefde0cad74d69f307c7e8cd54595dc",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.2 - 35 km W of Ferry, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rsesfx",
-    "published": "",
-    "summary": "Time 2026-09-07 03:37:39 UTC 2026-09-07 03:37:39 UTC at epicenter Location 64.000\u00b0N 149.834\u00b0W Depth 2.00 km (1.24 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-07T03:37:39+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b",
-      "d8cfb935691b2c71c28c9ceff799e7ad",
-      "6c59ea4ea7146a78d84008cca023657b",
-      "d7e01ace1c61f10e3ca2572f1b4285be"
-    ]
-  },
-  {
-    "hash": "927b78d123675a190bedd18abff5d365",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Park Systems Expands North American Footprint with New Regional Office in Hillsboro, Oregon",
-    "link": "https://www.newsminer.com/online_features/press_releases/park-systems-expands-north-american-footprint-with-new-regional-office-in-hillsboro-oregon/article_104bb25c-046d-59e8-8cde-800b9e0d9760.html",
-    "published": "Sun, 06 Sep 2026 19:10:00 -0800",
-    "summary": "SANTA CLARA, Calif., Sept. 6, 2026 /PRNewswire/ -- Park Systems, a leading global manufacturer of atomic force microscopy (AFM) and nanoscale metrology systems, today announced the opening of its newest regional office in Hillsboro, Oregon. The strategic addition enhances the\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/c/ab/cabc1a8d-adb0-5203-851f-31435414343a/6a9e9376c288d.image.jpg?resize=300%2C169",
-    "timestamp": "2026-09-07T03:10:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
-    ]
-  },
-  {
-    "hash": "15af7e8b1bcd9f133570f2db29385b06",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "Park Systems Expands North American Footprint with New Regional Office in Hillsboro, Oregon",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_2d054861-25e0-5f54-811a-e7231434fe4d.html",
-    "published": "Sun, 06 Sep 2026 19:10:00 -0800",
-    "summary": "SANTA CLARA, Calif., Sept. 6, 2026 /PRNewswire/ -- Park Systems, a leading global manufacturer of atomic force microscopy (AFM) and nanoscale metrology systems, today announced the opening of its newest regional office in Hillsboro, Oregon. The strategic addition enhances the\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/d/d7/dd760a52-987f-52b6-9581-dd14bd534a47/6a9e936ce2447.image.jpg?resize=300%2C169",
-    "timestamp": "2026-09-07T03:10:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
-    ]
-  },
-  {
-    "hash": "dcfbf266943877d384e5867df390f9ea",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Author Tom Holtom Releases \u201cSemper Fidelis,\u201d a Tribute to the Marines Who Never Came Home, Until Now",
-    "link": "https://www.newsminer.com/online_features/press_releases/author-tom-holtom-releases-semper-fidelis-a-tribute-to-the-marines-who-never-came-home/article_4088c15e-4cfd-5c10-8bb2-fc39598f3396.html",
-    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
-    "summary": "A personal and historical novel about Carlson\u2019s Raiders, one family\u2019s decades-long wait, and the Marines who kept their promise to bring the fallen home",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/3/53/3535cec8-b261-5415-8d96-e34c2b954aa6/6a9e937653f23.image.jpg?resize=300%2C462",
-    "timestamp": "2026-09-07T02:15:02+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
-    ]
-  },
-  {
-    "hash": "f37c2805a96e56491ee6accdce60d6fd",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "Tom Holtom\u2019s \u201cSemper Fidelis\u201d Captures the Human Cost of War Through One Marine Family\u2019s Sacrifice",
-    "link": "https://www.newsminer.com/online_features/press_releases/tom-holtom-s-semper-fidelis-captures-the-human-cost-of-war-through-one-marine-family/article_8334dd88-8bab-5f5d-aab5-e023eb548141.html",
-    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
-    "summary": "New book follows one Marine family across generations, from the uncertainty of World War II to a long-awaited homecoming.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/b/a1/ba16e3a0-836b-5df6-8ee8-41a2a6bc3d40/6a9e93768a290.image.jpg?resize=300%2C462",
-    "timestamp": "2026-09-07T02:15:02+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
-    ]
-  },
-  {
-    "hash": "faacab1c21cf965cda06378027ccd91e",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "Author Tom Holtom Releases \u201cSemper Fidelis,\u201d a Tribute to the Marines Who Never Came Home, Until Now",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_60a33d52-8c37-59c1-b706-eb1471bbf168.html",
-    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
-    "summary": "A personal and historical novel about Carlson\u2019s Raiders, one family\u2019s decades-long wait, and the Marines who kept their promise to bring the fallen home",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/6/80/680f0619-33ea-58a5-a810-bbb375c5ef11/6a9e936c729a2.image.jpg?resize=300%2C462",
-    "timestamp": "2026-09-07T02:15:02+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
-    ]
-  },
-  {
-    "hash": "f910d13c00ab4e2dedf96e08c18ef9b2",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "Tom Holtom\u2019s \u201cSemper Fidelis\u201d Captures the Human Cost of War Through One Marine Family\u2019s Sacrifice",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_7964849a-c9dc-5dd1-9a50-b03b2c65c005.html",
-    "published": "Sun, 06 Sep 2026 18:15:02 -0800",
-    "summary": "New book follows one Marine family across generations, from the uncertainty of World War II to a long-awaited homecoming.",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/d/9a/d9aee0fa-553f-5c4f-a2f2-110cb9a4c00a/6a9e936ca99bf.image.jpg?resize=300%2C462",
-    "timestamp": "2026-09-07T02:15:02+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "778a37c0d3148edb1edaa13ce0b509c8",
-      "66cca2876be2ca26f0ba1b65bf020ed8",
-      "a910ad1cbb8fddeddcc8a812addc32b6",
-      "cd39aabefe7879074997f9ae23af086d",
-      "a000a63a8a68687c1cf2bd5081cb4f99"
     ]
   }
 ]
