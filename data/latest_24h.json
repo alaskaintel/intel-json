@@ -1,5 +1,79 @@
 [
   {
+    "hash": "2ec953db063e15da3b3c86d71193d3fa",
+    "source": "Wrangell Sentinel",
+    "category": "Regional",
+    "title": "Muskeg Meadows\u2019 final tournament weekend this Saturday-Sunday",
+    "link": "http://wrangell.stage1.crc.ms/stories/muskeg-meadows-final-tournament-weekend-this-saturday-sunday,74330",
+    "published": "Tue, 08 Sep 2026 03:00:00 -0800",
+    "summary": "There were close finishes in the Captain\u2019s Coffee Co. golf tournament at Muskeg Meadows on Saturday, Sept. 5. First place went to the team of Jim Brooks, Drew Eyon and Joe Delabrue, with a net score of 32.8, followed by Ralph Lotspeich, Julie Williams, Karl Altepeter and Carter Hammer in second with...",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Wrangell Sentinel",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T11:00:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "66a7e9630cc01e2ca8760278700a822d",
+    "source": "Native Voice One",
+    "category": "Native",
+    "title": "This week on Native America Calling September 7-11, 2026",
+    "link": "https://www.nv1.org/this-week-on-native-america-calling-september-7-11-2026/",
+    "published": "Tue, 08 Sep 2026 10:49:29 +0000",
+    "summary": "Monday, September 7, 2026 \u2014 A conversation about law, advocacy, and redemption with attorney Courtney Jordan Tuesday, September 8, 2026 \u2014 Life after a wrongful murder conviction for Santiago Ventura Morales Stay connected to our social media channels for updates on our Wednesday, Thursday, and Frida...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Native Voice One",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T10:49:29+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "ed5bd30e4a6838ae147cfc161937ab09",
+      "21ea34105e8c19e228eb85f7a2a4c7ec",
+      "d6f06a94ba09115b76022b01ecf4a59f",
+      "51249b2474d4ec2befcd33259b65aa9b"
+    ]
+  },
+  {
+    "hash": "78a94888ccead72039c43815c35e172e",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 4.1 - 105 km SSE of King Cove, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tft5",
+    "published": "",
+    "summary": "ShakeMap - III Time 2026-09-08 10:49:02 UTC 2026-09-08 10:49:02 UTC at epicenter Location 54.236\u00b0N 161.529\u00b0W Depth 35.00 km (21.75 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T10:49:02+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
+      "0cdc91fa3d277af328de47752f506d8e",
+      "7adbea2a50dae3e6527e27e5f3a0b55c",
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
+    ]
+  },
+  {
     "hash": "2b662fce0b4303215635a3a525824a6e",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -17,11 +91,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
       "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "23b822809ffb90b5c3e5fc2137b8ec25"
     ]
   },
   {
@@ -42,11 +116,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
       "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "23b822809ffb90b5c3e5fc2137b8ec25"
     ]
   },
   {
@@ -67,11 +141,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
       "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b",
-      "d8cfb935691b2c71c28c9ceff799e7ad"
+      "23b822809ffb90b5c3e5fc2137b8ec25"
     ]
   },
   {
@@ -319,7 +393,8 @@
     "relatedSignalIds": [
       "21ea34105e8c19e228eb85f7a2a4c7ec",
       "d6f06a94ba09115b76022b01ecf4a59f",
-      "51249b2474d4ec2befcd33259b65aa9b"
+      "51249b2474d4ec2befcd33259b65aa9b",
+      "66a7e9630cc01e2ca8760278700a822d"
     ]
   },
   {
@@ -361,11 +436,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b",
-      "d8cfb935691b2c71c28c9ceff799e7ad"
+      "23b822809ffb90b5c3e5fc2137b8ec25"
     ]
   },
   {
@@ -411,11 +486,111 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b",
-      "d8cfb935691b2c71c28c9ceff799e7ad"
+      "23b822809ffb90b5c3e5fc2137b8ec25"
+    ]
+  },
+  {
+    "hash": "46eb019cf65e775ceb346221a6b1fc4e",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Replit Opens First International Office in London",
+    "link": "https://www.newsminer.com/online_features/press_releases/replit-opens-first-international-office-in-london/article_44904c9b-cbd4-529a-b137-e74101967e27.html",
+    "published": "Mon, 07 Sep 2026 20:00:00 -0800",
+    "summary": "Growing demand from individuals, small businesses and enterprises drives global expansion",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/a/03/a03d9a13-819b-544c-a644-923458bf4773/6a9fe54899396.image.jpg?resize=300%2C420",
+    "timestamp": "2026-09-08T04:00:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "64c4f98d8caa6386fd2859293597eeb2",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Replit Opens First International Office in London",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_57be1c60-1de5-5fc8-97eb-66d284ea2d11.html",
+    "published": "Mon, 07 Sep 2026 20:00:00 -0800",
+    "summary": "Growing demand from individuals, small businesses and enterprises drives global expansion",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/e/b3/eb30d271-89ea-5db3-a332-a3086ab211c9/6a9fe42cbd94f.image.jpg?resize=300%2C420",
+    "timestamp": "2026-09-08T04:00:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "9fbc0b0b0d2c06180402b6c928803293",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Avathon and IIT Roorkee Announce Plans to Establish the Avathon Physical AI Lab to Advance Autonomy for the Industrial Economy",
+    "link": "https://www.newsminer.com/online_features/press_releases/avathon-and-iit-roorkee-announce-plans-to-establish-the-avathon-physical-ai-lab-to-advance/article_8e00ba9f-29d5-52e4-9344-1a69baffef09.html",
+    "published": "Mon, 07 Sep 2026 19:59:00 -0800",
+    "summary": "New research initiative aims to build the next generation of Physical AI science in India, anchored at IIT Roorkee's Department of Computer Science & Engineering",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/6/fb/6fb28783-bc8b-564e-b718-3dc11cd01814/6a9fe5452d3d9.image.jpg?resize=300%2C158",
+    "timestamp": "2026-09-08T03:59:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "1cacc94c3ccfd4bfe70122aa9de87960",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Avathon and IIT Roorkee Announce Plans to Establish the Avathon Physical AI Lab to Advance Autonomy for the Industrial Economy",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_e60cfdfd-69c5-5dc9-bd31-6774ee351b02.html",
+    "published": "Mon, 07 Sep 2026 19:59:00 -0800",
+    "summary": "New research initiative aims to build the next generation of Physical AI science in India, anchored at IIT Roorkee's Department of Computer Science & Engineering",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/8/47/8477e31a-a679-5c34-a8b8-2336bed0b898/6a9fe42924327.image.jpg?resize=300%2C158",
+    "timestamp": "2026-09-08T03:59:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
     ]
   },
   {
@@ -466,6 +641,156 @@
       "f849a46d42248fd7c9bddc4385dde4b6",
       "4355a5bee8210c4bee388227f4d4dbbe",
       "4cfbe5b757947fb4c15d5fde86397eca"
+    ]
+  },
+  {
+    "hash": "97eed201e7e6cd38e16e57ba971c5286",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "My Purple Blanket: A Story of a Promise That Never Fades is her first children\u2019s book.",
+    "link": "https://www.newsminer.com/online_features/press_releases/my-purple-blanket-a-story-of-a-promise-that-never-fades-is-her-first-children/article_b2096ba0-6c04-5c99-9091-6c86abdd0098.html",
+    "published": "Mon, 07 Sep 2026 18:35:02 -0800",
+    "summary": "Inspired by a true family story, My Purple Blanket is told through the eyes of a young boy whose beloved purple blanket carries a meaning he does not fully understand until he grows older.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/9/5b/95b39a8e-15bc-56b9-9141-7f65da1b0c31/6a9fe54b1cf22.image.jpg?resize=300%2C452",
+    "timestamp": "2026-09-08T02:35:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "77816a57e16abb03017243f88dda4b89",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Trash Daddy Dumpsters Expands Access to Simple, Flat-Rate Dumpster Rentals Across the United States",
+    "link": "https://www.newsminer.com/online_features/press_releases/trash-daddy-dumpsters-expands-access-to-simple-flat-rate-dumpster-rentals-across-the-united-states/article_2036d46c-f2e0-5528-915a-2c32b92427a0.html",
+    "published": "Mon, 07 Sep 2026 18:35:02 -0800",
+    "summary": "Fast-growing roll-off dumpster rental company combines transparent pricing, flexible container sizes and personal customer support for homeowners and contractors.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T02:35:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "957596d8730357f7559540fc7dcb5bd4",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Trash Daddy Dumpsters Expands Access to Simple, Flat-Rate Dumpster Rentals Across the United States",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_6dc9388f-5539-559f-8e9e-a591cf84dc91.html",
+    "published": "Mon, 07 Sep 2026 18:35:02 -0800",
+    "summary": "Fast-growing roll-off dumpster rental company combines transparent pricing, flexible container sizes and personal customer support for homeowners and contractors.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T02:35:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "3f0d4ab85ffccd0e7afc30285101926f",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "My Purple Blanket: A Story of a Promise That Never Fades is her first children\u2019s book.",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_1045e244-fa10-5c9e-ae7b-35ad4a72dee5.html",
+    "published": "Mon, 07 Sep 2026 18:35:02 -0800",
+    "summary": "Inspired by a true family story, My Purple Blanket is told through the eyes of a young boy whose beloved purple blanket carries a meaning he does not fully understand until he grows older.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/2/44/244071f5-9b84-5842-b75d-f53d1c1b3af9/6a9fe42f1ce18.image.jpg?resize=300%2C452",
+    "timestamp": "2026-09-08T02:35:02+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "8829f3609efbc06f1d2729ab7dc79cb7",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Govee Launches Permanent Outdoor Lights 2 Pro with Innovative Dual-Layer Illumination, Redefining Outdoor Lighting Customization",
+    "link": "https://www.newsminer.com/online_features/press_releases/govee-launches-permanent-outdoor-lights-2-pro-with-innovative-dual-layer-illumination-redefining-outdoor-lighting/article_dba6d1e3-fc09-5b5c-960c-498251dd857c.html",
+    "published": "Mon, 07 Sep 2026 18:34:00 -0800",
+    "summary": "BELLEVUE, Wash., Sept. 7, 2026 /PRNewswire/ -- Govee, a global leader in smart lighting, today announced the Govee Permanent Outdoor Lights 2 Pro, the industry's first permanent outdoor lighting solution featuring independently controlled dual-layer illumination. Designed to unlock more DIY\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/b/fc/bfc90f08-1ff6-5126-8667-d85742532e5d/6a9fe548cb6bb.image.jpg?resize=300%2C152",
+    "timestamp": "2026-09-08T02:34:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "ff75379f0176d12a1597184bff1a41e6",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Govee Launches Permanent Outdoor Lights 2 Pro with Innovative Dual-Layer Illumination, Redefining Outdoor Lighting Customization",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_633c5094-5055-56af-8098-e6904dae83a3.html",
+    "published": "Mon, 07 Sep 2026 18:34:00 -0800",
+    "summary": "BELLEVUE, Wash., Sept. 7, 2026 /PRNewswire/ -- Govee, a global leader in smart lighting, today announced the Govee Permanent Outdoor Lights 2 Pro, the industry's first permanent outdoor lighting solution featuring independently controlled dual-layer illumination. Designed to unlock more DIY\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/4/a5/4a5b7322-bd83-5abb-b67c-252f5eb15844/6a9fe42cee52e.image.jpg?resize=300%2C152",
+    "timestamp": "2026-09-08T02:34:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
     ]
   },
   {
@@ -667,6 +992,106 @@
     ]
   },
   {
+    "hash": "448c897aa36170a5fbb187f126e0f8f1",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Essence of Detail Encourages Surrey Drivers to Rethink Ceramic Coating as a Paint-Maintenance Tool",
+    "link": "https://www.newsminer.com/online_features/press_releases/essence-of-detail-encourages-surrey-drivers-to-rethink-ceramic-coating-as-a-paint-maintenance-tool/article_b4a59b91-5eed-5495-ad59-0a4721137f27.html",
+    "published": "Mon, 07 Sep 2026 17:20:01 -0800",
+    "summary": "Essence of Detail is encouraging Surrey drivers to rethink ceramic coating as part of regular paint maintenance. The company points to Surrey\u2019s 2,309 mm of annual rainfall, road grime, UV exposure, and repeated washing as reasons to give paint protection\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/8/68/86866e49-7421-5d7e-80d5-b1f0842128da/6a9fe54b71d28.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-08T01:20:01+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "c784af12768d1f5c39040dafab5f55e7",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Beau Parmenter Brings Business Leadership and Public Service Focus to a Healthier Michigan",
+    "link": "https://www.newsminer.com/online_features/press_releases/beau-parmenter-brings-business-leadership-and-public-service-focus-to-a-healthier-michigan/article_c89542aa-f9e8-5544-a802-2aec705971fc.html",
+    "published": "Mon, 07 Sep 2026 17:20:01 -0800",
+    "summary": "Entrepreneur and community advocate champions transparent governance, clean water, and safer products for Michigan families.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T01:20:01+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "357beea28338b6233dee8b8e4801a6f7",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Beau Parmenter Brings Business Leadership and Public Service Focus to a Healthier Michigan",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_8d8d3a25-4b60-5901-b5eb-4fcb26d42ae4.html",
+    "published": "Mon, 07 Sep 2026 17:20:01 -0800",
+    "summary": "Entrepreneur and community advocate champions transparent governance, clean water, and safer products for Michigan families.",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T01:20:01+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "2e9efcfa79a1bc85faac65bea6cbb33b",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Essence of Detail Encourages Surrey Drivers to Rethink Ceramic Coating as a Paint-Maintenance Tool",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_b9f83aa6-3311-5fbe-a63b-b8836d0ac3df.html",
+    "published": "Mon, 07 Sep 2026 17:20:01 -0800",
+    "summary": "Essence of Detail is encouraging Surrey drivers to rethink ceramic coating as part of regular paint maintenance. The company points to Surrey\u2019s 2,309 mm of annual rainfall, road grime, UV exposure, and repeated washing as reasons to give paint protection\u2026",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/9/b2/9b287b27-d91d-56ec-80a1-83f9c5067d57/6a9fe42f5ffc3.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-08T01:20:01+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
     "hash": "68e08e081bd294ac7edacd7488df15c4",
     "source": "Kodiak Daily Mirror",
     "category": "Regional",
@@ -782,11 +1207,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "de36fe94a028849a4a838196d0a4615b",
-      "d8cfb935691b2c71c28c9ceff799e7ad"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -904,11 +1329,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "d8cfb935691b2c71c28c9ceff799e7ad"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -954,11 +1379,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -979,11 +1404,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -1081,11 +1506,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -1364,6 +1789,56 @@
     ]
   },
   {
+    "hash": "60401aaa96d6792db84f3a1b0beb32db",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "WaFd, Inc. Enters into a $3.9 Billion Reverse Merger Transaction with EverBank Financial Corp",
+    "link": "https://www.newsminer.com/online_features/press_releases/wafd-inc-enters-into-a-3-9-billion-reverse-merger-transaction-with-everbank-financial-corp/article_3ca0ceaa-5246-51f0-9bff-8bb0ffd9a2fe.html",
+    "published": "Mon, 07 Sep 2026 13:00:00 -0800",
+    "summary": "Combination will position bank for strong performance",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T21:00:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "3baa7b0086fa392d3fcce2a40198283a",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "WaFd, Inc. Enters into a $3.9 Billion Reverse Merger Transaction with EverBank Financial Corp",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_d440ffd1-fc13-534a-9bbe-320dd87b8676.html",
+    "published": "Mon, 07 Sep 2026 13:00:00 -0800",
+    "summary": "Combination will position bank for strong performance",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": null,
+    "timestamp": "2026-09-07T21:00:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
     "hash": "5e2751f0b35f2fcaa7419d78bd017274",
     "source": "Mat-Su Frontiersman",
     "category": "Regional",
@@ -1406,11 +1881,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -1431,11 +1906,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -1506,11 +1981,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -1582,11 +2057,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -1629,11 +2104,61 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
+    ]
+  },
+  {
+    "hash": "ed0710c3fbdf907a9947bd58a36d2cfc",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Xcanbot Mate X Wins IFA Innovation Award 2026 for Tech for Good & Accessibility",
+    "link": "https://www.newsminer.com/online_features/press_releases/xcanbot-mate-x-wins-ifa-innovation-award-2026-for-tech-for-good-accessibility/article_f5378165-86d0-548f-ab38-570211e1c418.html",
+    "published": "Mon, 07 Sep 2026 10:35:01 -0800",
+    "summary": "The seated mobility robot took recognition in two categories in Berlin, adding Honoree status in IFA NEXT & Emerging Tech. On show at Booth CCBB-154 until 8 September",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/a/b1/ab1b32ac-1a91-533b-9a71-f60ab48c65c2/6a9fe54884295.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T18:35:01+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "a24c1552568d2d2b2ec81e31b06fc7b6",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Xcanbot Mate X Wins IFA Innovation Award 2026 for Tech for Good & Accessibility",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_846ecaf0-c248-5eb3-806b-b12b1a134928.html",
+    "published": "Mon, 07 Sep 2026 10:35:01 -0800",
+    "summary": "The seated mobility robot took recognition in two categories in Berlin, adding Honoree status in IFA NEXT & Emerging Tech. On show at Booth CCBB-154 until 8 September",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/4/d7/4d77b8e8-2a3d-520e-9a17-63b5f2b63e04/6a9fe42ca6f59.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T18:35:01+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
     ]
   },
   {
@@ -1698,11 +2223,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -1989,11 +2514,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -2014,11 +2539,111 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
+    ]
+  },
+  {
+    "hash": "331e883928a03a2af4fb991f2a912e4b",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Sony Electronics and Hello Kitty Team Up for Limited-Edition Headphone Collection",
+    "link": "https://www.newsminer.com/online_features/press_releases/sony-electronics-and-hello-kitty-team-up-for-limited-edition-headphone-collection/article_99edad93-57be-5063-b468-e002958cec5f.html",
+    "published": "Mon, 07 Sep 2026 08:00:00 -0800",
+    "summary": "Sony Store-exclusive bundles pair select Sony headphones with custom Hello Kitty accessories featuring thoughtful, character-inspired design details",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/d/ed/ded7be87-16d8-56a9-af17-c4a407bc6b95/6a9fe54317f61.image.jpg?resize=300%2C300",
+    "timestamp": "2026-09-07T16:00:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "893a11312ee05bc3801481f5a82f71a8",
+    "source": "Fairbanks News-Miner",
+    "category": "Regional",
+    "title": "Sony Electronics Introduces WH-1000XM4C (M4 2nd Gen) Wireless Noise-Cancelling Headphones and Updates Popular Mid- and Entry-Level Wireless Headphones with WH-CH730N and WH-CH530",
+    "link": "https://www.newsminer.com/online_features/press_releases/sony-electronics-introduces-wh-1000xm4c-m4-2nd-gen-wireless-noise-cancelling-headphones-and-updates-popular/article_5d3b2429-882d-5b86-9853-46f86d4c00a5.html",
+    "published": "Mon, 07 Sep 2026 08:00:00 -0800",
+    "summary": "Sony strengthens its wireless headphone portfolio with premium, mid-range, and entry-level options designed for music, travel, work, and everyday listening alongside a special Sony x Hello Kitty collaboration",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Fairbanks News-Miner",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/b/ac/bacb44da-ee7a-5945-b4ef-9d351a71f95c/6a9fe5455fa28.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T16:00:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "071e2f2cc874d08c72d5750f5aab7227",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Sony Electronics and Hello Kitty Team Up for Limited-Edition Headphone Collection",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_c363b1d6-40be-5bc5-b417-2d9550ed0145.html",
+    "published": "Mon, 07 Sep 2026 08:00:00 -0800",
+    "summary": "Sony Store-exclusive bundles pair select Sony headphones with custom Hello Kitty accessories featuring thoughtful, character-inspired design details",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/f/a1/fa1129e1-1951-5c71-9f19-19b3947022b4/6a9fe426d06bb.image.jpg?resize=300%2C300",
+    "timestamp": "2026-09-07T16:00:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
+    ]
+  },
+  {
+    "hash": "190bebea2e3beb5f6c8dc117fb3d1fcd",
+    "source": "Kodiak Daily Mirror",
+    "category": "Regional",
+    "title": "Sony Electronics Introduces WH-1000XM4C (M4 2nd Gen) Wireless Noise-Cancelling Headphones and Updates Popular Mid- and Entry-Level Wireless Headphones with WH-CH730N and WH-CH530",
+    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_3149a603-9f18-507c-a9a7-43440c89452d.html",
+    "published": "Mon, 07 Sep 2026 08:00:00 -0800",
+    "summary": "Sony strengthens its wireless headphone portfolio with premium, mid-range, and entry-level options designed for music, travel, work, and everyday listening alongside a special Sony x Hello Kitty collaboration",
+    "dataTag": "[Region: Statewide] [Category: Regional]",
+    "sourceAttribution": "Source: Kodiak Daily Mirror",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/1/74/1747942b-7496-5f7f-928b-da191b05ca67/6a9fe42954c26.image.jpg?resize=300%2C169",
+    "timestamp": "2026-09-07T16:00:00+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "728504f35888a45c1a224d8c12b95d57",
+      "1a008e47fe745dc99da4f53b32042bb9",
+      "557b5b8c1ce1473f7c8787ce74aef8e2",
+      "217eb9a2e3d902fb94c7e1b161170b19",
+      "a04d093273d4bd4a45e47c8bbafce1d2"
     ]
   },
   {
@@ -2114,11 +2739,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -2139,11 +2764,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -2189,11 +2814,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -2239,11 +2864,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -2264,11 +2889,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "2b662fce0b4303215635a3a525824a6e",
+      "ff6f557008367074bf1520158283ec53",
       "0cdc91fa3d277af328de47752f506d8e",
       "7adbea2a50dae3e6527e27e5f3a0b55c",
-      "daf6f3c949f7b4a345eabe0dd5c6d94f",
-      "23b822809ffb90b5c3e5fc2137b8ec25",
-      "de36fe94a028849a4a838196d0a4615b"
+      "daf6f3c949f7b4a345eabe0dd5c6d94f"
     ]
   },
   {
@@ -2413,28 +3038,6 @@
       "557b5b8c1ce1473f7c8787ce74aef8e2",
       "217eb9a2e3d902fb94c7e1b161170b19",
       "a04d093273d4bd4a45e47c8bbafce1d2"
-    ]
-  },
-  {
-    "hash": "ecec6f5d1f908de02d134232aa3c3d38",
-    "source": "Mining.com Alaska",
-    "category": "Mining",
-    "title": "Brazil targets bigger role in critical minerals rush",
-    "link": "https://www.mining.com/brazil-targets-bigger-role-in-critical-minerals-rush/",
-    "published": "Mon, 07 Sep 2026 11:00:00 +0000",
-    "summary": "Brazil is courting the foreign capital needed to develop its vast critical mineral resources while pushing to keep more processing and industrial value at home \u2014 and moving to give the government new powers to scrutinize who controls strategic mineral assets. The tension sharpened last week after Br...",
-    "dataTag": "[Region: Statewide] [Category: Mining]",
-    "sourceAttribution": "Source: Mining.com Alaska",
-    "imageUrl": "https://www.mining.com/wp-content/uploads/2026/09/latam_brazil_MDC.png",
-    "timestamp": "2026-09-07T11:00:00+00:00",
-    "impactScore": 55,
-    "region": "Statewide",
-    "sector": "energy",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "218b4ac2d4fef73fa99d2197f7ac799e",
-      "93ec6e4d96422a3b8279394b4a851e36"
     ]
   }
 ]
