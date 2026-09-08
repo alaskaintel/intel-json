@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T09:58:47.901502+00:00",
+  "updated": "2026-09-08T10:08:24.043135+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -7,14 +7,35 @@
     "min_magnitude": 1.5,
     "time_window_hours": 24
   },
-  "count": 26,
+  "count": 27,
   "earthquakes": [
+    {
+      "id": "aka2026runkig",
+      "magnitude": 1.6,
+      "place": "41 km NW of Eureka Roadhouse, Alaska",
+      "time": "2026-09-08T09:57:43.368000+00:00",
+      "updated": "2026-09-08T10:01:06.727000+00:00",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026runkig",
+      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026runkig&format=geojson",
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "title": "M 1.6 - 41 km NW of Eureka Roadhouse, Alaska",
+      "alert": null,
+      "felt": null,
+      "cdi": null,
+      "mmi": null,
+      "sig": 39,
+      "lat": 62.188,
+      "lng": -147.753,
+      "depth_km": 36.6
+    },
     {
       "id": "aka2026rumtco",
       "magnitude": 3.1,
       "place": "25 km E of Nenana, Alaska",
       "time": "2026-09-08T09:37:50.039000+00:00",
-      "updated": "2026-09-08T09:58:28.040000+00:00",
+      "updated": "2026-09-08T10:06:33.567000+00:00",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rumtco",
       "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rumtco&format=geojson",
       "status": "automatic",
@@ -22,10 +43,10 @@
       "type": "earthquake",
       "title": "M 3.1 - 25 km E of Nenana, Alaska",
       "alert": null,
-      "felt": 9,
+      "felt": 12,
       "cdi": 3.4,
       "mmi": null,
-      "sig": 151,
+      "sig": 152,
       "lat": 64.609,
       "lng": -148.565,
       "depth_km": 5.8
