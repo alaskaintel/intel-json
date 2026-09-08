@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://alaskapublic.org/news/economy/energy/2026-09-08/alaskas-state-owned-gasline-corporation-says-it-will-continue-to-pursue-aklng-pipeline-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Alaska’s state-owned gasline corporation says it will continue to pursue AKLNG pipeline in 2027</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskapublic.org/about/station-news/2026-09-08/national-murrow-award-honors-collaborative-halong-coverage</loc>
     <news:news>
       <news:publication>
@@ -4926,17 +4937,6 @@
       </news:publication>
       <news:publication_date>2026-07-10</news:publication_date>
       <news:title>'The Crossword Play' heads to New York City | State of Art</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskapublic.org/news/environment/2026-07-10/climate-change-is-helping-invasive-pike-wreak-havoc-on-southcentral-alaskan-salmon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Public Media</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10</news:publication_date>
-      <news:title>Climate change is helping invasive pike wreak havoc on Southcentral Alaska salmon</news:title>
     </news:news>
   </url>
 </urlset>

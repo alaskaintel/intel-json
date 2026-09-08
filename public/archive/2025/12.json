@@ -12641,6 +12641,27 @@
     "section": "Business"
   },
   {
+    "hash": "e77ca1ba210e712af0799eaba5fed77b",
+    "source": "Anchorage Municipality",
+    "category": "Government",
+    "title": "Municipal_Health_and_Human_Services_Commission_September_2026",
+    "link": "http://www.muni.org/PublicNotice/Pages/Municipal_Health_and_Human_Services_Commission_September_2026.aspx",
+    "published": "Fri, 12 Dec 2025 21:55:52 GMT",
+    "summary": "Title: CANCELED Municipal Health and Human Services Commission Meeting Public Notice Event Start: 9/9/2026 5:30 PM Public Notice Event End: 9/9/2026 7:00 PM Event Location: Anchorage Health Department 825 L St, 4th Floor Conference Room Anchorage, AK 99501 PageContent2: \u200b\u200b \u200bA program advisory commis...",
+    "dataTag": "[Region: Southcentral] [Category: Government]",
+    "sourceAttribution": "Source: Anchorage Municipality",
+    "imageUrl": null,
+    "timestamp": "2025-12-12T21:55:52+00:00",
+    "impactScore": 65,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d2cd0ae029d7c64e2d7d6f45dd7aefcd"
+    ]
+  },
+  {
     "hash": "fb81d8f4f6617ce11257d8166a8418f7",
     "source": "Anchorage Municipality",
     "category": "Government",
@@ -12700,7 +12721,9 @@
     "sector": "governance",
     "urgency": "background",
     "entitySlugs": [],
-    "relatedSignalIds": []
+    "relatedSignalIds": [
+      "e77ca1ba210e712af0799eaba5fed77b"
+    ]
   },
   {
     "hash": "83e3c3b16b198ac84b6c0d7c366068d0",
