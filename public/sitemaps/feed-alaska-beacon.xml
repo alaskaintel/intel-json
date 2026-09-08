@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://alaskabeacon.com/2026/09/08/repub/trumps-trade-war-with-canada-escalates-as-new-tariffs-launch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Beacon</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Trump’s trade war with Canada escalates as new tariffs launch</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskabeacon.com/2026/09/08/a-california-cloud-seeding-company-created-rain-near-homer-and-an-uproar/</loc>
     <news:news>
       <news:publication>
@@ -2946,17 +2957,6 @@
       </news:publication>
       <news:publication_date>2026-07-10</news:publication_date>
       <news:title>Bering Sea heat wave cited as trigger for nosedive in Yukon River Chinook salmon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskabeacon.com/2026/07/10/repub/trump-guts-election-commission-in-move-seen-as-increasing-his-sway-over-midterms/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Beacon</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10</news:publication_date>
-      <news:title>Trump guts election commission in move seen as increasing his sway over midterms</news:title>
     </news:news>
   </url>
 </urlset>

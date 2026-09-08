@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kodiakdailymirror.com/community/article_19a0cae3-3615-4037-8c02-7eb2841f05f1.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Kodiak Daily Mirror</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>What to plant in September</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kodiakdailymirror.com/online_features/press_releases/article_57be1c60-1de5-5fc8-97eb-66d284ea2d11.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>ECM Air Conditioning Reaches 750,000+ Service Calls and 90,000 AC Installations Across South Florida</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kodiakdailymirror.com/online_features/press_releases/article_58dd9219-f8fe-5209-9a25-1205ba02d810.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Kodiak Daily Mirror</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>MemorialCare Requests Correction to Inaccurate Employment Information Published in Recent News Story</news:title>
     </news:news>
   </url>
 </urlset>
