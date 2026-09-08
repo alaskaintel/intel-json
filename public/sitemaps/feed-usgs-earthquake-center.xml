@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rutkfh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>M 2.2 - 40 km NNE of Chenega, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rutdid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>M 0.8 - 28 km E of Nenana, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rusgai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>M 1.0 - 23 km ESE of Knik River, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rurvpr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>M 1.7 - 44 km E of Knik River, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rurnzj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>M 1.1 - 13 km ENE of Nenana, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://earthquake.usgs.gov/earthquakes/eventpage/us7000tft5</loc>
     <news:news>
       <news:publication>
@@ -10943,61 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-08</news:publication_date>
       <news:title>M 2.9 - 234 km ESE of Attu Station, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powrpu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 3.2 - 51 km WNW of Skwentna, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 5.6 - 57 km WNW of Skwentna, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poraym</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 1.3 - 40 km NW of Ninilchik, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poqnxm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 1.8 - 66 km SW of Karluk, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ponfpd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 1.8 - 114 km SW of Akhiok, Alaska</news:title>
     </news:news>
   </url>
 </urlset>
