@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.knba.org/news/2026-09-08/former-state-rep-carl-morgan-of-aniak-leaves-behind-legacy-of-public-service</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KNBA Anchorage</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Former state Rep. Carl Morgan of Aniak leaves behind legacy of public service</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.knba.org/news/2026-09-08/pilots-killed-in-cape-newenham-crash-identified</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KNBA Anchorage</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Pilots killed in Cape Newenham crash identified</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.knba.org/news/2026-09-08/federal-government-transfers-anmc-to-tribal-ownership-after-decades-long-advocacy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KNBA Anchorage</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Federal government transfers ANMC to tribal ownership after decades-long advocacy</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.knba.org/news/2026-09-08/bill-hills-dark-horse-bid-for-alaska-congressional-seat</loc>
     <news:news>
       <news:publication>
@@ -702,17 +735,6 @@
       </news:publication>
       <news:publication_date>2026-07-10</news:publication_date>
       <news:title>Aviation experts say closures of Alaska flight service stations threaten flight safety</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.knba.org/news/2026-07-10/gray-whales-are-washing-up-dead-in-large-numbers-along-the-pacific-coast</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KNBA Anchorage</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10</news:publication_date>
-      <news:title>Gray whales are washing up dead in large numbers along the Pacific Coast</news:title>
     </news:news>
   </url>
 </urlset>
