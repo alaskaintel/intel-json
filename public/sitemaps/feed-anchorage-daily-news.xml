@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/08/ballots-rejected-for-late-postmarks-surged-in-washington-and-oregon-after-postal-service-changes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Ballots rejected for late postmarks surged in Washington and Oregon after Postal Service changes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/08/supreme-court-rejects-missouris-push-to-use-new-house-map-that-favored-republicans/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Brit sets another speed record, this time for fastest run in a hydrogen-powered car</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/11/3-states-are-set-to-hold-executions-on-the-same-day-a-first-in-the-us-since-2010/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>3 states are set to hold executions on the same day, a first in the US since 2010</news:title>
     </news:news>
   </url>
 </urlset>
