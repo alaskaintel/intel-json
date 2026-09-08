@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/sports/2026/09/07/the-rewind-west-football-rallies-past-south-uaa-volleyball-has-win-streak-snapped-by-nationally-ranked-foe/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07</news:publication_date>
+      <news:title>The Rewind: West football rallies past South, UAA volleyball has win streak snapped by nationally ranked foe</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/alaska-news/mat-su/2026/09/07/antimony-plant-offloaded-at-port-mackenzie-up-to-40-jobs-planned/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Anchorage to tear down motel Tuesday in push to clean up blighted buildings</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/alaska-news/anchorage/2026/08/10/anchorage-to-tear-down-motel-tuesday-in-push-to-clean-up-blighted-buildings/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>Anchorage begins motel demolition in push to clean up blighted buildings</news:title>
     </news:news>
   </url>
 </urlset>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T23:47:07.065170+00:00",
+  "updated": "2026-09-08T00:50:51.703291+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -7,7 +7,7 @@
     "min_magnitude": 1.5,
     "time_window_hours": 24
   },
-  "count": 34,
+  "count": 31,
   "earthquakes": [
     {
       "id": "aka2026rtsdur",
@@ -659,69 +659,6 @@
       "lat": 53.899,
       "lng": -166.635833333333,
       "depth_km": 8.73
-    },
-    {
-      "id": "aka2026rrycnr",
-      "magnitude": 2.8,
-      "place": "46 km N of Valdez, Alaska",
-      "time": "2026-09-07T00:19:37.948000+00:00",
-      "updated": "2026-09-07T02:55:58.040000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrycnr",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rrycnr&format=geojson",
-      "status": "automatic",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 2.8 - 46 km N of Valdez, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": null,
-      "sig": 121,
-      "lat": 61.543,
-      "lng": -146.486,
-      "depth_km": 18
-    },
-    {
-      "id": "aka2026rrxren",
-      "magnitude": 2.3,
-      "place": "8 km N of Meadow Lakes, Alaska",
-      "time": "2026-09-07T00:06:32.285000+00:00",
-      "updated": "2026-09-07T00:19:38.054000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxren",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rrxren&format=geojson",
-      "status": "automatic",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 2.3 - 8 km N of Meadow Lakes, Alaska",
-      "alert": null,
-      "felt": 1,
-      "cdi": 1,
-      "mmi": null,
-      "sig": 81,
-      "lat": 61.705,
-      "lng": -149.595,
-      "depth_km": 14.7
-    },
-    {
-      "id": "aka2026rrxaqi",
-      "magnitude": 1.8,
-      "place": "48 km E of Pedro Bay, Alaska",
-      "time": "2026-09-06T23:47:20.459000+00:00",
-      "updated": "2026-09-06T23:49:35.328000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxaqi",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rrxaqi&format=geojson",
-      "status": "automatic",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 1.8 - 48 km E of Pedro Bay, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": null,
-      "sig": 50,
-      "lat": 59.787,
-      "lng": -153.241,
-      "depth_km": 132
     }
   ]
 }
