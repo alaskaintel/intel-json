@@ -1,5 +1,30 @@
 [
   {
+    "hash": "1e99dd034766d32c629846682b4f0b91",
+    "source": "Mongabay Alaska",
+    "category": "Environment",
+    "title": "Colorful Himalayan pheasants face a less rosy future under human pressure",
+    "link": "https://news.mongabay.com/short-article/2026/09/colorful-himalayan-pheasants-face-a-less-rosy-future-under-human-pressure/",
+    "published": "09 Sep 2026 05:46:46 +0000",
+    "summary": "In the Indian Himalayas, numerous species of colorful pheasants roam the understory, pecking at seeds, roots, leaves, berries, and insects. These large, ornate birds are vital to the Himalayan ecosystem. But some species now face increasing pressures from habitat degradation and hunting, reports con...",
+    "dataTag": "[Region: Statewide] [Category: Environment]",
+    "sourceAttribution": "Source: Mongabay Alaska",
+    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09054445/Western-Tragopan-4-1800x1012-1-768x512.jpg",
+    "timestamp": "2026-09-09T05:46:46+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "environment",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "63c7affda833d3ace1efe8e33136d393",
+      "433b80bca8f0a1b8e607676a7b2a09d4",
+      "4414e3b55aab770e9ff1621ced363b33",
+      "84eca0a14ff5eff7fd4152edd575b472",
+      "5f58a62cf5c260f667f40975648a4194"
+    ]
+  },
+  {
     "hash": "f06c2165d759531ee1099e668e2d51aa",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -65,11 +90,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
       "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22",
-      "3632c8330472307f2c2f793b58b48135"
+      "3c1bf0af1cfc56558120103a1d3a0d22"
     ]
   },
   {
@@ -265,11 +290,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "32d9e4bf11090b09fc8c427db314a167",
       "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22",
-      "3632c8330472307f2c2f793b58b48135"
+      "3c1bf0af1cfc56558120103a1d3a0d22"
     ]
   },
   {
@@ -290,10 +315,10 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "25b40913d29b424ceaa5e006350d91a0",
       "3a76a41bb4f86e4ef132a83eb3f2ad82",
       "b696b219b51f3e370b6c28ae3b5ed099",
-      "ecd7b5f5edcbb55296461c8eccfec3ae",
-      "25b40913d29b424ceaa5e006350d91a0"
+      "ecd7b5f5edcbb55296461c8eccfec3ae"
     ]
   },
   {
@@ -410,11 +435,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22",
-      "3632c8330472307f2c2f793b58b48135"
+      "3c1bf0af1cfc56558120103a1d3a0d22"
     ]
   },
   {
@@ -435,11 +460,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "3c1bf0af1cfc56558120103a1d3a0d22",
-      "3632c8330472307f2c2f793b58b48135"
+      "3c1bf0af1cfc56558120103a1d3a0d22"
     ]
   },
   {
@@ -510,11 +535,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3632c8330472307f2c2f793b58b48135"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -685,11 +710,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -710,11 +735,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -1273,11 +1298,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -1398,11 +1423,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -2363,11 +2388,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -2632,11 +2657,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -2807,11 +2832,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -2832,11 +2857,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -3413,11 +3438,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -3438,11 +3463,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -3513,10 +3538,10 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "25b40913d29b424ceaa5e006350d91a0",
       "41765816b7a6fdb5b3581d9dd2865329",
       "b696b219b51f3e370b6c28ae3b5ed099",
-      "ecd7b5f5edcbb55296461c8eccfec3ae",
-      "25b40913d29b424ceaa5e006350d91a0"
+      "ecd7b5f5edcbb55296461c8eccfec3ae"
     ]
   },
   {
@@ -3987,11 +4012,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4012,11 +4037,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4037,11 +4062,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4062,11 +4087,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4112,11 +4137,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4460,11 +4485,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4485,11 +4510,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4510,11 +4535,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4535,11 +4560,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "f06c2165d759531ee1099e668e2d51aa",
       "fdc27140da6a650993b681e3b4c10332",
       "65a6e354f7985398c1b73f7d9eb2bd0c",
       "32d9e4bf11090b09fc8c427db314a167",
-      "b9eb736305003af34b00cc8dd1fb5188",
-      "3c1bf0af1cfc56558120103a1d3a0d22"
+      "b9eb736305003af34b00cc8dd1fb5188"
     ]
   },
   {
@@ -4665,56 +4690,6 @@
       "4414e3b55aab770e9ff1621ced363b33",
       "84eca0a14ff5eff7fd4152edd575b472",
       "5f58a62cf5c260f667f40975648a4194"
-    ]
-  },
-  {
-    "hash": "cec71a722af89b2001fc286d5d38b343",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Protect this tree. Save Africa\u2019s rainforests.",
-    "link": "https://news.mongabay.com/short-article/2026/09/protect-this-tree-save-africas-rainforests/",
-    "published": "08 Sep 2026 06:06:36 +0000",
-    "summary": "Ogbono is one of Africa\u2019s most iconic plants, and its seed is one of African cuisine\u2019s iconic ingredients. Providing both food and shelter for a great many species; this canopy tree is integral to many of the continent\u2019s rainforests! In this 4-part series on NTFPs (non-timber forest products) with T...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08060604/ThumbnailOgbono.png",
-    "timestamp": "2026-09-08T06:06:36+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "63c7affda833d3ace1efe8e33136d393",
-      "433b80bca8f0a1b8e607676a7b2a09d4",
-      "4414e3b55aab770e9ff1621ced363b33",
-      "84eca0a14ff5eff7fd4152edd575b472",
-      "5f58a62cf5c260f667f40975648a4194"
-    ]
-  },
-  {
-    "hash": "a04d093273d4bd4a45e47c8bbafce1d2",
-    "source": "Dermot Cole",
-    "category": "Politics",
-    "title": "Eight employees of the APOC can't possibly do everything mandated by state law",
-    "link": "https://www.dermotcole.com/reportingfromalaska/2026/9/7/eight-employees-of-the-apoc-cant-possibly-do-everything-mandated-by-state-law",
-    "published": "Tue, 08 Sep 2026 05:51:58 +0000",
-    "summary": "It should come as no surprise that the office of acting Attorney General Cori Mills, supplemented by the office of shadow attorney general Stephen Cox, had the staff available to find errors in 91 of 121 financial disclosure statements of candidates. The acting general and the shadow general, who wa...",
-    "dataTag": "[Region: Southeast] [Category: Politics]",
-    "sourceAttribution": "Source: Dermot Cole",
-    "imageUrl": null,
-    "timestamp": "2026-09-08T05:51:58+00:00",
-    "impactScore": 80,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "now",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "7aa8da7175510d77252045e4dd07f600",
-      "934b4a45626cfb4e1e80480e7d0a4ac6",
-      "2b94e2b05eb6e4e33e82204becf7a7eb",
-      "307b879b90a0db1e4b053f06f5bd32a0",
-      "27dd0de59ef40f6ee014bee30cd62ba5"
     ]
   }
 ]
