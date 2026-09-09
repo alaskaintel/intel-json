@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T06:11:48.685473+00:00",
+  "updated": "2026-09-09T06:41:42.346588+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -7,7 +7,7 @@
     "min_magnitude": 1.5,
     "time_window_hours": 24
   },
-  "count": 28,
+  "count": 27,
   "earthquakes": [
     {
       "id": "aka2026rvzppd",
@@ -575,27 +575,6 @@
       "lat": 61.107,
       "lng": -150.775,
       "depth_km": 19.8
-    },
-    {
-      "id": "aka2026rugues",
-      "magnitude": 1.7,
-      "place": "48 km SSW of Harding-Birch Lakes, Alaska",
-      "time": "2026-09-08T06:39:10.691000+00:00",
-      "updated": "2026-09-08T06:41:26.272000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rugues",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rugues&format=geojson",
-      "status": "automatic",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 1.7 - 48 km SSW of Harding-Birch Lakes, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": null,
-      "sig": 44,
-      "lat": 63.993,
-      "lng": -147.073,
-      "depth_km": 5
     }
   ]
 }
