@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/earthquake-swarms-and-nikolski-activity/article_1b7c9412-bf16-4edd-b0cf-3371cd2c9d1b.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Earthquake swarms and Nikolski activity</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/features/food/4-easy-meals-to-ease-back-to-school-and-work-woes/article_31a495ea-0270-4617-a032-b5acd1dabf3a.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-09</news:publication_date>
       <news:title>Alaska Division of Elections erroneously removed more than 600 citizens from voter list</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/alaska-state-elections-attorney-says-it-s-ok-for-candidates-to-temporarily-conceal-finances/article_0d6c090d-01a2-4eea-a708-76ce9cf7843f.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09</news:publication_date>
-      <news:title>Alaska state elections attorney says it’s OK for candidates to temporarily conceal finances</news:title>
     </news:news>
   </url>
 </urlset>
