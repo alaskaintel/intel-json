@@ -1,12 +1,12 @@
 [
     {
-        "title": "Mustang Fire (839.6 acres)",
+        "title": "Mustang Fire (839.61 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-07-06T22:39:59+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
         "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: USFWS",
-        "hash": "f47455d0f9a10e68c371715e3eaac3ea",
+        "hash": "a8391eaa7055ae0a784330a1f32c383c",
         "type": "fire",
         "location": {
             "lon": -154.11447680175448,
@@ -140,6 +140,20 @@
         }
     },
     {
+        "title": "Wise Owl Fire (0.1 acres)",
+        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
+        "published": "2026-09-08T02:44:42+00:00",
+        "source": "Alaska Fire Service",
+        "category": "Emergency",
+        "summary": "Status: Out | Area: KKS | Cause: None | Owner: State",
+        "hash": "1b3264fef5ac832b43a1c18869377714",
+        "type": "fire",
+        "location": {
+            "lon": -151.3571052868119,
+            "lat": 60.12680147464594
+        }
+    },
+    {
         "title": "2026 Wharf Ave RX Fire (0.01 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-01-01T17:05:00+00:00",
@@ -201,7 +215,7 @@
         "published": "2026-08-29T05:14:00+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: CRS | Cause: None | Owner: Private",
+        "summary": "Status: Out | Area: CRS | Cause: None | Owner: Private",
         "hash": "ae3ca9e96b7a2b2b1d7746cab1a5294d",
         "type": "fire",
         "location": {
@@ -481,7 +495,7 @@
         "published": "2026-09-02T17:57:19+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: TNF | Cause: None | Owner: USFS",
+        "summary": "Status: Out | Area: TNF | Cause: None | Owner: USFS",
         "hash": "dcf8d0767bc2ad67aa88c68c155eea42",
         "type": "fire",
         "location": {
@@ -527,8 +541,8 @@
         "hash": "e14a5ff005eca9ef4a9a6276849b7e1e",
         "type": "fire",
         "location": {
-            "lon": -149.8774064657984,
-            "lat": 61.80265160320115
+            "lon": -149.87741236579015,
+            "lat": 61.80264050320083
         }
     },
     {
@@ -621,7 +635,7 @@
         "published": "2026-08-16T19:49:47+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: CRS | Cause: None | Owner: Private",
+        "summary": "Status: Out | Area: CRS | Cause: None | Owner: Private",
         "hash": "dd065537213a3253891514013d626749",
         "type": "fire",
         "location": {
@@ -887,7 +901,7 @@
         "published": "2026-06-21T22:16:16+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: BLM",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: BLM",
         "hash": "4dd4ef1d78f6016bd06685c7c6017239",
         "type": "fire",
         "location": {
@@ -896,13 +910,13 @@
         }
     },
     {
-        "title": "Highpower Fire (24.57 acres)",
+        "title": "Highpower Fire (24.580000000000002 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-06-23T00:47:30+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Undetermined | Owner: NPS",
-        "hash": "0e579438658f078ea257520d7bdb2433",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: NPS",
+        "hash": "6d364c6b0c644352e9a2596f2f94b41d",
         "type": "fire",
         "location": {
             "lon": -152.20893950994144,
@@ -919,8 +933,8 @@
         "hash": "68268f6eb799311ba285ed1f383b620d",
         "type": "fire",
         "location": {
-            "lon": -145.31984555572558,
-            "lat": 61.958987347314654
+            "lon": -145.31985685571632,
+            "lat": 61.958974547313474
         }
     },
     {
@@ -1097,7 +1111,7 @@
         "published": "2026-07-06T00:54:33+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/C | Area: TAD | Cause: None | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: State",
         "hash": "399e4b522d6adc088e1a53fab6ffcfaa",
         "type": "fire",
         "location": {
@@ -1218,13 +1232,13 @@
         }
     },
     {
-        "title": "Glacier Fire (218.42000000000002 acres)",
+        "title": "Glacier Fire (236.74 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-06-20T23:20:43+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
         "summary": "Status: U/U | Area: MID | Cause: Natural | Owner: DOD",
-        "hash": "759c861d78c7df5a5c1ab45285058a86",
+        "hash": "8a5b7245d65383f3286bad680e3329bb",
         "type": "fire",
         "location": {
             "lon": -146.4849588402609,
@@ -1237,7 +1251,7 @@
         "published": "2026-06-21T00:10:52+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: State",
         "hash": "d8af8efe5516b045276be89a5993beb6",
         "type": "fire",
         "location": {
@@ -1330,13 +1344,13 @@
         }
     },
     {
-        "title": "Buffalo Fire (767.4 acres)",
+        "title": "Buffalo Fire (767.4300000000001 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-06-22T03:29:49+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: MID | Cause: Undetermined | Owner: DOD",
-        "hash": "b7c6bf1f37a15a8e8c9da615bf2c48f7",
+        "summary": "Status: Out | Area: MID | Cause: Undetermined | Owner: DOD",
+        "hash": "5ec50bbc946853ad09148de7c6334535",
         "type": "fire",
         "location": {
             "lon": -146.00835816198773,
@@ -1349,7 +1363,7 @@
         "published": "2026-06-22T23:31:29+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Natural | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: State",
         "hash": "dfb40b34044d9da5070fc48d606608f0",
         "type": "fire",
         "location": {
@@ -1358,13 +1372,13 @@
         }
     },
     {
-        "title": "Geskakmina Fire (48.02 acres)",
+        "title": "Geskakmina Fire (48.03 acres)",
         "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
         "published": "2026-06-22T23:44:10+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: Undetermined | Owner: State",
-        "hash": "057d9a16874281f0ef120812b2899989",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: State",
+        "hash": "d0c7d25908a1d7240f6726f55ecc4287",
         "type": "fire",
         "location": {
             "lon": -150.62180783219088,
@@ -1377,7 +1391,7 @@
         "published": "2026-06-21T05:41:35+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: State",
         "hash": "beee96ebf6ab155347bb6172ce98d5a4",
         "type": "fire",
         "location": {
@@ -1433,7 +1447,7 @@
         "published": "2026-06-21T06:09:42+00:00",
         "source": "Alaska Fire Service",
         "category": "Emergency",
-        "summary": "Status: U/U | Area: TAD | Cause: None | Owner: State",
+        "summary": "Status: Out | Area: TAD | Cause: Natural | Owner: State",
         "hash": "ca7dd11fdc2fc92a6406a2c67033fd07",
         "type": "fire",
         "location": {
@@ -1733,6 +1747,20 @@
         "location": {
             "lon": -153.8491947609224,
             "lat": 66.6646675744312
+        }
+    },
+    {
+        "title": "Crestview Fire (0.1 acres)",
+        "link": "https://www.arcgis.com/apps/dashboards/71b0377b3c3d4f719e11b8caa50fb529",
+        "published": "2026-09-08T05:05:23+00:00",
+        "source": "Alaska Fire Service",
+        "category": "Emergency",
+        "summary": "Status: U/U | Area: KKS | Cause: None | Owner: Private",
+        "hash": "a8a19dba6ed4e947c0e79388c6ada3e0",
+        "type": "fire",
+        "location": {
+            "lon": -151.27652168635183,
+            "lat": 60.731593446361224
         }
     },
     {

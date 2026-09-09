@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-09T11:38:09.981523",
-  "total_items": 18702,
+  "last_updated": "2026-09-09T12:04:33.917490",
+  "total_items": 18699,
   "categories": {
-    "News": 3424,
     "Regional": 3823,
+    "Emergency": 2023,
     "Environment": 1149,
-    "Emergency": 2026,
+    "News": 3424,
     "Science": 129,
     "Radio": 410,
     "Government": 327,
@@ -35,10 +35,11 @@
     "Social": 1
   },
   "sources": {
+    "Wrangell Sentinel": 231,
+    "USGS Earthquake Center": 1879,
+    "Mongabay Alaska": 555,
     "Anchorage Daily News": 2198,
     "Chilkat Valley News": 183,
-    "Mongabay Alaska": 555,
-    "USGS Earthquake Center": 1882,
     "USGS Alaska Science": 113,
     "KCAW Sitka": 108,
     "Fairbanks News-Miner": 1785,
@@ -72,7 +73,6 @@
     "Kodiak Daily Mirror": 1013,
     "BLM Alaska": 51,
     "Native News Online": 42,
-    "Wrangell Sentinel": 231,
     "Juneau Empire": 165,
     "ANCSA Regional Association": 253,
     "Alaska Native News": 217,
