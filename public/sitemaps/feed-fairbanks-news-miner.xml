@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/sabalenka-edges-noskova-in-pursuit-of-3rd-straight-us-open-title/article_7fcda477-0425-4329-bc78-95bf85b5821b.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Sabalenka edges Noskova in pursuit of 3rd straight US Open title</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/alaska-department-of-law-says-it-found-dozens-of-potential-gaps-in-candidates-financial-disclosures/article_555a6533-2934-4507-97c2-9538bbe3d2c1.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Alaska Department of Law says it found dozens of potential gaps in candidates’ financial disclosures</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.newsminer.com/news/alaska_news/alaska-department-of-law-says-it-found-dozens-of-potential-gaps-in-candidates-financial-disclosures/article_555a6533-2934-4507-97c2-9538bbe3d2c1.html</loc>
     <news:news>
       <news:publication>
         <news:name>Fairbanks News-Miner</news:name>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-07</news:publication_date>
       <news:title>Alaska is falling way behind on AI — Here’s what we can do</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/opinion/letters_to_editor/voting-for-change/article_7cf5694b-7670-42bb-bd0a-966a39399c2f.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>Voting for change</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/opinion/editorials/thumbs-up/article_28df4041-8607-4f03-b357-e5c754be7e0b.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>Thumbs up</news:title>
     </news:news>
   </url>
 </urlset>
