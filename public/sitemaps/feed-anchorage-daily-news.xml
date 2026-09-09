@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/09/the-largely-hidden-force-helping-drive-americas-craze-for-weight-loss-drugs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>The largely hidden force helping drive America’s craze for weight-loss drugs</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/09/republicans-gather-in-dallas-for-2-day-midterm-convention-billed-as-a-trump-a-palooza/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-12</news:publication_date>
       <news:title>Anchorage agency sues landowners to advance redevelopment at former Nordstrom building</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/12/ices-plan-to-give-officers-electric-shock-gloves-draws-outrage-and-fears-of-misuse/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>ICE’s plan to give officers electric shock gloves draws outrage and fears of misuse</news:title>
     </news:news>
   </url>
 </urlset>
