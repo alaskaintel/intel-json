@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/business-economy/2026/09/09/new-apple-ceo-unveils-latest-iphone-lineup-including-a-foldable-model-called-duo/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/sports/national-sports/2026/09/09/rybakina-beats-zheng-to-reach-us-open-semifinals-and-move-to-no-1-in-the-womens-rankings/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Rybakina beats Zheng to reach US Open semifinals and move to No. 1 in the women’s rankings</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/sports/national-sports/2026/09/09/geno-smith-is-a-symbol-of-redemption-in-his-improbable-jets-return-he-says-being-back-is-an-honor/</loc>
     <news:news>
       <news:publication>
@@ -130,6 +152,17 @@
       </news:publication>
       <news:publication_date>2026-09-09</news:publication_date>
       <news:title>Oil rises past $100 a barrel after the latest wave of Middle East attacks</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/09/oil-rises-past-100-a-barrel-after-the-latest-wave-of-middle-east-attacks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump</news:title>
     </news:news>
   </url>
   <url>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-12</news:publication_date>
       <news:title>Want to win your fantasy football draft? Follow the missing touches.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/sports/high-school-sports/2026/08/12/flag-football-continues-to-grow-in-alaska-as-2026-high-school-season-is-set-to-begin/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>Flag football continues to grow in Alaska as 2026 high school season kicks off</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/sports/national-sports/2026/08/12/too-many-questions-not-enough-answers-lakers-sale-doesnt-pass-smell-test/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>Too many questions, not enough answers. Lakers sale doesn’t pass smell test.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/12/deaths-and-damage-reported-as-severe-weather-in-the-midwest-spawns-tornadoes-and-flash-flooding/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>Deaths and damage reported as severe weather in the Midwest spawns tornadoes and flash flooding</news:title>
     </news:news>
   </url>
 </urlset>
