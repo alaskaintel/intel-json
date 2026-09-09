@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://alaskapublic.org/about/station-news/2026-09-08/see-tommy-emmanuel-live-and-meet-him-in-anchorage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>See Tommy Emmanuel LIVE—and meet him in Anchorage</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskapublic.org/news/economy/energy/2026-09-08/amblers-first-proposed-mine-is-in-its-earliest-stages-local-leaders-are-asking-if-its-worth-it</loc>
     <news:news>
       <news:publication>
@@ -23,6 +34,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://alaskapublic.org/news/public-safety/2026-09-08/missing-boaters-near-st-lawrence-island-located-one-survivor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>Teen rescued, two dead after boat capsizes near St. Lawrence Island</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskapublic.org/news/economy/energy/2026-09-08/alaskas-state-owned-gasline-corporation-says-it-will-continue-to-pursue-aklng-pipeline-in-2027</loc>
     <news:news>
       <news:publication>
@@ -42,6 +64,17 @@
       </news:publication>
       <news:publication_date>2026-09-08</news:publication_date>
       <news:title>National Murrow Award honors collaborative halong coverage</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://alaskapublic.org/about/station-news/2026-09-08/national-murrow-award-honors-collaborative-halong-coverage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>National Murrow Award honors collaborative Halong coverage</news:title>
     </news:news>
   </url>
   <url>
@@ -4860,28 +4893,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>Yearling bear euthanized after being shot out of a tree in downtown Juneau</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskapublic.org/programs/alaska-news-nightly/2026-07-10/alaska-news-nightly-friday-july-10-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Public Media</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11</news:publication_date>
-      <news:title>Alaska News Nightly: Friday, July 10, 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskapublic.org/news/public-safety/2026-07-10/15-alaskans-and-businesses-charged-with-1-8m-in-medicaid-fraud</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Public Media</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11</news:publication_date>
-      <news:title>15 Alaskans and businesses charged with $1.8M in Medicaid fraud</news:title>
     </news:news>
   </url>
 </urlset>

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/alaska-department-of-law-says-it-found-dozens-of-potential-gaps-in-candidates-financial-disclosures/article_555a6533-2934-4507-97c2-9538bbe3d2c1.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Alaska Department of Law says it found dozens of potential gaps in candidates’ financial disclosures</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/opinion/letters_to_editor/bobby-burgess-is-a-dedicated-leader/article_8e6b6f31-1a5c-45d9-95a7-261c6bb705c0.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-07</news:publication_date>
       <news:title>Thumbs up</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/news/looking_back/looking-back---aug-7/article_61987128-e333-4c85-b100-777d65145716.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07</news:publication_date>
-      <news:title>Looking Back - Aug. 7</news:title>
     </news:news>
   </url>
 </urlset>

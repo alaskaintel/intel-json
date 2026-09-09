@@ -122,6 +122,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/08/canadas-tariffs-take-effect-as-it-seeks-closer-eu-ties-and-awaits-trumps-response/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08</news:publication_date>
+      <news:title>U.S. bans dairy products, most alcoholic beverages and motorcycles from Canada</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/sports/national-sports/2026/09/08/mac-appeals-michigan-western-michigan-result-asks-ncaa-and-cfp-to-recognize-broncos-as-winner/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-12</news:publication_date>
       <news:title>Severe weather knocks out power in Illinois, Indiana and Ohio as ‘ring of fire’ strikes Midwest</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/11/sen-darline-graham-advances-to-gop-senate-primary-runoff-to-replace-late-brother-lindsey-graham/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>Sen. Darline Graham advances to GOP Senate primary runoff to replace late brother Lindsey Graham</news:title>
     </news:news>
   </url>
 </urlset>
