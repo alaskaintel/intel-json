@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/09/how-trump-administration-threats-could-affect-medical-school-admissions/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>How Trump administration threats could affect medical school admissions</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/business-economy/2026/09/09/trump-says-oil-prices-that-spiked-because-of-iran-war-likely-wont-come-down-until-after-midterms/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Trump says oil prices that spiked because of Iran war likely won’t come down until after midterms</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/business-economy/2026/09/09/new-apple-ceo-unveils-latest-iphone-lineup-including-a-foldable-model-called-duo/</loc>
     <news:news>
       <news:publication>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-12</news:publication_date>
       <news:title>Opinion: JKT is the optimistic choice for Alaska’s future</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/arts/film-tv/2026/08/12/nick-reiner-pleads-not-guilty-after-being-indicted-in-killings-of-parents-rob-reiner-and-michele-singer/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>Nick Reiner pleads not guilty after being indicted in killings of parents Rob Reiner and Michele Singer</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/sports/national-sports/2026/08/12/want-to-win-your-fantasy-football-draft-follow-the-missing-touches/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>Want to win your fantasy football draft? Follow the missing touches.</news:title>
     </news:news>
   </url>
 </urlset>
