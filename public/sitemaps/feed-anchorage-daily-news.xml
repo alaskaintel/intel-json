@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/09/a-nyc-firehouse-was-first-to-respond-on-911-25-years-on-sal-argano-is-the-last-still-on-staff/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>A NYC firehouse was first to respond on 9/11. 25 years on, Sal Argano is the last still on staff</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/09/what-to-know-about-missouris-confusing-battle-over-congressional-districts/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-12</news:publication_date>
       <news:title>Opinion: Our nation has a long history with election stunts. Alaska’s current system is built to neutralize them.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/arts/2026/08/12/this-weekend-in-anchorage-blueberry-fest-hmong-fest-runfest-plus-a-free-parlor-in-the-round/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>This weekend in Anchorage: Blueberry Fest, Hmong fest, Runfest plus a free Parlor in the Round</news:title>
     </news:news>
   </url>
 </urlset>

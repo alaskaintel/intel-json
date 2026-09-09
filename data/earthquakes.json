@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T22:00:51.394709+00:00",
+  "updated": "2026-09-09T22:50:44.308557+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -9,6 +9,27 @@
   },
   "count": 25,
   "earthquakes": [
+    {
+      "id": "aka2026rxhomw",
+      "magnitude": 2.8,
+      "place": "7 km SW of Cohoe, Alaska",
+      "time": "2026-09-09T22:01:31.007000+00:00",
+      "updated": "2026-09-09T22:10:52.203000+00:00",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxhomw",
+      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rxhomw&format=geojson",
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "title": "M 2.8 - 7 km SW of Cohoe, Alaska",
+      "alert": null,
+      "felt": null,
+      "cdi": null,
+      "mmi": null,
+      "sig": 121,
+      "lat": 60.323,
+      "lng": -151.416,
+      "depth_km": 68.2
+    },
     {
       "id": "aka2026rxguxn",
       "magnitude": 2.9,
@@ -35,7 +56,7 @@
       "magnitude": 2.3,
       "place": "15 km ESE of Funny River, Alaska",
       "time": "2026-09-09T20:22:47.510000+00:00",
-      "updated": "2026-09-09T20:26:07.620000+00:00",
+      "updated": "2026-09-09T22:01:17.967000+00:00",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxegwh",
       "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rxegwh&format=geojson",
       "status": "automatic",
@@ -43,8 +64,8 @@
       "type": "earthquake",
       "title": "M 2.3 - 15 km ESE of Funny River, Alaska",
       "alert": null,
-      "felt": null,
-      "cdi": null,
+      "felt": 1,
+      "cdi": 1,
       "mmi": null,
       "sig": 81,
       "lat": 60.464,
@@ -512,27 +533,6 @@
       "lat": 52.3325,
       "lng": -169.4249,
       "depth_km": 49.3
-    },
-    {
-      "id": "aka2026rvmamr",
-      "magnitude": 2,
-      "place": "17 km N of Sitka, Alaska",
-      "time": "2026-09-08T22:16:01.895000+00:00",
-      "updated": "2026-09-08T22:17:58.271000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvmamr",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rvmamr&format=geojson",
-      "status": "automatic",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 2.0 - 17 km N of Sitka, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": null,
-      "sig": 62,
-      "lat": 57.206,
-      "lng": -135.327,
-      "depth_km": 5
     }
   ]
 }
