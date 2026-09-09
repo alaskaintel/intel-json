@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/alaska-life/pets/2026/09/09/girl-scouts-first-cookies-for-dogs-will-go-on-sale-in-january/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>Girl Scouts’ first cookies for dogs will go on sale in January</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/arts/2026/09/09/this-weekend-around-anchorage-clay-fest-climbathon-pirates-pops-and-pucks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>This weekend around Anchorage: Clay Fest, Climbathon, pirates, pops and pucks</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/09/a-nyc-firehouse-was-first-to-respond-on-911-25-years-on-sal-argano-is-the-last-still-on-staff/</loc>
     <news:news>
       <news:publication>
@@ -9,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-09-09</news:publication_date>
       <news:title>A NYC firehouse was first to respond on 9/11. 25 years on, Sal Argano is the last still on staff</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/09/a-nyc-firehouse-was-first-to-respond-on-911-25-years-on-sal-argano-is-the-last-still-on-staff/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09</news:publication_date>
+      <news:title>A NYC firehouse was first to respond on 9/11. 25 years on, Sal Argano is the last still on the staff.</news:title>
     </news:news>
   </url>
   <url>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-13</news:publication_date>
       <news:title>Opinion: Alaska needs a governor who will provide strong leadership</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/arts/music/2026/08/12/singer-jesse-mccartney-scheduled-to-perform-at-2026-alaska-state-fair/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13</news:publication_date>
-      <news:title>Singer Jesse McCartney scheduled to perform at 2026 Alaska State Fair</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/alaska-news/crime-courts/2026/08/12/in-rare-verdict-anchorage-man-found-guilty-but-mentally-ill-in-2015-stabbing-of-his-parents/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13</news:publication_date>
-      <news:title>In rare verdict, Anchorage man found guilty but mentally ill in 2015 stabbing of his parents</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/opinions/2026/08/12/opinion-our-nation-has-a-long-history-with-election-stunts-alaskas-current-system-is-built-to-neutralize-them/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12</news:publication_date>
-      <news:title>Opinion: Our nation has a long history with election stunts. Alaska’s current system is built to neutralize them.</news:title>
     </news:news>
   </url>
 </urlset>
