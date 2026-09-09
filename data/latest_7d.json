@@ -1,5 +1,53 @@
 [
   {
+    "hash": "f06c2165d759531ee1099e668e2d51aa",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 1.6 - 35 km SE of Tanana, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvzppd",
+    "published": "",
+    "summary": "Time 2026-09-09 05:03:14 UTC 2026-09-09 05:03:14 UTC at epicenter Location 64.915\u00b0N 151.640\u00b0W Depth 5.00 km (3.11 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T05:03:14+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "fdc27140da6a650993b681e3b4c10332",
+      "65a6e354f7985398c1b73f7d9eb2bd0c",
+      "32d9e4bf11090b09fc8c427db314a167",
+      "b9eb736305003af34b00cc8dd1fb5188",
+      "3c1bf0af1cfc56558120103a1d3a0d22"
+    ]
+  },
+  {
+    "hash": "25b40913d29b424ceaa5e006350d91a0",
+    "source": "USGS Alaska Science",
+    "category": "Science",
+    "title": "FORT Science in Action 2026, Part 6: Economics and social science to support wildfire risk management",
+    "link": "https://www.usgs.gov/centers/fort-collins-science-center/news/fort-science-action-2026-part-6-economics-and-social?utm_source=comms&utm_medium=rss&utm_campaign=news",
+    "published": "Wed, 9 Sep 2026 01:00:00 EDT",
+    "summary": "Wildfires are increasing in frequency and intensity across the Western United States, posing significant risk to public safety and security. FORT scientists aid decision makers in determining which wildfire risk assessment and reduction actions are most needed and valued by the public.",
+    "dataTag": "[Region: Statewide] [Category: Science]",
+    "sourceAttribution": "Source: USGS Alaska Science",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T05:00:00+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "research",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "41765816b7a6fdb5b3581d9dd2865329",
+      "3a76a41bb4f86e4ef132a83eb3f2ad82",
+      "b696b219b51f3e370b6c28ae3b5ed099"
+    ]
+  },
+  {
     "hash": "fdc27140da6a650993b681e3b4c10332",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -244,7 +292,8 @@
     "relatedSignalIds": [
       "3a76a41bb4f86e4ef132a83eb3f2ad82",
       "b696b219b51f3e370b6c28ae3b5ed099",
-      "ecd7b5f5edcbb55296461c8eccfec3ae"
+      "ecd7b5f5edcbb55296461c8eccfec3ae",
+      "25b40913d29b424ceaa5e006350d91a0"
     ]
   },
   {
@@ -1092,6 +1141,31 @@
     ]
   },
   {
+    "hash": "32e8d3e56a9f42b293bf40457740c259",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Opinion: The long quest for government realignment part III",
+    "link": "https://mustreadalaska.com/opinion-the-long-quest-for-government-realignment-part-iii/",
+    "published": "Tue, 08 Sep 2026 21:38:50 +0000",
+    "summary": "The Modern Eaglexit Movement The modern chapter began in 2019. Community members organized a renewed effort that became known as Eaglexit. More than 100 people reportedly attended an early public meeting in May 2019 to discuss forming a separate local government. Organizers described the effort in t...",
+    "dataTag": "[Region: Statewide] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T21:38:50+00:00",
+    "impactScore": 40,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "7aa8da7175510d77252045e4dd07f600",
+      "934b4a45626cfb4e1e80480e7d0a4ac6",
+      "2b94e2b05eb6e4e33e82204becf7a7eb",
+      "307b879b90a0db1e4b053f06f5bd32a0",
+      "27dd0de59ef40f6ee014bee30cd62ba5"
+    ]
+  },
+  {
     "hash": "8f3899d6bb28d74d39d833f40e133858",
     "source": "Alaska Business Magazine",
     "category": "Business",
@@ -1834,6 +1908,31 @@
     ]
   },
   {
+    "hash": "d8516cf10afcef4a2a6544694f529d8e",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Analysis: Counting visits is not counting value\u2014 the missing half of Alaska\u2019s recreation story",
+    "link": "https://mustreadalaska.com/analysis-counting-visits-is-not-counting-value-the-missing-half-of-alaskas-recreation-story/",
+    "published": "Tue, 08 Sep 2026 18:54:59 +0000",
+    "summary": "By Samuel A. Schilling, President of the Alaska Outdoor Access Alliance (AOAA) The Alaska Outdoor Alliance recently published Nearly 8 Million Visits, highlighting new federal recreation-visitation data for Alaska. The article reports approximately 7.85 million visits to federally administered lands...",
+    "dataTag": "[Region: Statewide] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T18:54:59+00:00",
+    "impactScore": 40,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "7aa8da7175510d77252045e4dd07f600",
+      "934b4a45626cfb4e1e80480e7d0a4ac6",
+      "2b94e2b05eb6e4e33e82204becf7a7eb",
+      "307b879b90a0db1e4b053f06f5bd32a0",
+      "27dd0de59ef40f6ee014bee30cd62ba5"
+    ]
+  },
+  {
     "hash": "ba05681e31b9c434b19786bb3273a9f5",
     "source": "Mongabay Alaska",
     "category": "Environment",
@@ -2394,6 +2493,31 @@
       "694a212577b3d478915281515e294660",
       "0c5edbaedddbbbc63604c74bef32e81e",
       "2ef79f724baf8fac7ac5ef820eae2410"
+    ]
+  },
+  {
+    "hash": "abc8857d2012ba94e92883ccb5ee7c64",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Anchorage residents urge the recall of Mayor LaFrance after surveillance violation",
+    "link": "https://mustreadalaska.com/anchorage-residents-urge-the-recall-of-mayor-lafrance-after-surveillance-violation/",
+    "published": "Tue, 08 Sep 2026 17:26:04 +0000",
+    "summary": "Anchorage residents have launched a recall effort to remove Mayor Suzanne LaFrance after she failed to present annual surveillance reports to the Assembly and make the reports publicly available on the municipal website according to Municipal Code. A press release from the Recall LaFrance effort sta...",
+    "dataTag": "[Region: Southcentral] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T17:26:04+00:00",
+    "impactScore": 40,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "2cf8ee7ba1da35a4431a95a500dcf616",
+      "53cfa26bd1d009bb27e6dd26d7847415",
+      "dce7296742317097aad71549a2d9f63a",
+      "7b160f8e5a96400e50180e2898e82f65",
+      "f2f3be4fc2965452d5be25da3829baed"
     ]
   },
   {
@@ -3391,7 +3515,8 @@
     "relatedSignalIds": [
       "41765816b7a6fdb5b3581d9dd2865329",
       "b696b219b51f3e370b6c28ae3b5ed099",
-      "ecd7b5f5edcbb55296461c8eccfec3ae"
+      "ecd7b5f5edcbb55296461c8eccfec3ae",
+      "25b40913d29b424ceaa5e006350d91a0"
     ]
   },
   {
@@ -4687,7 +4812,8 @@
     "relatedSignalIds": [
       "41765816b7a6fdb5b3581d9dd2865329",
       "3a76a41bb4f86e4ef132a83eb3f2ad82",
-      "ecd7b5f5edcbb55296461c8eccfec3ae"
+      "ecd7b5f5edcbb55296461c8eccfec3ae",
+      "25b40913d29b424ceaa5e006350d91a0"
     ]
   },
   {
@@ -33585,181 +33711,6 @@
       "fa8605524f9fca785a77b63b86ae22c3",
       "6e80eac9cb423b7e972a0bf3d8b236a1",
       "c97f89f6b90de71f42f5c01f46c63d83"
-    ]
-  },
-  {
-    "hash": "04e3ad19cb2cdcae24714c8ca965ddfc",
-    "source": "World Wildlife Fund Arctic",
-    "category": "Environment",
-    "title": "Protected: When the Ice Changes, Everything Changes",
-    "link": "https://www.arcticwwf.org/newsroom/news/when-the-ice-changes-everything-changes/",
-    "published": "Wed, 02 Sep 2026 05:20:25 +0000",
-    "summary": "This content is password-protected. To view it, please enter the password below. Password: The post Protected: When the Ice Changes, Everything Changes appeared first on WWF Arctic .",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: World Wildlife Fund Arctic",
-    "imageUrl": null,
-    "timestamp": "2026-09-02T05:20:25+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "3520e6bb201970292b1c58df19f1ff4d",
-      "704a6dc0261b5684495c76bc9c8aabbd",
-      "a6c2666cb1a8444f6c63fed7a652192d",
-      "ec925a4ad42744bb8634f4d9d207b1d0",
-      "8660e4a278fe8585d5524c2cb0652368"
-    ]
-  },
-  {
-    "hash": "4e05ffdfa100654e1f43e471844b5dca",
-    "source": "World Wildlife Fund Arctic",
-    "category": "Environment",
-    "title": "Life in the Arctic: when the ice changes, everything changes",
-    "link": "https://www.arcticwwf.org/newsroom/news/when-the-ice-changes-everything-changes/",
-    "published": "Wed, 02 Sep 2026 05:20:25 +0000",
-    "summary": "The post Life in the Arctic: when the ice changes, everything changes appeared first on WWF Arctic .",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: World Wildlife Fund Arctic",
-    "imageUrl": null,
-    "timestamp": "2026-09-02T05:20:25+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "3520e6bb201970292b1c58df19f1ff4d",
-      "704a6dc0261b5684495c76bc9c8aabbd",
-      "a6c2666cb1a8444f6c63fed7a652192d",
-      "ec925a4ad42744bb8634f4d9d207b1d0",
-      "8660e4a278fe8585d5524c2cb0652368"
-    ]
-  },
-  {
-    "hash": "69c0e63d17fac1ca45416adc750c6c51",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 3.9 - 101 km SSW of Nikolski, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbyps",
-    "published": "",
-    "summary": "ShakeMap - II Time 2026-09-02 05:18:15 UTC 2026-09-02 05:18:15 UTC at epicenter Location 52.054\u00b0N 169.196\u00b0W Depth 12.00 km (7.46 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-02T05:18:15+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "e33845d68381b24370a292513a3b5ad6",
-      "b3edf2e761f21992cda390fd58375a1c",
-      "fa8605524f9fca785a77b63b86ae22c3",
-      "6e80eac9cb423b7e972a0bf3d8b236a1",
-      "c97f89f6b90de71f42f5c01f46c63d83"
-    ]
-  },
-  {
-    "hash": "88b8dcacf00ad78519bebbd37be08624",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 4.9 - 85 km SSW of Nikolski, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbwrf",
-    "published": "",
-    "summary": "ShakeMap - III Time 2026-09-02 05:16:05 UTC 2026-09-02 05:16:05 UTC at epicenter Location 52.218\u00b0N 169.316\u00b0W Depth 18.80 km (11.68 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-02T05:16:05+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "e33845d68381b24370a292513a3b5ad6",
-      "b3edf2e761f21992cda390fd58375a1c",
-      "fa8605524f9fca785a77b63b86ae22c3",
-      "6e80eac9cb423b7e972a0bf3d8b236a1",
-      "c97f89f6b90de71f42f5c01f46c63d83"
-    ]
-  },
-  {
-    "hash": "9558fcf2708a9c553d2c7c20d7b6d618",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 5.2 - 95 km SSW of Nikolski, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin",
-    "published": "",
-    "summary": "ShakeMap - III Time 2026-09-02 05:14:00 UTC 2026-09-02 05:14:00 UTC at epicenter Location 52.119\u00b0N 169.295\u00b0W Depth 35.00 km (21.75 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-02T05:14:00+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "b3edf2e761f21992cda390fd58375a1c",
-      "fa8605524f9fca785a77b63b86ae22c3",
-      "6e80eac9cb423b7e972a0bf3d8b236a1",
-      "c97f89f6b90de71f42f5c01f46c63d83",
-      "dcde17f0d789cda1f3eb5550fa2cca04"
-    ]
-  },
-  {
-    "hash": "b5ca07b62fb1646edf4cb36f61c38eed",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 4.9 - 98 km SSW of Nikolski, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdim",
-    "published": "",
-    "summary": "ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.107\u00b0N 169.369\u00b0W Depth 38.52 km (23.93 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-02T05:10:27+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "6e80eac9cb423b7e972a0bf3d8b236a1",
-      "c97f89f6b90de71f42f5c01f46c63d83",
-      "dcde17f0d789cda1f3eb5550fa2cca04",
-      "6ab6c9da4daa9a89a11940719e863a5a",
-      "33dfb0038d9facfc35aaf807aa82b95c"
-    ]
-  },
-  {
-    "hash": "59d0d706ab6830bec39cc6c267663e1a",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 3.5 - 160 km SW of Adak, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbpcn",
-    "published": "",
-    "summary": "ShakeMap - IV Time 2026-09-02 05:07:20 UTC 2026-09-02 05:07:20 UTC at epicenter Location 51.018\u00b0N 178.497\u00b0W Depth 6.90 km (4.29 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-02T05:07:20+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "6e80eac9cb423b7e972a0bf3d8b236a1",
-      "c97f89f6b90de71f42f5c01f46c63d83",
-      "dcde17f0d789cda1f3eb5550fa2cca04",
-      "6ab6c9da4daa9a89a11940719e863a5a",
-      "33dfb0038d9facfc35aaf807aa82b95c"
     ]
   }
 ]

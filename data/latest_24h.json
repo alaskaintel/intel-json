@@ -1,5 +1,53 @@
 [
   {
+    "hash": "f06c2165d759531ee1099e668e2d51aa",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 1.6 - 35 km SE of Tanana, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvzppd",
+    "published": "",
+    "summary": "Time 2026-09-09 05:03:14 UTC 2026-09-09 05:03:14 UTC at epicenter Location 64.915\u00b0N 151.640\u00b0W Depth 5.00 km (3.11 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T05:03:14+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "fdc27140da6a650993b681e3b4c10332",
+      "65a6e354f7985398c1b73f7d9eb2bd0c",
+      "32d9e4bf11090b09fc8c427db314a167",
+      "b9eb736305003af34b00cc8dd1fb5188",
+      "3c1bf0af1cfc56558120103a1d3a0d22"
+    ]
+  },
+  {
+    "hash": "25b40913d29b424ceaa5e006350d91a0",
+    "source": "USGS Alaska Science",
+    "category": "Science",
+    "title": "FORT Science in Action 2026, Part 6: Economics and social science to support wildfire risk management",
+    "link": "https://www.usgs.gov/centers/fort-collins-science-center/news/fort-science-action-2026-part-6-economics-and-social?utm_source=comms&utm_medium=rss&utm_campaign=news",
+    "published": "Wed, 9 Sep 2026 01:00:00 EDT",
+    "summary": "Wildfires are increasing in frequency and intensity across the Western United States, posing significant risk to public safety and security. FORT scientists aid decision makers in determining which wildfire risk assessment and reduction actions are most needed and valued by the public.",
+    "dataTag": "[Region: Statewide] [Category: Science]",
+    "sourceAttribution": "Source: USGS Alaska Science",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T05:00:00+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "research",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "41765816b7a6fdb5b3581d9dd2865329",
+      "3a76a41bb4f86e4ef132a83eb3f2ad82",
+      "b696b219b51f3e370b6c28ae3b5ed099"
+    ]
+  },
+  {
     "hash": "fdc27140da6a650993b681e3b4c10332",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -244,7 +292,8 @@
     "relatedSignalIds": [
       "3a76a41bb4f86e4ef132a83eb3f2ad82",
       "b696b219b51f3e370b6c28ae3b5ed099",
-      "ecd7b5f5edcbb55296461c8eccfec3ae"
+      "ecd7b5f5edcbb55296461c8eccfec3ae",
+      "25b40913d29b424ceaa5e006350d91a0"
     ]
   },
   {
@@ -1092,6 +1141,31 @@
     ]
   },
   {
+    "hash": "32e8d3e56a9f42b293bf40457740c259",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Opinion: The long quest for government realignment part III",
+    "link": "https://mustreadalaska.com/opinion-the-long-quest-for-government-realignment-part-iii/",
+    "published": "Tue, 08 Sep 2026 21:38:50 +0000",
+    "summary": "The Modern Eaglexit Movement The modern chapter began in 2019. Community members organized a renewed effort that became known as Eaglexit. More than 100 people reportedly attended an early public meeting in May 2019 to discuss forming a separate local government. Organizers described the effort in t...",
+    "dataTag": "[Region: Statewide] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T21:38:50+00:00",
+    "impactScore": 40,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "7aa8da7175510d77252045e4dd07f600",
+      "934b4a45626cfb4e1e80480e7d0a4ac6",
+      "2b94e2b05eb6e4e33e82204becf7a7eb",
+      "307b879b90a0db1e4b053f06f5bd32a0",
+      "27dd0de59ef40f6ee014bee30cd62ba5"
+    ]
+  },
+  {
     "hash": "8f3899d6bb28d74d39d833f40e133858",
     "source": "Alaska Business Magazine",
     "category": "Business",
@@ -1834,6 +1908,31 @@
     ]
   },
   {
+    "hash": "d8516cf10afcef4a2a6544694f529d8e",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Analysis: Counting visits is not counting value\u2014 the missing half of Alaska\u2019s recreation story",
+    "link": "https://mustreadalaska.com/analysis-counting-visits-is-not-counting-value-the-missing-half-of-alaskas-recreation-story/",
+    "published": "Tue, 08 Sep 2026 18:54:59 +0000",
+    "summary": "By Samuel A. Schilling, President of the Alaska Outdoor Access Alliance (AOAA) The Alaska Outdoor Alliance recently published Nearly 8 Million Visits, highlighting new federal recreation-visitation data for Alaska. The article reports approximately 7.85 million visits to federally administered lands...",
+    "dataTag": "[Region: Statewide] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T18:54:59+00:00",
+    "impactScore": 40,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "7aa8da7175510d77252045e4dd07f600",
+      "934b4a45626cfb4e1e80480e7d0a4ac6",
+      "2b94e2b05eb6e4e33e82204becf7a7eb",
+      "307b879b90a0db1e4b053f06f5bd32a0",
+      "27dd0de59ef40f6ee014bee30cd62ba5"
+    ]
+  },
+  {
     "hash": "ba05681e31b9c434b19786bb3273a9f5",
     "source": "Mongabay Alaska",
     "category": "Environment",
@@ -2394,6 +2493,31 @@
       "694a212577b3d478915281515e294660",
       "0c5edbaedddbbbc63604c74bef32e81e",
       "2ef79f724baf8fac7ac5ef820eae2410"
+    ]
+  },
+  {
+    "hash": "abc8857d2012ba94e92883ccb5ee7c64",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Anchorage residents urge the recall of Mayor LaFrance after surveillance violation",
+    "link": "https://mustreadalaska.com/anchorage-residents-urge-the-recall-of-mayor-lafrance-after-surveillance-violation/",
+    "published": "Tue, 08 Sep 2026 17:26:04 +0000",
+    "summary": "Anchorage residents have launched a recall effort to remove Mayor Suzanne LaFrance after she failed to present annual surveillance reports to the Assembly and make the reports publicly available on the municipal website according to Municipal Code. A press release from the Recall LaFrance effort sta...",
+    "dataTag": "[Region: Southcentral] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-08T17:26:04+00:00",
+    "impactScore": 40,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "2cf8ee7ba1da35a4431a95a500dcf616",
+      "53cfa26bd1d009bb27e6dd26d7847415",
+      "dce7296742317097aad71549a2d9f63a",
+      "7b160f8e5a96400e50180e2898e82f65",
+      "f2f3be4fc2965452d5be25da3829baed"
     ]
   },
   {
@@ -3391,7 +3515,8 @@
     "relatedSignalIds": [
       "41765816b7a6fdb5b3581d9dd2865329",
       "b696b219b51f3e370b6c28ae3b5ed099",
-      "ecd7b5f5edcbb55296461c8eccfec3ae"
+      "ecd7b5f5edcbb55296461c8eccfec3ae",
+      "25b40913d29b424ceaa5e006350d91a0"
     ]
   },
   {
@@ -4583,56 +4708,6 @@
     "region": "Statewide",
     "sector": "governance",
     "urgency": "now",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "7aa8da7175510d77252045e4dd07f600",
-      "934b4a45626cfb4e1e80480e7d0a4ac6",
-      "2b94e2b05eb6e4e33e82204becf7a7eb",
-      "307b879b90a0db1e4b053f06f5bd32a0",
-      "27dd0de59ef40f6ee014bee30cd62ba5"
-    ]
-  },
-  {
-    "hash": "ae53263ca996362ba07fa8b08def3959",
-    "source": "Alaska Beacon",
-    "category": "News",
-    "title": "What previously undisclosed financial dealings are in Alaska\u2019s governor candidate records?",
-    "link": "https://alaskabeacon.com/2026/09/07/what-previously-undisclosed-financial-dealings-are-in-alaskas-governor-candidate-records/",
-    "published": "Tue, 08 Sep 2026 05:30:21 +0000",
-    "summary": "The doors to the Office of the Governor are seen Monday, Aug. 1, 2022, on the third floor of the Alaska State Capitol in Juneau, Alaska. (Photo by James Brooks/Alaska Beacon) On Monday, the Alaska Department of Law released a report that identified potential gaps in the Public Official Financial Dis...",
-    "dataTag": "[Region: Southcentral] [Category: News]",
-    "sourceAttribution": "Source: Alaska Beacon",
-    "imageUrl": "https://alaskabeacon.com/wp-content/uploads/2022/07/220801-Governor-office-web-1024x711.jpg",
-    "timestamp": "2026-09-08T05:30:21+00:00",
-    "impactScore": 55,
-    "region": "Southeast",
-    "sector": "governance",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "18970085fdc1e0a97a85792c29994d32",
-      "df1202e72992545116aacfe24ffaae51",
-      "2dc4f775814ac39b33469e7e586efc39",
-      "1d61ee308633a7d82d7ed67f2b84f22c",
-      "f3d4d76d8bfb2b43fc46c0b2fe4165a0"
-    ]
-  },
-  {
-    "hash": "ac70d1902802de270c03c83e4b517a2c",
-    "source": "Alaska Beacon",
-    "category": "News",
-    "title": "Alaska Department of Law says it found dozens of potential gaps in candidates\u2019 financial disclosures",
-    "link": "https://alaskabeacon.com/2026/09/07/alaska-department-of-law-says-it-found-dozens-of-potential-gaps-in-candidates-financial-disclosures/",
-    "published": "Tue, 08 Sep 2026 05:27:31 +0000",
-    "summary": "Gov. Mike Dunleavy, Lt. Gov. Nancy Dahlstrom and Stephen Cox, general counsel to Dunleavy, speak at a news conference on Sep. 7, 2026 defending the decision to re-certify Treg Taylor as a candidate for governor on the general election ballot, citing issues with multiple candidates' financial disclos...",
-    "dataTag": "[Region: Southcentral] [Category: News]",
-    "sourceAttribution": "Source: Alaska Beacon",
-    "imageUrl": "https://alaskabeacon.com/wp-content/uploads/2026/09/1000039440.jpg",
-    "timestamp": "2026-09-08T05:27:31+00:00",
-    "impactScore": 55,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
       "7aa8da7175510d77252045e4dd07f600",
