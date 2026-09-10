@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T21:11:07.394892+00:00",
+  "updated": "2026-09-10T23:30:20.993520+00:00",
   "source": "Alaska Legislature (BASIS)",
   "source_url": "https://www.akleg.gov/",
   "session": {
@@ -16,27 +16,27 @@
       "general": 76
     },
     "bills_mentioned": [
-      "SB 143",
-      "SB 146",
-      "HB 28",
-      "HB 27",
-      "SB 178",
       "SB 29",
-      "HB 246",
-      "SB 104",
-      "HB 48",
-      "HB 173",
-      "HB 265",
+      "SB 86",
+      "SB 143",
       "HB 239",
+      "HB 265",
+      "HB 27",
+      "SB 9",
+      "HB 48",
+      "HB 262",
+      "HB 73",
+      "HB 110",
+      "HB 246",
       "HB 263",
       "HB 314",
+      "SB 104",
+      "HB 28",
+      "SB 146",
+      "HB 195",
+      "SB 178",
       "SB 23",
-      "HB 110",
-      "SB 86",
-      "HB 262",
-      "SB 9",
-      "HB 73",
-      "HB 195"
+      "HB 173"
     ]
   },
   "location": {
@@ -49,7 +49,7 @@
       "title": "[SB 9] SURRENDER OF INFANTS; INF. SAFETY DEVICE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB9",
       "summary": "SIGNED INTO LAW 9/9 CHAPTER 61 SLA 26 (Status: CHAPTER 61 SLA 26, Sponsor: SENATOR MYERS)",
-      "published": "2026-09-09T21:11:05.230009+00:00",
+      "published": "2026-09-09T23:30:18.797899+00:00",
       "bill_number": "SB 9",
       "type": "executive"
     },
@@ -57,7 +57,7 @@
       "title": "[SB 9] SURRENDER OF INFANTS; INF. SAFETY DEVICE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB9",
       "summary": "EFFECTIVE DATE(S) OF LAW 9/10/26 (Status: CHAPTER 61 SLA 26, Sponsor: SENATOR MYERS)",
-      "published": "2026-09-09T21:11:05.230009+00:00",
+      "published": "2026-09-09T23:30:18.797899+00:00",
       "bill_number": "SB 9",
       "type": "executive"
     },
@@ -65,7 +65,7 @@
       "title": "[HB 27] MEDICAL MAJOR EMERGENCIES; CPR CURRICULUM",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB27",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 10 SLA 26, Sponsor: REPRESENTATIVE MINA)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 27",
       "type": "general"
     },
@@ -73,7 +73,7 @@
       "title": "[HB 27] MEDICAL MAJOR EMERGENCIES; CPR CURRICULUM",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB27",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 10 SLA 26, Sponsor: REPRESENTATIVE MINA)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 27",
       "type": "general"
     },
@@ -81,7 +81,7 @@
       "title": "[HB 27] MEDICAL MAJOR EMERGENCIES; CPR CURRICULUM",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB27",
       "summary": "FN2: (DOH) (Status: CHAPTER 10 SLA 26, Sponsor: REPRESENTATIVE MINA)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 27",
       "type": "general"
     },
@@ -89,7 +89,7 @@
       "title": "[HB 28] EDU: SCHOOLS/TEACHERS/SCHOOL BD/LOAN PRGM",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB28",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 22 SLA 26, Sponsor: REPRESENTATIVE STORY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 28",
       "type": "general"
     },
@@ -97,7 +97,7 @@
       "title": "[HB 28] EDU: SCHOOLS/TEACHERS/SCHOOL BD/LOAN PRGM",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB28",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 22 SLA 26, Sponsor: REPRESENTATIVE STORY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 28",
       "type": "general"
     },
@@ -105,7 +105,7 @@
       "title": "[HB 28] EDU: SCHOOLS/TEACHERS/SCHOOL BD/LOAN PRGM",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB28",
       "summary": "FN3: (EED) (Status: CHAPTER 22 SLA 26, Sponsor: REPRESENTATIVE STORY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 28",
       "type": "general"
     },
@@ -113,7 +113,7 @@
       "title": "[HB 28] EDU: SCHOOLS/TEACHERS/SCHOOL BD/LOAN PRGM",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB28",
       "summary": "FN4: (EED/FUND CAP) (Status: CHAPTER 22 SLA 26, Sponsor: REPRESENTATIVE STORY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 28",
       "type": "general"
     },
@@ -121,7 +121,7 @@
       "title": "[HB 48] CIVIL LEGAL SERVICES FUND",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB48",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 5 SLA 26, Sponsor: REPRESENTATIVE HANNAN)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 48",
       "type": "general"
     },
@@ -129,7 +129,7 @@
       "title": "[HB 48] CIVIL LEGAL SERVICES FUND",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB48",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 5 SLA 26, Sponsor: REPRESENTATIVE HANNAN)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 48",
       "type": "general"
     },
@@ -137,7 +137,7 @@
       "title": "[HB 48] CIVIL LEGAL SERVICES FUND",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB48",
       "summary": "FN4: (CED) (Status: CHAPTER 5 SLA 26, Sponsor: REPRESENTATIVE HANNAN)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 48",
       "type": "general"
     },
@@ -145,7 +145,7 @@
       "title": "[HB 48] CIVIL LEGAL SERVICES FUND",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB48",
       "summary": "FN5: (CC:HB263/FUND TRANSFERS) (Status: CHAPTER 5 SLA 26, Sponsor: REPRESENTATIVE HANNAN)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 48",
       "type": "general"
     },
@@ -153,7 +153,7 @@
       "title": "[HB 73] COMPLEX CARE RESIDENTIAL HOMES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB73",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 38 SLA 26, Sponsor: HOUSE RULES BY REQUEST OF THE GOVERNOR)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 73",
       "type": "general"
     },
@@ -161,7 +161,7 @@
       "title": "[HB 73] COMPLEX CARE RESIDENTIAL HOMES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB73",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 38 SLA 26, Sponsor: HOUSE RULES BY REQUEST OF THE GOVERNOR)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 73",
       "type": "general"
     },
@@ -169,7 +169,7 @@
       "title": "[HB 73] COMPLEX CARE RESIDENTIAL HOMES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB73",
       "summary": "FN5: (DOH) (Status: CHAPTER 38 SLA 26, Sponsor: HOUSE RULES BY REQUEST OF THE GOVERNOR)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 73",
       "type": "general"
     },
@@ -177,7 +177,7 @@
       "title": "[HB 110] HEALTH CARE/LICENSURE COMPACTS/SOCIAL WRK",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB110",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 28 SLA 26, Sponsor: REPRESENTATIVE GRAY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 110",
       "type": "general"
     },
@@ -185,7 +185,7 @@
       "title": "[HB 110] HEALTH CARE/LICENSURE COMPACTS/SOCIAL WRK",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB110",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 28 SLA 26, Sponsor: REPRESENTATIVE GRAY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 110",
       "type": "general"
     },
@@ -193,7 +193,7 @@
       "title": "[HB 110] HEALTH CARE/LICENSURE COMPACTS/SOCIAL WRK",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB110",
       "summary": "FN4: (CED) (Status: CHAPTER 28 SLA 26, Sponsor: REPRESENTATIVE GRAY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 110",
       "type": "general"
     },
@@ -201,7 +201,7 @@
       "title": "[HB 110] HEALTH CARE/LICENSURE COMPACTS/SOCIAL WRK",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB110",
       "summary": "FN6: (DPS) (Status: CHAPTER 28 SLA 26, Sponsor: REPRESENTATIVE GRAY)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 110",
       "type": "general"
     },
@@ -209,7 +209,7 @@
       "title": "[HB 173] LIC.: OCCUP/PHYS THERAPY;SPEECH;AUDIOLOGY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB173",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 41 SLA 26, Sponsor: REPRESENTATIVE JIMMIE)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 173",
       "type": "general"
     },
@@ -217,7 +217,7 @@
       "title": "[HB 173] LIC.: OCCUP/PHYS THERAPY;SPEECH;AUDIOLOGY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB173",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 41 SLA 26, Sponsor: REPRESENTATIVE JIMMIE)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 173",
       "type": "general"
     },
@@ -225,7 +225,7 @@
       "title": "[HB 173] LIC.: OCCUP/PHYS THERAPY;SPEECH;AUDIOLOGY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB173",
       "summary": "FN2: (CED) (Status: CHAPTER 41 SLA 26, Sponsor: REPRESENTATIVE JIMMIE)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 173",
       "type": "general"
     },
@@ -233,7 +233,7 @@
       "title": "[HB 195] PHARMACISTS; PHYSICIAN ASSOCIATES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB195",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 24 SLA 26, Sponsor: REPRESENTATIVE MINA)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 195",
       "type": "general"
     },
@@ -241,7 +241,7 @@
       "title": "[HB 195] PHARMACISTS; PHYSICIAN ASSOCIATES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB195",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 24 SLA 26, Sponsor: REPRESENTATIVE MINA)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 195",
       "type": "general"
     },
@@ -249,7 +249,7 @@
       "title": "[HB 195] PHARMACISTS; PHYSICIAN ASSOCIATES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB195",
       "summary": "FN2: (CED) (Status: CHAPTER 24 SLA 26, Sponsor: REPRESENTATIVE MINA)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 195",
       "type": "general"
     },
@@ -257,7 +257,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -265,7 +265,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -273,7 +273,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN5: (ADM) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -281,7 +281,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN7: (LAW) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -289,7 +289,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN8: (LAW) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -297,7 +297,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN10: ZERO(DPS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -305,7 +305,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN11: ZERO(DPS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -313,7 +313,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN12: (DPS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -321,7 +321,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN13: (DPS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -329,7 +329,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN14: (ADM) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -337,7 +337,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN15: (ADM) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -345,7 +345,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN16: (COR) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -353,7 +353,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN17: INDETERMINATE(COR) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -361,7 +361,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN18: (COR) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -369,7 +369,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN19: ZERO(DPS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -377,7 +377,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN20: ZERO(DPS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -385,7 +385,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN21: ZERO(DPS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -393,7 +393,7 @@
       "title": "[HB 239] CRIME/CNTRL SUBST/ADDRESS CONFIDENTIALITY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB239",
       "summary": "FN22: (AJS) (Status: CHAPTER 9 SLA 26, Sponsor: REPRESENTATIVE KOPP)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 239",
       "type": "general"
     },
@@ -401,7 +401,7 @@
       "title": "[HB 246] SPECIAL EDUCATION SERVICE AGENCY FUNDING",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB246",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 45 SLA 26, Sponsor: REPRESENTATIVE JOSEPHSON)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 246",
       "type": "general"
     },
@@ -409,7 +409,7 @@
       "title": "[HB 246] SPECIAL EDUCATION SERVICE AGENCY FUNDING",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB246",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 45 SLA 26, Sponsor: REPRESENTATIVE JOSEPHSON)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 246",
       "type": "general"
     },
@@ -417,7 +417,7 @@
       "title": "[HB 246] SPECIAL EDUCATION SERVICE AGENCY FUNDING",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB246",
       "summary": "FN1: (EED) (Status: CHAPTER 45 SLA 26, Sponsor: REPRESENTATIVE JOSEPHSON)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 246",
       "type": "general"
     },
@@ -425,7 +425,7 @@
       "title": "[HB 262] NUMBER OF SUPERIOR COURT JUDGES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB262",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 46 SLA 26, Sponsor: HOUSE RULES BY REQUEST)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 262",
       "type": "general"
     },
@@ -433,7 +433,7 @@
       "title": "[HB 262] NUMBER OF SUPERIOR COURT JUDGES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB262",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 46 SLA 26, Sponsor: HOUSE RULES BY REQUEST)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 262",
       "type": "general"
     },
@@ -441,7 +441,7 @@
       "title": "[HB 262] NUMBER OF SUPERIOR COURT JUDGES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB262",
       "summary": "FN2: (AJS) (Status: CHAPTER 46 SLA 26, Sponsor: HOUSE RULES BY REQUEST)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 262",
       "type": "general"
     },
@@ -449,7 +449,7 @@
       "title": "[HB 263] APPROP: OPERATING BUDGET;FUNDS;SUPP",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB263",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 34 SLA 26, Sponsor: HOUSE RULES BY REQUEST OF THE GOVERNOR)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 263",
       "type": "general"
     },
@@ -457,7 +457,7 @@
       "title": "[HB 265] APPROP: MENTAL HEALTH BUDGET",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB265",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 36 SLA 26, Sponsor: HOUSE RULES BY REQUEST OF THE GOVERNOR)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 265",
       "type": "general"
     },
@@ -465,7 +465,7 @@
       "title": "[HB 314] ARCH, ENG, SURVEYORS; REG INT DESIGN",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB314",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 23 SLA 26, Sponsor: REPRESENTATIVE PRAX)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 314",
       "type": "general"
     },
@@ -473,7 +473,7 @@
       "title": "[HB 314] ARCH, ENG, SURVEYORS; REG INT DESIGN",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB314",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 23 SLA 26, Sponsor: REPRESENTATIVE PRAX)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 314",
       "type": "general"
     },
@@ -481,7 +481,7 @@
       "title": "[HB 314] ARCH, ENG, SURVEYORS; REG INT DESIGN",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB314",
       "summary": "FN1: (CED) (Status: CHAPTER 23 SLA 26, Sponsor: REPRESENTATIVE PRAX)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 314",
       "type": "general"
     },
@@ -489,7 +489,7 @@
       "title": "[HB 314] ARCH, ENG, SURVEYORS; REG INT DESIGN",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB314",
       "summary": "FN2: ZERO(DEC) (Status: CHAPTER 23 SLA 26, Sponsor: REPRESENTATIVE PRAX)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "HB 314",
       "type": "general"
     },
@@ -497,7 +497,7 @@
       "title": "[SB 23] CIVICS EDUCATION",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB23",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 18 SLA 26, Sponsor: SENATOR STEVENS)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 23",
       "type": "general"
     },
@@ -505,7 +505,7 @@
       "title": "[SB 23] CIVICS EDUCATION",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB23",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 18 SLA 26, Sponsor: SENATOR STEVENS)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 23",
       "type": "general"
     },
@@ -513,7 +513,7 @@
       "title": "[SB 23] CIVICS EDUCATION",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB23",
       "summary": "FN3: (EED) (Status: CHAPTER 18 SLA 26, Sponsor: SENATOR STEVENS)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 23",
       "type": "general"
     },
@@ -521,7 +521,7 @@
       "title": "[SB 29] BIG GAME COMM. SVS BD/BD DENTAL EXAMINERS",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB29",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 31 SLA 26, Sponsor: SENATOR BJORKMAN)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 29",
       "type": "general"
     },
@@ -529,7 +529,7 @@
       "title": "[SB 29] BIG GAME COMM. SVS BD/BD DENTAL EXAMINERS",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB29",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 31 SLA 26, Sponsor: SENATOR BJORKMAN)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 29",
       "type": "general"
     },
@@ -537,7 +537,7 @@
       "title": "[SB 29] BIG GAME COMM. SVS BD/BD DENTAL EXAMINERS",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB29",
       "summary": "FN2: (CED) (Status: CHAPTER 31 SLA 26, Sponsor: SENATOR BJORKMAN)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 29",
       "type": "general"
     },
@@ -545,7 +545,7 @@
       "title": "[SB 86] MONEY TRANSMISSION; VIRTUAL CURRENCY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB86",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 48 SLA 26, Sponsor: SENATOR KIEHL)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 86",
       "type": "general"
     },
@@ -553,7 +553,7 @@
       "title": "[SB 86] MONEY TRANSMISSION; VIRTUAL CURRENCY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB86",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 48 SLA 26, Sponsor: SENATOR KIEHL)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 86",
       "type": "general"
     },
@@ -561,7 +561,7 @@
       "title": "[SB 86] MONEY TRANSMISSION; VIRTUAL CURRENCY",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB86",
       "summary": "FN2: (CED) (Status: CHAPTER 48 SLA 26, Sponsor: SENATOR KIEHL)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 86",
       "type": "general"
     },
@@ -569,7 +569,7 @@
       "title": "[SB 104] VEHICLES/BOATS: TRANSFER ON DEATH TITLE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB104",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 12 SLA 26, Sponsor: SENATOR KAWASAKI)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 104",
       "type": "general"
     },
@@ -577,7 +577,7 @@
       "title": "[SB 104] VEHICLES/BOATS: TRANSFER ON DEATH TITLE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB104",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 12 SLA 26, Sponsor: SENATOR KAWASAKI)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 104",
       "type": "general"
     },
@@ -585,7 +585,7 @@
       "title": "[SB 104] VEHICLES/BOATS: TRANSFER ON DEATH TITLE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB104",
       "summary": "FN2: (ADM) (Status: CHAPTER 12 SLA 26, Sponsor: SENATOR KAWASAKI)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 104",
       "type": "general"
     },
@@ -593,7 +593,7 @@
       "title": "[SB 143] SCHOOL BD TERMS, TRAINING; CITY COUNCILS",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB143",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 59 SLA 26, Sponsor: SENATOR YUNDT)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 143",
       "type": "general"
     },
@@ -601,7 +601,7 @@
       "title": "[SB 143] SCHOOL BD TERMS, TRAINING; CITY COUNCILS",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB143",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 59 SLA 26, Sponsor: SENATOR YUNDT)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 143",
       "type": "general"
     },
@@ -609,7 +609,7 @@
       "title": "[SB 143] SCHOOL BD TERMS, TRAINING; CITY COUNCILS",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB143",
       "summary": "FN4: (CC:HB263/EED) (Status: CHAPTER 59 SLA 26, Sponsor: SENATOR YUNDT)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 143",
       "type": "general"
     },
@@ -617,7 +617,7 @@
       "title": "[SB 146] REAA & SMALL MUNI FUND: MT. EDGECUMBE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB146",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 13 SLA 26, Sponsor: SENATE FINANCE)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 146",
       "type": "general"
     },
@@ -625,7 +625,7 @@
       "title": "[SB 146] REAA & SMALL MUNI FUND: MT. EDGECUMBE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB146",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 263 (Status: CHAPTER 13 SLA 26, Sponsor: SENATE FINANCE)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 146",
       "type": "general"
     },
@@ -633,7 +633,7 @@
       "title": "[SB 146] REAA & SMALL MUNI FUND: MT. EDGECUMBE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB146",
       "summary": "FN2: (EED) (Status: CHAPTER 13 SLA 26, Sponsor: SENATE FINANCE)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 146",
       "type": "general"
     },
@@ -641,7 +641,7 @@
       "title": "[SB 178] EXPAND EARLY INTERVENTION SERVICES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB178",
       "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 16 SLA 26, Sponsor: SENATE HEALTH & SOCIAL SERVICES)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 178",
       "type": "general"
     },
@@ -649,7 +649,7 @@
       "title": "[SB 178] EXPAND EARLY INTERVENTION SERVICES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB178",
       "summary": "FN(S) ATTACHED TO APPROP. BILL HB 265 (Status: CHAPTER 16 SLA 26, Sponsor: SENATE HEALTH & SOCIAL SERVICES)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 178",
       "type": "general"
     },
@@ -657,7 +657,7 @@
       "title": "[SB 178] EXPAND EARLY INTERVENTION SERVICES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB178",
       "summary": "FN3: (DOH) (Status: CHAPTER 16 SLA 26, Sponsor: SENATE HEALTH & SOCIAL SERVICES)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 178",
       "type": "general"
     },
@@ -665,7 +665,7 @@
       "title": "[SB 178] EXPAND EARLY INTERVENTION SERVICES",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB178",
       "summary": "FN4: (DOH) (Status: CHAPTER 16 SLA 26, Sponsor: SENATE HEALTH & SOCIAL SERVICES)",
-      "published": "2026-09-08T21:11:05.230018+00:00",
+      "published": "2026-09-08T23:30:18.797909+00:00",
       "bill_number": "SB 178",
       "type": "general"
     }
