@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T22:50:44.308557+00:00",
+  "updated": "2026-09-10T00:10:36.150981+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -9,6 +9,27 @@
   },
   "count": 25,
   "earthquakes": [
+    {
+      "id": "aka2026rxlacf",
+      "magnitude": 1.5,
+      "place": "30 km SSE of Chickaloon, Alaska",
+      "time": "2026-09-09T23:44:52.231000+00:00",
+      "updated": "2026-09-09T23:46:01.936000+00:00",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxlacf",
+      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rxlacf&format=geojson",
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "title": "M 1.5 - 30 km SSE of Chickaloon, Alaska",
+      "alert": null,
+      "felt": null,
+      "cdi": null,
+      "mmi": null,
+      "sig": 35,
+      "lat": 61.532,
+      "lng": -148.333,
+      "depth_km": 12
+    },
     {
       "id": "aka2026rxhomw",
       "magnitude": 2.8,
@@ -98,7 +119,7 @@
       "magnitude": 1.9,
       "place": "7 km NNE of Meadow Lakes, Alaska",
       "time": "2026-09-09T19:53:49.636000+00:00",
-      "updated": "2026-09-09T19:55:42.386000+00:00",
+      "updated": "2026-09-09T22:50:40.504000+00:00",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxdhqv",
       "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rxdhqv&format=geojson",
       "status": "automatic",
@@ -106,8 +127,8 @@
       "type": "earthquake",
       "title": "M 1.9 - 7 km NNE of Meadow Lakes, Alaska",
       "alert": null,
-      "felt": null,
-      "cdi": null,
+      "felt": 1,
+      "cdi": 2.2,
       "mmi": null,
       "sig": 56,
       "lat": 61.682,
@@ -512,27 +533,6 @@
       "lat": 52.3902,
       "lng": -169.479,
       "depth_km": 54.851
-    },
-    {
-      "id": "us7000tfy4",
-      "magnitude": 4,
-      "place": "77 km SSW of Nikolski, Alaska",
-      "time": "2026-09-08T23:02:34.467000+00:00",
-      "updated": "2026-09-09T01:33:53.040000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfy4",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tfy4&format=geojson",
-      "status": "reviewed",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 4.0 - 77 km SSW of Nikolski, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": 2.19,
-      "sig": 246,
-      "lat": 52.3325,
-      "lng": -169.4249,
-      "depth_km": 49.3
     }
   ]
 }
