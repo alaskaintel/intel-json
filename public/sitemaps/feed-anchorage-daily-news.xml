@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/10/at-least-1000-forgotten-children-who-died-in-state-custody-are-buried-across-us-study-finds/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>At least 1,000 ‘forgotten children’ who died in state custody are buried across U.S., study finds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/10/democrats-demand-that-trump-administration-halts-collection-of-patients-er-records/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>Democrats demand that Trump administration halts collection of patients’ ER records</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/10/trump-promises-500-obamacare-rebate-checks-for-1m-enrollees-in-30-states/</loc>
     <news:news>
       <news:publication>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-14</news:publication_date>
       <news:title>FDA investigators travel to Taylor Farms’ operation in Mexico a month after linking it to cyclospora outbreak</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/14/colombia-grapples-with-rebuilding-a-shattered-nation-after-a-deadly-earthquake/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14</news:publication_date>
-      <news:title>Colombia grapples with rebuilding a shattered nation after a deadly earthquake</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/opinions/2026/08/14/opinion-the-duality-of-alaskas-us-senate-race/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14</news:publication_date>
-      <news:title>Opinion: The duality of Alaska’s U.S. Senate race</news:title>
     </news:news>
   </url>
 </urlset>
