@@ -25,6 +25,56 @@
     ]
   },
   {
+    "hash": "b0ee3f4a67583d815bd2a0e0a2ff49b6",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 4.2 - 67 km WNW of Lake Louise, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxwdbw",
+    "published": "",
+    "summary": "ShakeMap - IV DYFI? - III Time 2026-09-10 05:18:08 UTC 2026-09-10 05:18:08 UTC at epicenter Location 62.521\u00b0N 147.750\u00b0W Depth 12.40 km (7.71 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T05:18:08+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
+      "74472b9bf0afc5bb596d9bf7d78861fe",
+      "9f5963309330af86a89ee7c632d0c9d5",
+      "8db9678922a0c00c7d5118a96a295227",
+      "d9f810c681116102df842538afc53f0d"
+    ]
+  },
+  {
+    "hash": "a279d06a61ab7a4ddfb2cfa21294e225",
+    "source": "Chilkat Valley News",
+    "category": "Regional",
+    "title": "Partnership forming opposite Global Ports in dock competition",
+    "link": "https://www.chilkatvalleynews.com/2026/09/09/partnership-forming-opposite-global-ports-in-dock-competition/",
+    "published": "Thu, 10 Sep 2026 05:13:33 +0000",
+    "summary": "Two of the companies vying for management of Haines\u2019 cruise ship dock have consolidated proposals and will partner, rather than compete. Survey Point Holdings and Huna Totem Corporation, along with Viking Cruise Line, propose to manage the dock as a joint partnership, the companies wrote in a July 2...",
+    "dataTag": "[Region: Southcentral] [Category: Regional]",
+    "sourceAttribution": "Source: Chilkat Valley News",
+    "imageUrl": "https://www.chilkatvalleynews.com/wp-content/uploads/2024/08/Haines-Cruise-ship-0561-1024x681.jpg",
+    "timestamp": "2026-09-10T05:13:33+00:00",
+    "impactScore": 30,
+    "region": "Southeast",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "6ea915a4bccc147e3edd496b63d598f3",
+      "ba8d58205ae498b7df9999ff9268a564",
+      "12b45d58c224b3ef1b23608195dd12b2",
+      "e4243ad53fc5a29745dbce7d15e6c22b",
+      "b4806562217148cb5ffa31e76efce8ac"
+    ]
+  },
+  {
     "hash": "d6771bb39f095a79c1b20ab780b228db",
     "source": "USGS Alaska Science",
     "category": "Science",
@@ -566,11 +616,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
       "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618",
-      "63784503a30a85596c3cecab3df0f120"
+      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
     ]
   },
   {
@@ -741,11 +791,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "8db9678922a0c00c7d5118a96a295227",
       "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618",
-      "63784503a30a85596c3cecab3df0f120"
+      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
     ]
   },
   {
@@ -989,11 +1039,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618",
-      "63784503a30a85596c3cecab3df0f120"
+      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
     ]
   },
   {
@@ -1364,11 +1414,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618",
-      "63784503a30a85596c3cecab3df0f120"
+      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
     ]
   },
   {
@@ -1414,11 +1464,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "63784503a30a85596c3cecab3df0f120"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -1464,11 +1514,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -1737,11 +1787,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -1789,11 +1839,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -2085,11 +2135,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -2235,11 +2285,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -2623,11 +2673,11 @@
     "urgency": "now",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "d6771bb39f095a79c1b20ab780b228db",
       "25b40913d29b424ceaa5e006350d91a0",
       "41765816b7a6fdb5b3581d9dd2865329",
       "3a76a41bb4f86e4ef132a83eb3f2ad82",
-      "b696b219b51f3e370b6c28ae3b5ed099",
-      "d6771bb39f095a79c1b20ab780b228db"
+      "b696b219b51f3e370b6c28ae3b5ed099"
     ]
   },
   {
@@ -2748,11 +2798,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -3531,6 +3581,145 @@
     ]
   },
   {
+    "hash": "929841d3e93a568bfaf57920f2facb18",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "Oyster Farms Don\u2019t Alter Sea Otter Fodder",
+    "link": "https://alaska-native-news.com/oyster-farms-dont-alter-sea-otter-fodder/86153/",
+    "published": "Wed, 09 Sep 2026 14:05:07 +0000",
+    "summary": "To you and I, farmed oysters are a delicacy. But for sea otters, oyster farms may not be a big deal. That\u2019s one finding of a team of scientists led by Brenda Konar, a marine researcher at the University of Alaska Fairbanks (UAF), and including Alaska Sea Grant-supported UAF graduate student Riley O\u2019...",
+    "dataTag": "[Region: Interior] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T14:05:07+00:00",
+    "impactScore": 38,
+    "region": "Interior",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "e3774601b22f0166c01ec62c07e8af26",
+      "07cc25bcd4b5d00c33701e2ee411f610"
+    ]
+  },
+  {
+    "hash": "c8b64fcd8154bb0eb856b9c6147dfba3",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "UPDATE: Coast Guard locates missing boaters near St. Lawrence Island",
+    "link": "https://alaska-native-news.com/update-coast-guard-locates-missing-boaters-near-st-lawrence-island/86151/",
+    "published": "Wed, 09 Sep 2026 14:04:49 +0000",
+    "summary": "JUNEAU, Alaska \u2014 The Coast Guard concluded its search efforts for three missing boaters following the rescue of one survivor and the recovery of two deceased from the water approximately 4 miles east of St. Lawrence Island, Monday. A Coast Guard HC-130 Hercules aircrew from Air Station Kodiak locate...",
+    "dataTag": "[Region: Southeast] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T14:04:49+00:00",
+    "impactScore": 38,
+    "region": "Southeast",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "4adc47b98038fe3c515e25e75f32d1a9",
+      "c7d028fac9d24c7f8e91f740545c98d6",
+      "6d1d756634656a4d03c3a416a3ca4e11"
+    ]
+  },
+  {
+    "hash": "71505f2eaaaac66d45ad3259477955c4",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "\u2018Absolutely Bonkers\u2019 and \u2018Unacceptable\u2019: Trump Posts Map Showing US Takeovers of Other Nations",
+    "link": "https://alaska-native-news.com/absolutely-bonkers-and-unacceptable-trump-posts-map-showing-us-takeovers-of-other-nations/86147/",
+    "published": "Wed, 09 Sep 2026 14:03:43 +0000",
+    "summary": "\u201cAs always, he is telling us what the plan is,\u201d said one critic. \u201cWe must take it seriously.\u201d US President Donald Trump has spent his second term threatening takeovers of various other countries, from Canada and Cuba to Greenland, and on Monday he shared on social media a map that fueled fresh fears...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T14:03:43+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "c05ed1e0ac59cc383890ea3330460d95",
+      "45a84a45c97e14f3fa99727f94a56714",
+      "749ccf546ed74af47eac2aecec07d0ea",
+      "bb6068efd07191f9ac2349ba7a11ea37",
+      "48bcd2bf98fe3a7909334e3fecd424cc"
+    ]
+  },
+  {
+    "hash": "9676be2287ee61a8798ca2593dc2315e",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "\u2018Things Are Getting Even More Insane\u2019: Another Major AI Breakout Revealed",
+    "link": "https://alaska-native-news.com/things-are-getting-even-more-insane-another-major-ai-breakout-revealed/86145/",
+    "published": "Wed, 09 Sep 2026 14:02:05 +0000",
+    "summary": "\u201cHow much more is there that we don\u2019t know about?\u201d asked one historian after it was revealed that OpenAI had buried reports that its AI agents had hijacked a German website without the company\u2019s knowledge. Calls for artificial regulation are growing louder following a report Friday that OpenAI hid e...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T14:02:05+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "c05ed1e0ac59cc383890ea3330460d95",
+      "45a84a45c97e14f3fa99727f94a56714",
+      "749ccf546ed74af47eac2aecec07d0ea",
+      "bb6068efd07191f9ac2349ba7a11ea37",
+      "48bcd2bf98fe3a7909334e3fecd424cc"
+    ]
+  },
+  {
+    "hash": "c274a4e3d6b444224c1c1d949f8963bc",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "\u2018Bombshell\u2019 Report Says UAE Explicitly Warned Netanyahu of October 7 Attack",
+    "link": "https://alaska-native-news.com/bombshell-report-says-uae-explicitly-warned-netanyahu-of-october-7-attack/86141/",
+    "published": "Wed, 09 Sep 2026 14:01:14 +0000",
+    "summary": "Haaretz also reported that Hamas immediately offered to release all the Israeli hostages it had taken in the attack, demanding nothing in return, but Israel refused the deal. Policy experts in the US and Middle East on Tuesday were among those responding to an \u201castonishing\u201d new investigation from Ha...",
+    "dataTag": "[Region: Statewide] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T14:01:14+00:00",
+    "impactScore": 38,
+    "region": "Statewide",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "c05ed1e0ac59cc383890ea3330460d95",
+      "45a84a45c97e14f3fa99727f94a56714",
+      "749ccf546ed74af47eac2aecec07d0ea",
+      "bb6068efd07191f9ac2349ba7a11ea37",
+      "48bcd2bf98fe3a7909334e3fecd424cc"
+    ]
+  },
+  {
+    "hash": "106189c1c8f940aaf4fb63f4890b177c",
+    "source": "Alaska Native News",
+    "category": "Native",
+    "title": "This Day in Alaska History-September 9th, 1915",
+    "link": "https://alaska-native-news.com/september-9th-1915/44470/",
+    "published": "Wed, 09 Sep 2026 14:00:57 +0000",
+    "summary": "On September 0th, 1915, The Cordova Daily Times broke the news that William Van Valin, a noted explorer, lecturer, and teacher, had discovered a \u201cLake of Oil\u201d a mile inland from Smith Bay, approximately halfway between Wainwright and Utqiagvik (Point Barrow) Van Valin described and photographed stre...",
+    "dataTag": "[Region: Southcentral] [Category: Native]",
+    "sourceAttribution": "Source: Alaska Native News",
+    "imageUrl": null,
+    "timestamp": "2026-09-09T14:00:57+00:00",
+    "impactScore": 38,
+    "region": "North Slope",
+    "sector": "native-affairs",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": []
+  },
+  {
     "hash": "633021d7284fbdd6b8a312bf872a5d4b",
     "source": "Alaska Business Magazine",
     "category": "Business",
@@ -4141,11 +4330,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -4216,11 +4405,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -4291,11 +4480,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -4316,11 +4505,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -4837,11 +5026,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "54b2ec21df406c7ec7fb07df521d3fb3",
       "74472b9bf0afc5bb596d9bf7d78861fe",
       "9f5963309330af86a89ee7c632d0c9d5",
       "8db9678922a0c00c7d5118a96a295227",
-      "d9f810c681116102df842538afc53f0d",
-      "8e8bc25dbd85f06ec9b1bcbd1fa0f618"
+      "d9f810c681116102df842538afc53f0d"
     ]
   },
   {
@@ -5231,56 +5420,6 @@
     "sourceAttribution": "Source: Mongabay Alaska",
     "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08210725/0002-768x512.jpg",
     "timestamp": "2026-09-09T07:00:31+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "09a5ec7136ec78c181711f613bfb721f",
-      "820717450faa5824d953376a3ae3690d",
-      "ae55ef7735e45767c121d748c2381964",
-      "502d9f0d6c2ace8527bd3bb01cefba69",
-      "a56705ae88971715a44f351aefe1be0e"
-    ]
-  },
-  {
-    "hash": "197067fa1d6463df8dfd6badcda4e908",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "To save Europe\u2019s raptors, conservationists say, look to West Africa",
-    "link": "https://news.mongabay.com/2026/09/to-save-europes-raptors-conservationists-say-look-to-west-africa/",
-    "published": "09 Sep 2026 06:07:26 +0000",
-    "summary": "In 2020, a juvenile osprey was fatally shot in Ghana. The bird, one of hundreds of raptors killed in similar circumstances across West Africa every year, had been fitted with a leg ring by the British Trust for Ornithology in Scotland the previous year. Ospreys (Pandion haliaetus) were locally extir...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/08110537/26665739020_70b432d5a3_o-Western-Marsh-Harrier-768x512.jpg",
-    "timestamp": "2026-09-09T06:07:26+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "09a5ec7136ec78c181711f613bfb721f",
-      "820717450faa5824d953376a3ae3690d",
-      "ae55ef7735e45767c121d748c2381964",
-      "502d9f0d6c2ace8527bd3bb01cefba69",
-      "a56705ae88971715a44f351aefe1be0e"
-    ]
-  },
-  {
-    "hash": "1e99dd034766d32c629846682b4f0b91",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Colorful Himalayan pheasants face a less rosy future under human pressure",
-    "link": "https://news.mongabay.com/short-article/2026/09/colorful-himalayan-pheasants-face-a-less-rosy-future-under-human-pressure/",
-    "published": "09 Sep 2026 05:46:46 +0000",
-    "summary": "In the Indian Himalayas, numerous species of colorful pheasants roam the understory, pecking at seeds, roots, leaves, berries, and insects. These large, ornate birds are vital to the Himalayan ecosystem. But some species now face increasing pressures from habitat degradation and hunting, reports con...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09054445/Western-Tragopan-4-1800x1012-1-768x512.jpg",
-    "timestamp": "2026-09-09T05:46:46+00:00",
     "impactScore": 30,
     "region": "Statewide",
     "sector": "environment",

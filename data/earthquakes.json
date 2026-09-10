@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T04:57:16.795146+00:00",
+  "updated": "2026-09-10T06:16:00.920201+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -7,8 +7,50 @@
     "min_magnitude": 1.5,
     "time_window_hours": 24
   },
-  "count": 26,
+  "count": 27,
   "earthquakes": [
+    {
+      "id": "aka2026rxxrwn",
+      "magnitude": 1.5,
+      "place": "14 km S of South Van Horn, Alaska",
+      "time": "2026-09-10T06:05:12.325000+00:00",
+      "updated": "2026-09-10T06:06:33.240000+00:00",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxxrwn",
+      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rxxrwn&format=geojson",
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "title": "M 1.5 - 14 km S of South Van Horn, Alaska",
+      "alert": null,
+      "felt": null,
+      "cdi": null,
+      "mmi": null,
+      "sig": 35,
+      "lat": 64.682,
+      "lng": -147.826,
+      "depth_km": 13.3
+    },
+    {
+      "id": "aka2026rxwdbw",
+      "magnitude": 4.2,
+      "place": "67 km WNW of Lake Louise, Alaska",
+      "time": "2026-09-10T05:18:08.379000+00:00",
+      "updated": "2026-09-10T06:12:07.901000+00:00",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxwdbw",
+      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rxwdbw&format=geojson",
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "title": "M 4.2 - 67 km WNW of Lake Louise, Alaska",
+      "alert": null,
+      "felt": 220,
+      "cdi": 3.3,
+      "mmi": 4.159,
+      "sig": 344,
+      "lat": 62.521,
+      "lng": -147.75,
+      "depth_km": 12.4
+    },
     {
       "id": "aka2026rxqgmp",
       "magnitude": 3.6,
@@ -308,7 +350,7 @@
       "magnitude": 2.9,
       "place": "25 km ENE of Beluga, Alaska",
       "time": "2026-09-09T18:35:05.275000+00:00",
-      "updated": "2026-09-09T18:44:40.845000+00:00",
+      "updated": "2026-09-10T05:28:46.593000+00:00",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxarpv",
       "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rxarpv&format=geojson",
       "status": "automatic",
@@ -533,27 +575,6 @@
       "lat": 61.028,
       "lng": -151.387,
       "depth_km": 77.6
-    },
-    {
-      "id": "aka2026rvzppd",
-      "magnitude": 1.6,
-      "place": "35 km SE of Tanana, Alaska",
-      "time": "2026-09-09T05:03:14.704000+00:00",
-      "updated": "2026-09-09T05:04:37.278000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rvzppd",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026rvzppd&format=geojson",
-      "status": "automatic",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 1.6 - 35 km SE of Tanana, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": null,
-      "sig": 39,
-      "lat": 64.915,
-      "lng": -151.64,
-      "depth_km": 5
     }
   ]
 }
