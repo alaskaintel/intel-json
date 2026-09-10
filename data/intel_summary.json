@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-10T01:20:21.065914",
-  "total_items": 18820,
+  "last_updated": "2026-09-10T01:40:26.435225",
+  "total_items": 18823,
   "categories": {
-    "News": 3455,
+    "News": 3457,
+    "Radio": 420,
     "Regional": 3890,
     "Emergency": 2011,
-    "Radio": 419,
     "Environment": 1156,
     "Native": 1569,
     "Business": 80,
@@ -35,10 +35,11 @@
     "Social": 1
   },
   "sources": {
-    "Anchorage Daily News": 2211,
+    "KTOO Juneau": 287,
+    "KCAW Sitka": 110,
+    "Anchorage Daily News": 2213,
     "Homer News": 131,
     "USGS Earthquake Center": 1870,
-    "KTOO Juneau": 287,
     "KRBD Ketchikan": 90,
     "KMXT Kodiak": 33,
     "Mongabay Alaska": 562,
@@ -72,7 +73,6 @@
     "Wrangell Sentinel": 232,
     "Chilkat Valley News": 183,
     "Alaska Governor's Office": 24,
-    "KCAW Sitka": 109,
     "AP Alaska Tag": 84,
     "Sealaska Heritage Institute": 14,
     "Must Read Alaska": 180,
