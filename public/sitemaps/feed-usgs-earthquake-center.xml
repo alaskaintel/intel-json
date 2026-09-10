@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxyemx</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>M 1.9 - 68 km SSW of Nanwalek, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxxymw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>M 1.9 - 42 km NNW of Beluga, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxxrwn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>M 1.5 - 14 km S of South Van Horn, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxwdbw</loc>
     <news:news>
       <news:publication>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-08</news:publication_date>
       <news:title>M 1.9 - 11 km ENE of Sterling, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppysix</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 1.0 - 66 km W of Karluk, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppynvf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 2.6 - 59 km WNW of Skwentna, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ppyhha</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08</news:publication_date>
-      <news:title>M 1.7 - 52 km W of Anchor Point, Alaska</news:title>
     </news:news>
   </url>
 </urlset>
