@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/sports/national-sports/2026/09/10/packers-running-back-josh-jacobs-pleads-no-contest-to-2-misdemeanor-charges-including-battery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>Packers running back Josh Jacobs pleads no contest to 2 misdemeanor charges, including battery</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/10/trump-wants-to-send-americans-money-congress-and-economists-dont-seem-thrilled-with-the-idea/</loc>
     <news:news>
       <news:publication>
@@ -174,6 +185,17 @@
       </news:publication>
       <news:publication_date>2026-09-10</news:publication_date>
       <news:title>US Supreme Court again rejects push to use Trump-backed congressional map in Missouri</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/10/us-supreme-court-again-rejects-push-to-use-trump-backed-congressional-map-in-missouri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>Missouri poised to revert to former congressional districts after justices reject Trump-backed map</news:title>
     </news:news>
   </url>
   <url>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-14</news:publication_date>
       <news:title>Opinion: For Alaska’s future, pick Click</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/opinions/2026/08/14/opinion-why-women-are-supporting-tom-begich-and-julia-hnilicka-on-aug-18/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14</news:publication_date>
-      <news:title>Opinion: Why women are supporting Tom Begich and Julia Hnilicka on Aug. 18</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/opinions/2026/08/14/opinion-alaska-fishermen-deserve-a-senator-who-fights-for-us-not-the-lower-48-factory-fleet/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14</news:publication_date>
-      <news:title>Opinion: Alaska fishermen deserve a senator who fights for us, not the Lower 48 factory fleet</news:title>
     </news:news>
   </url>
 </urlset>
