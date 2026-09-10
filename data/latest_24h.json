@@ -1,5 +1,249 @@
 [
   {
+    "hash": "ddbb28aba96920b72573668555646d9f",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 2.4 - 6 km SE of Houston, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ryxsrs",
+    "published": "",
+    "summary": "Time 2026-09-10 19:05:47 UTC 2026-09-10 19:05:47 UTC at epicenter Location 61.582\u00b0N 149.747\u00b0W Depth 27.90 km (17.34 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T19:05:47+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "ae908a906b23a92a756c67400bf550a5",
+      "6b7ddf0caa3c205ec8b937b2bc338046",
+      "51edda5cb75769a70b10d78988838141",
+      "c95cb77a21056df03066e63354972700",
+      "01929e97e74817b3a61ceb580995a10e"
+    ]
+  },
+  {
+    "hash": "878bebd4ced8e1f868ab06c4aaf5ef78",
+    "source": "Mongabay Alaska",
+    "category": "Environment",
+    "title": "Japan deploys equipment to Indonesia\u2019s Borneo to help fight wildfires causing toxic haze",
+    "link": "https://news.mongabay.com/short-article/2026/09/japan-deploys-equipment-to-indonesias-borneo-to-help-fight-wildfires-causing-toxic-haze/",
+    "published": "10 Sep 2026 18:47:51 +0000",
+    "summary": "MEMPAWAH, Indonesia (AP) \u2014 A Japanese military transport ship docked on the island of Borneo on Thursday as part of a disaster relief mission to help fight wildfires in Indonesia that are causing a toxic haze impacting people\u2019s health in other countries. Japan deployed 300 crew members, landing ship...",
+    "dataTag": "[Region: Statewide] [Category: Environment]",
+    "sourceAttribution": "Source: Mongabay Alaska",
+    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/10184032/AP26253095492154-768x512.jpg",
+    "timestamp": "2026-09-10T18:47:51+00:00",
+    "impactScore": 65,
+    "region": "Statewide",
+    "sector": "environment",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
+      "6301e9c489a45680b80377f03d09cd70",
+      "887c75d2b04e5842a00cd9e1b37da310",
+      "04b1231d3c84951c5bd885566a805880"
+    ]
+  },
+  {
+    "hash": "187205361c25b22edbd44096a4d9d89d",
+    "source": "Mining.com Alaska",
+    "category": "Mining",
+    "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides",
+    "link": "https://www.mining.com/mining-stocks-rally-comes-to-abrupt-halt-as-copper-silver-prices-plummet-and-gold-slides/",
+    "published": "Thu, 10 Sep 2026 18:36:38 +0000",
+    "summary": "Metals and mining stocks sold off across the board on Thursday as a US producer price report and crude oil above $105 a barrel pushed the odds of a Federal Reserve rate increase next week to about 70%, and a report that the White House copper tariff plan has stalled pulled the rug from under a metal...",
+    "dataTag": "[Region: Statewide] [Category: Mining]",
+    "sourceAttribution": "Source: Mining.com Alaska",
+    "imageUrl": "https://www.mining.com/wp-content/uploads/2026/09/copper-price-ytd-september-10-2026.jpg",
+    "timestamp": "2026-09-10T18:36:38+00:00",
+    "impactScore": 40,
+    "region": "Statewide",
+    "sector": "energy",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
+      "4c1a2b6886e6832701bf15a4712ea98f",
+      "d466b79a106a48b8ec4797f20e853696",
+      "18d1274149772debbefc6b81200ed94c",
+      "a11a1ce4739c7313d7bcc8dbdaf25806"
+    ]
+  },
+  {
+    "hash": "c33221b0fa129c3839a3252ac953929e",
+    "source": "Juneau Empire",
+    "category": "Regional",
+    "title": "Juneau wastewater permit review follows bacterial violations",
+    "link": "https://www.juneauempire.com/2026/09/10/juneau-wastewater-permit-review-follows-bacterial-violations/",
+    "published": "Thu, 10 Sep 2026 18:30:00 +0000",
+    "summary": "State records show repeated fecal coliform violations at treatment plant",
+    "dataTag": "[Region: Southeast] [Category: Regional]",
+    "sourceAttribution": "Source: Juneau Empire",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T18:30:00+00:00",
+    "impactScore": 45,
+    "region": "Southeast",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
+    ]
+  },
+  {
+    "hash": "b7c191b32ce3a42b9b2a12278aa97d2e",
+    "source": "Alaska Public Media",
+    "category": "News",
+    "title": "A California-based company made it rain near Homer. Locals say they were blindsided",
+    "link": "https://alaskapublic.org/news/2026-09-10/a-california-based-company-made-it-rain-near-homer-locals-say-they-were-blindsided",
+    "published": "Thu, 10 Sep 2026 18:20:26 GMT",
+    "summary": "\u201cThe mayor of the Kenai Peninsula Borough didn't know about it until after the fact, and there's a sort of question of was there enough public notice and sort of community outreach in advance,\u201d said Anchorage Press reporter Max Graham.",
+    "dataTag": "[Region: Southcentral] [Category: News]",
+    "sourceAttribution": "Source: Alaska Public Media",
+    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/1675194/2147483647/strip/false/crop/1760x856+0+0/resize/300x146!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fwp-content%2Fuploads%2F2024%2F04%2FKachemak-Bay.jpg",
+    "timestamp": "2026-09-10T18:20:26+00:00",
+    "impactScore": 30,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
+      "39cd8c68c55dc468c16464d5c2f1d68f",
+      "2ce1788cf194a8688eef092662c85391",
+      "3e0b54a42c7345039781e9f4bad835a2"
+    ]
+  },
+  {
+    "hash": "1e78084f2a1139ea0b4f7d1218fff6e6",
+    "source": "Alaska Beacon",
+    "category": "News",
+    "title": "At midterm convention, Trump pledges cash to voters if Republicans hold Congress",
+    "link": "https://alaskabeacon.com/2026/09/10/repub/at-midterm-convention-trump-pledges-cash-to-voters-if-republicans-hold-congress/",
+    "published": "Thu, 10 Sep 2026 18:18:09 +0000",
+    "summary": "President Donald Trump speaks on the first day of the 2026 Republican National Convention at the American Airlines Center on Sept. 9, 2026 in Dallas, Texas. (Photo by Justin Sullivan/Getty Images) WASHINGTON \u2014 President Donald Trump headlined the first night of the first Republican midterm conventio...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Alaska Beacon",
+    "imageUrl": "https://alaskabeacon.com/wp-content/uploads/2026/09/trumpsept92026-1024x683.jpg",
+    "timestamp": "2026-09-10T18:18:09+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
+    ]
+  },
+  {
+    "hash": "3417bf294df1a63318969f03ede43562",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Trump wants to send Americans money. Congress and economists don\u2019t seem thrilled with the idea.",
+    "link": "https://www.adn.com/nation-world/2026/09/10/trump-wants-to-send-americans-money-congress-and-economists-dont-seem-thrilled-with-the-idea/",
+    "published": "Thu, 10 Sep 2026 18:16:12 +0000",
+    "summary": "WASHINGTON \u2014 Donald Trump\u2019s pitch to send Americans $5,000 checks should Republicans prevail in the November midterms is drawing scorn from some members of Congress \u2014 the very people who have constitutional authority over federal spending. Economists and other political observers are voicing concern...",
+    "dataTag": "[Region: North Slope] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/RktD_Zz9SypYAxIM_3MxZRBEoS4=/cloudfront-us-east-1.images.arcpublishing.com/adn/E767JVST5WM6Z4MPKRRZVHCVOY.jpg",
+    "timestamp": "2026-09-10T18:16:12+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
+    ]
+  },
+  {
+    "hash": "b073aa46a3cdb661912873d964ed8d22",
+    "source": "KNOM Nome Indigenous Radio",
+    "category": "Native",
+    "title": "During first Nome visit, Rep. Begich talks Arctic security, development and subsistence",
+    "link": "https://knom.org/2026/09/10/during-first-nome-visit-rep-begich-talks-arctic-security-development-and-subsistence/",
+    "published": "Thu, 10 Sep 2026 18:07:06 +0000",
+    "summary": "Republican Congressman Nick Begich III made an official visit to Nome on Sept. 9, 2026. Begich stopped by the KNOM station for this interview just before boarding a plane back to Anchorage. This interview has been lightly edited for length and clarity. Listen to this interview: https://knom.org/wp-c...",
+    "dataTag": "[Region: Southcentral] [Category: Native]",
+    "sourceAttribution": "Source: KNOM Nome Indigenous Radio",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T18:07:06+00:00",
+    "impactScore": 50,
+    "region": "Cook Inlet",
+    "sector": "native-affairs",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": []
+  },
+  {
+    "hash": "a8935aa7995d90a154debe5092db42e4",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Appeals court hands Trump a loss on mail voting as Supreme Court considers his executive order",
+    "link": "https://www.adn.com/nation-world/2026/09/10/appeals-court-hands-trump-a-loss-on-mail-voting-as-supreme-court-considers-his-executive-order/",
+    "published": "Thu, 10 Sep 2026 18:02:11 +0000",
+    "summary": "WASHINGTON \u2014 An appeals court on Thursday upheld a block on President Donald Trump\u2019s executive order limiting mail voting, a decision that comes as the Supreme Court considers the same case and states have already started sending out ballots for the high-stakes midterm elections. The three-judge pan...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/fEjt0_hWLy0InWuDtzIMeH0GnIk=/cloudfront-us-east-1.images.arcpublishing.com/adn/YU5UU4UNWMXJVNZJAC6MDPXTUQ.jpg",
+    "timestamp": "2026-09-10T18:02:11+00:00",
+    "impactScore": 45,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
+    ]
+  },
+  {
+    "hash": "223a2e2fe2953217cf60268ab6256025",
+    "source": "KSTK Wrangell",
+    "category": "Radio",
+    "title": "Swim and cheer clubs for middle school",
+    "link": "https://www.kstk.org/2026/09/10/swim-and-cheer-clubs-for-middle-school/",
+    "published": "Thu, 10 Sep 2026 17:57:10 +0000",
+    "summary": "Following a surge of student interest, the Wrangell School Board has approved new middle school clubs for swimming and cheer. The board granted the approval after students and parents generated support for the programs over the past year. Momentum for a cheer program built during the previous basket...",
+    "dataTag": "[Region: Southeast] [Category: Radio]",
+    "sourceAttribution": "Source: KSTK Wrangell",
+    "imageUrl": "https://www.kstk.org/wp-content/uploads/2026/09/Middle-school-clubs-440x440.jpg",
+    "timestamp": "2026-09-10T17:57:10+00:00",
+    "impactScore": 30,
+    "region": "Southeast",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
+    ]
+  },
+  {
     "hash": "27d03229eb428721a24397a1957d0be0",
     "source": "The Nature Conservancy Alaska",
     "category": "Environment",
@@ -17,11 +261,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
       "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
+      "8f30593793081b0cdc32673011864081"
     ]
   },
   {
@@ -88,11 +332,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
       "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "7b0db1ca7b88c16a29b95eaff0f01051"
     ]
   },
   {
@@ -113,11 +357,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
       "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "7b0db1ca7b88c16a29b95eaff0f01051"
     ]
   },
   {
@@ -138,11 +382,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
       "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
+      "8f30593793081b0cdc32673011864081"
     ]
   },
   {
@@ -163,11 +407,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a",
+      "78607fdb29a7c583d4687e68a4ef5c11"
     ]
   },
   {
@@ -188,11 +432,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "e4bab78d824604b341389afb45696c67",
       "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "7b0db1ca7b88c16a29b95eaff0f01051"
     ]
   },
   {
@@ -238,11 +482,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
       "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "7b0db1ca7b88c16a29b95eaff0f01051"
     ]
   },
   {
@@ -263,11 +507,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a",
+      "78607fdb29a7c583d4687e68a4ef5c11"
     ]
   },
   {
@@ -298,6 +542,30 @@
     ]
   },
   {
+    "hash": "3c44ec4bf2be71d19618619591d56f50",
+    "source": "USGS Alaska Science",
+    "category": "Science",
+    "title": "USGS Eastern Ecological Science Center Estuary Science Highlights",
+    "link": "https://www.usgs.gov/centers/eesc/news/usgs-eastern-ecological-science-center-estuary-science-highlights?utm_source=comms&utm_medium=rss&utm_campaign=news",
+    "published": "Thu, 10 Sep 2026 13:24:28 EDT",
+    "summary": "National Estuaries Week, September 20-27 this year, is an annual celebration to raise public awareness about the importance of estuaries, the dynamic ecosystems where rivers meet the sea, and the vital services they provide. Estuaries support rich biodiversity and are essential for recreational acti...",
+    "dataTag": "[Region: Statewide] [Category: Science]",
+    "sourceAttribution": "Source: USGS Alaska Science",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T17:24:28+00:00",
+    "impactScore": 35,
+    "region": "Statewide",
+    "sector": "research",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "d6771bb39f095a79c1b20ab780b228db",
+      "70ff98fd58b0d7562498b47b65aea835",
+      "25b40913d29b424ceaa5e006350d91a0",
+      "41765816b7a6fdb5b3581d9dd2865329"
+    ]
+  },
+  {
     "hash": "aa74891ec5ad1a984be0d1502a4ee2a7",
     "source": "Anchorage Daily News",
     "category": "News",
@@ -315,11 +583,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a",
+      "78607fdb29a7c583d4687e68a4ef5c11"
     ]
   },
   {
@@ -340,11 +608,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
       "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "d9f9aadc1ceaa6881ce646e8c44faf1b"
     ]
   },
   {
@@ -365,11 +633,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
       "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "d9f9aadc1ceaa6881ce646e8c44faf1b"
     ]
   },
   {
@@ -415,11 +683,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "a1ce852d173d283308138081538c7c4a",
+      "78607fdb29a7c583d4687e68a4ef5c11"
     ]
   },
   {
@@ -440,11 +708,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "78607fdb29a7c583d4687e68a4ef5c11"
     ]
   },
   {
@@ -454,7 +722,7 @@
     "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping",
     "link": "https://www.adn.com/nation-world/2026/09/10/iran-backed-houthi-rebels-take-strategic-port-city-in-yemen-raising-threat-to-red-sea-shipping/",
     "published": "Thu, 10 Sep 2026 16:51:55 +0000",
-    "summary": "ADEN, Yemen \u2014 The Iran-backed Houthi rebel group on Thursday took over Yemen\u2019s port city of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait, a waterway that connects the Red Sea and the Gulf of...",
+    "summary": "ADEN, Yemen \u2014 The Iran-backed Houthi rebel group on Thursday took over Yemen\u2019s port city of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait, a waterway that connects the Red Sea and the Gulf of....",
     "dataTag": "[Region: Statewide] [Category: News]",
     "sourceAttribution": "Source: Anchorage Daily News",
     "imageUrl": "https://www.adn.com/resizer/4e9wbkaRIoi64wzg-r-OrFK5-DI=/cloudfront-us-east-1.images.arcpublishing.com/adn/6KQDTT2JUIN3LBRNEJ3FQWTY64.jpg",
@@ -465,11 +733,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -490,11 +758,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb",
-      "b450f24b3870186ea6080954c9e19d98"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -515,11 +783,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb",
-      "b450f24b3870186ea6080954c9e19d98"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -540,11 +808,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "d466b79a106a48b8ec4797f20e853696",
       "18d1274149772debbefc6b81200ed94c",
       "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "f0d22510047b0f65f13bba4c723df994",
-      "29e7d7e168b5caf293bdd364f3c5ee5a"
+      "f0d22510047b0f65f13bba4c723df994"
     ]
   },
   {
@@ -565,11 +833,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "887c75d2b04e5842a00cd9e1b37da310",
       "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247",
-      "c76abb958672d9a3249988ed5d9e58c4"
+      "8f30593793081b0cdc32673011864081"
     ]
   },
   {
@@ -615,11 +883,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb",
-      "b450f24b3870186ea6080954c9e19d98"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -640,11 +908,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
       "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0",
-      "c8fb9cc7d430fb1d7e02e01d5d5cc612"
+      "a1096e26dd8c0badd30a15611c1c04f0"
     ]
   },
   {
@@ -665,11 +933,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "e235056fcbb495e264610cfb7a5d70fb",
       "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0",
-      "c8fb9cc7d430fb1d7e02e01d5d5cc612"
+      "a1096e26dd8c0badd30a15611c1c04f0"
     ]
   },
   {
@@ -690,11 +958,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a99a48ab9818f2fd9e65b392e52232fe",
       "5035119d51d68acf6d78efd74a047d94",
       "d30c310f13ce29288f0cd58a6a530d07",
       "a1a8754f2285acd34276af4c46d00b18",
-      "4b9833e95b0144a5365394cc748af850",
-      "2ad05a533519f32f8c5882509ede6246"
+      "4b9833e95b0144a5365394cc748af850"
     ]
   },
   {
@@ -715,11 +983,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a99a48ab9818f2fd9e65b392e52232fe",
       "878aaee421e1f4435a03ad1671d3766a",
       "d30c310f13ce29288f0cd58a6a530d07",
       "a1a8754f2285acd34276af4c46d00b18",
-      "4b9833e95b0144a5365394cc748af850",
-      "2ad05a533519f32f8c5882509ede6246"
+      "4b9833e95b0144a5365394cc748af850"
     ]
   },
   {
@@ -740,11 +1008,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "2ce1788cf194a8688eef092662c85391",
       "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e",
-      "9eb3f7c7baf14e692842f6185e2aeabe"
+      "d9f9aadc1ceaa6881ce646e8c44faf1b"
     ]
   },
   {
@@ -765,11 +1033,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "6eedf66180f5f10ebdebca77b85683fb",
-      "b450f24b3870186ea6080954c9e19d98"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -815,11 +1083,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0",
-      "c8fb9cc7d430fb1d7e02e01d5d5cc612"
+      "a1096e26dd8c0badd30a15611c1c04f0"
     ]
   },
   {
@@ -840,11 +1108,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "a1096e26dd8c0badd30a15611c1c04f0",
-      "c8fb9cc7d430fb1d7e02e01d5d5cc612"
+      "a1096e26dd8c0badd30a15611c1c04f0"
     ]
   },
   {
@@ -865,11 +1133,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "c8fb9cc7d430fb1d7e02e01d5d5cc612"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -890,11 +1158,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "b450f24b3870186ea6080954c9e19d98"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -915,11 +1183,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -940,11 +1208,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -965,11 +1233,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -990,11 +1258,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "4c1a2b6886e6832701bf15a4712ea98f",
       "18d1274149772debbefc6b81200ed94c",
       "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "f0d22510047b0f65f13bba4c723df994",
-      "29e7d7e168b5caf293bdd364f3c5ee5a"
+      "f0d22510047b0f65f13bba4c723df994"
     ]
   },
   {
@@ -1015,11 +1283,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1040,11 +1308,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247",
-      "c76abb958672d9a3249988ed5d9e58c4"
+      "8f30593793081b0cdc32673011864081"
     ]
   },
   {
@@ -1115,11 +1383,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247",
-      "c76abb958672d9a3249988ed5d9e58c4"
+      "8f30593793081b0cdc32673011864081"
     ]
   },
   {
@@ -1165,11 +1433,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1215,11 +1483,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1265,11 +1533,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1290,11 +1558,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1315,11 +1583,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e",
-      "9eb3f7c7baf14e692842f6185e2aeabe"
+      "d9f9aadc1ceaa6881ce646e8c44faf1b"
     ]
   },
   {
@@ -1340,11 +1608,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "4c1a2b6886e6832701bf15a4712ea98f",
       "d466b79a106a48b8ec4797f20e853696",
       "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "f0d22510047b0f65f13bba4c723df994",
-      "29e7d7e168b5caf293bdd364f3c5ee5a"
+      "f0d22510047b0f65f13bba4c723df994"
     ]
   },
   {
@@ -1365,11 +1633,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1390,11 +1658,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "4c1a2b6886e6832701bf15a4712ea98f",
       "d466b79a106a48b8ec4797f20e853696",
       "18d1274149772debbefc6b81200ed94c",
-      "f0d22510047b0f65f13bba4c723df994",
-      "29e7d7e168b5caf293bdd364f3c5ee5a"
+      "f0d22510047b0f65f13bba4c723df994"
     ]
   },
   {
@@ -1415,11 +1683,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1440,11 +1708,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1465,11 +1733,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1490,11 +1758,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1515,11 +1783,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1540,11 +1808,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1565,11 +1833,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1590,11 +1858,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1615,11 +1883,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1640,11 +1908,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1665,11 +1933,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1740,11 +2008,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1765,11 +2033,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1790,11 +2058,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1815,11 +2083,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1865,11 +2133,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1890,11 +2158,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -1915,11 +2183,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -1965,11 +2233,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44",
-      "a279d06a61ab7a4ddfb2cfa21294e225"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "7b0db1ca7b88c16a29b95eaff0f01051"
     ]
   },
   {
@@ -1990,11 +2258,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44",
-      "a279d06a61ab7a4ddfb2cfa21294e225"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -2015,11 +2283,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2040,11 +2308,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2065,11 +2333,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44",
-      "a279d06a61ab7a4ddfb2cfa21294e225"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -2090,11 +2358,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "02156c99f1c216b7e6682aa776cf7247",
-      "c76abb958672d9a3249988ed5d9e58c4"
+      "04b1231d3c84951c5bd885566a805880"
     ]
   },
   {
@@ -2140,11 +2408,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -2242,11 +2510,11 @@
       "sealaska"
     ],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "cbaed2d6479a4ef306cf420f28d89b44",
-      "a279d06a61ab7a4ddfb2cfa21294e225"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "3ad4301b316c72e1582ef08ce4b6d73b"
     ]
   },
   {
@@ -2267,11 +2535,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2317,11 +2585,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2342,11 +2610,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e",
-      "9eb3f7c7baf14e692842f6185e2aeabe"
+      "d9f9aadc1ceaa6881ce646e8c44faf1b"
     ]
   },
   {
@@ -2367,11 +2635,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "f238922e946976a61e93c7669b12086e",
-      "9eb3f7c7baf14e692842f6185e2aeabe"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -2392,11 +2660,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2417,11 +2685,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "9eb3f7c7baf14e692842f6185e2aeabe"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -2442,11 +2710,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "c76abb958672d9a3249988ed5d9e58c4"
+      "04b1231d3c84951c5bd885566a805880"
     ]
   },
   {
@@ -2467,11 +2735,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -2492,11 +2760,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "4c1a2b6886e6832701bf15a4712ea98f",
       "d466b79a106a48b8ec4797f20e853696",
       "18d1274149772debbefc6b81200ed94c",
-      "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "29e7d7e168b5caf293bdd364f3c5ee5a"
+      "a11a1ce4739c7313d7bcc8dbdaf25806"
     ]
   },
   {
@@ -2567,11 +2835,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
+      "04b1231d3c84951c5bd885566a805880"
     ]
   },
   {
@@ -2592,11 +2860,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "4c1a2b6886e6832701bf15a4712ea98f",
       "d466b79a106a48b8ec4797f20e853696",
       "18d1274149772debbefc6b81200ed94c",
-      "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "f0d22510047b0f65f13bba4c723df994"
+      "a11a1ce4739c7313d7bcc8dbdaf25806"
     ]
   },
   {
@@ -2617,11 +2885,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -2642,11 +2910,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2667,11 +2935,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2692,11 +2960,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2742,11 +3010,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2767,11 +3035,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2792,11 +3060,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -2817,11 +3085,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
+      "04b1231d3c84951c5bd885566a805880"
     ]
   },
   {
@@ -2892,11 +3160,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "a279d06a61ab7a4ddfb2cfa21294e225"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -2942,11 +3210,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
+      "04b1231d3c84951c5bd885566a805880"
     ]
   },
   {
@@ -3017,11 +3285,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3045,7 +3313,8 @@
       "70ff98fd58b0d7562498b47b65aea835",
       "25b40913d29b424ceaa5e006350d91a0",
       "41765816b7a6fdb5b3581d9dd2865329",
-      "3a76a41bb4f86e4ef132a83eb3f2ad82"
+      "3a76a41bb4f86e4ef132a83eb3f2ad82",
+      "3c44ec4bf2be71d19618619591d56f50"
     ]
   },
   {
@@ -3066,11 +3335,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3091,11 +3360,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3116,11 +3385,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3141,11 +3410,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3166,11 +3435,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3191,11 +3460,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3216,11 +3485,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3241,11 +3510,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3266,11 +3535,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3291,11 +3560,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3316,11 +3585,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3341,11 +3610,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3366,11 +3635,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3391,11 +3660,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3416,11 +3685,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3441,11 +3710,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3466,11 +3735,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3491,11 +3760,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3516,11 +3785,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3541,11 +3810,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3566,11 +3835,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3591,11 +3860,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3616,11 +3885,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3641,11 +3910,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -3666,11 +3935,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3716,11 +3985,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -3741,11 +4010,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3766,11 +4035,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3816,11 +4085,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3841,11 +4110,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -3866,11 +4135,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3891,11 +4160,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3916,11 +4185,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -3966,11 +4235,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4016,11 +4285,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -4041,11 +4310,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -4066,11 +4335,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a99a48ab9818f2fd9e65b392e52232fe",
       "878aaee421e1f4435a03ad1671d3766a",
       "5035119d51d68acf6d78efd74a047d94",
       "a1a8754f2285acd34276af4c46d00b18",
-      "4b9833e95b0144a5365394cc748af850",
-      "2ad05a533519f32f8c5882509ede6246"
+      "4b9833e95b0144a5365394cc748af850"
     ]
   },
   {
@@ -4091,11 +4360,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -4116,11 +4385,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
+      "04b1231d3c84951c5bd885566a805880"
     ]
   },
   {
@@ -4141,11 +4410,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4214,11 +4483,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -4264,11 +4533,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -4289,11 +4558,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4314,11 +4583,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -4339,11 +4608,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4364,11 +4633,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4389,11 +4658,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4414,11 +4683,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4439,11 +4708,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "af652718a8f7f4bd47abf3df77a4baaf",
+      "88cea9fc043589f2fd0b86ecd5f5a281",
       "39cd8c68c55dc468c16464d5c2f1d68f",
       "2ce1788cf194a8688eef092662c85391",
-      "3e0b54a42c7345039781e9f4bad835a2",
-      "d9f9aadc1ceaa6881ce646e8c44faf1b",
-      "f238922e946976a61e93c7669b12086e"
+      "3e0b54a42c7345039781e9f4bad835a2"
     ]
   },
   {
@@ -4464,11 +4733,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4489,11 +4758,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4514,11 +4783,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4539,11 +4808,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4564,11 +4833,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4589,11 +4858,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4614,11 +4883,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4639,11 +4908,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4689,11 +4958,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -4739,11 +5008,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -4789,11 +5058,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4814,11 +5083,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4839,11 +5108,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a99a48ab9818f2fd9e65b392e52232fe",
       "878aaee421e1f4435a03ad1671d3766a",
       "5035119d51d68acf6d78efd74a047d94",
       "d30c310f13ce29288f0cd58a6a530d07",
-      "4b9833e95b0144a5365394cc748af850",
-      "2ad05a533519f32f8c5882509ede6246"
+      "4b9833e95b0144a5365394cc748af850"
     ]
   },
   {
@@ -4889,11 +5158,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -4914,11 +5183,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -4939,11 +5208,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4964,11 +5233,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -4989,11 +5258,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -5014,11 +5283,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "18b83d87ed49a01af72da72dae810624",
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
+      "299a2d9f289ae83425e88dcab4bde49d"
     ]
   },
   {
@@ -5063,11 +5332,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5088,11 +5357,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5137,11 +5406,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5162,11 +5431,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5187,11 +5456,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5212,11 +5481,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5237,11 +5506,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5262,11 +5531,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5287,11 +5556,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5312,11 +5581,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5337,11 +5606,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5362,11 +5631,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5387,11 +5656,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5412,11 +5681,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5437,11 +5706,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "a99a48ab9818f2fd9e65b392e52232fe",
       "878aaee421e1f4435a03ad1671d3766a",
       "5035119d51d68acf6d78efd74a047d94",
       "d30c310f13ce29288f0cd58a6a530d07",
-      "a1a8754f2285acd34276af4c46d00b18",
-      "2ad05a533519f32f8c5882509ede6246"
+      "a1a8754f2285acd34276af4c46d00b18"
     ]
   },
   {
@@ -5462,11 +5731,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5487,11 +5756,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5512,11 +5781,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5587,11 +5856,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5612,11 +5881,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5637,11 +5906,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5662,11 +5931,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5687,11 +5956,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5712,11 +5981,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5737,11 +6006,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5762,11 +6031,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5812,11 +6081,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5837,11 +6106,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5862,11 +6131,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5887,11 +6156,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5912,11 +6181,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5937,11 +6206,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5962,11 +6231,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -5987,11 +6256,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6039,11 +6308,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6064,11 +6333,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6114,11 +6383,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6139,11 +6408,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6164,11 +6433,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
+      "ddaf87a0b98512bd74b671ab2c11c35a",
+      "ef70ab70d9928e02ad15cb76b1998d7b",
+      "af3984cad9fcc1d40aaa8274f4605dd4",
+      "e4bab78d824604b341389afb45696c67",
+      "8eb98325e35d67a1e47d4fdc7cdfa864"
     ]
   },
   {
@@ -6189,11 +6458,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "4c1a2b6886e6832701bf15a4712ea98f",
       "d466b79a106a48b8ec4797f20e853696",
       "18d1274149772debbefc6b81200ed94c",
-      "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "f0d22510047b0f65f13bba4c723df994"
+      "a11a1ce4739c7313d7bcc8dbdaf25806"
     ]
   },
   {
@@ -6214,11 +6483,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6239,11 +6508,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6264,11 +6533,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6289,11 +6558,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "27d03229eb428721a24397a1957d0be0",
+      "df64fc50e8d0d7b36174fce5dc55ea58",
       "6301e9c489a45680b80377f03d09cd70",
       "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
+      "04b1231d3c84951c5bd885566a805880"
     ]
   },
   {
@@ -6314,11 +6583,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6339,11 +6608,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6364,11 +6633,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6389,11 +6658,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6414,11 +6683,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
+      "0579bd19fbc1cfbddb01b661c7ebecf0",
+      "af1577736977930743d5c9f38ae9dd5a",
+      "aa74891ec5ad1a984be0d1502a4ee2a7",
+      "9bfa905442df4f4a038dd9be1470b21f",
+      "a1ce852d173d283308138081538c7c4a"
     ]
   },
   {
@@ -6439,11 +6708,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9f0c9644721a9af5949a40fddc6a79b1",
       "4c1a2b6886e6832701bf15a4712ea98f",
       "d466b79a106a48b8ec4797f20e853696",
       "18d1274149772debbefc6b81200ed94c",
-      "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "f0d22510047b0f65f13bba4c723df994"
+      "a11a1ce4739c7313d7bcc8dbdaf25806"
     ]
   },
   {
@@ -6490,375 +6759,6 @@
       "51edda5cb75769a70b10d78988838141",
       "c95cb77a21056df03066e63354972700",
       "01929e97e74817b3a61ceb580995a10e"
-    ]
-  },
-  {
-    "hash": "ae1c82acf83fd129154566ffb97d52bc",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "Property Revolution Urges Kentwood Homeowners to Use Early Fall to Prepare Roofs for Michigan\u2019s Freeze-Thaw Season",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_c5c91c33-cd5d-5abe-9170-bd58115d1519.html",
-    "published": "Wed, 09 Sep 2026 11:16:09 -0800",
-    "summary": "Grand Rapids, MI / Storyteller / Sep 09, 2026 /",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/2/25/225976a2-69fd-525b-8cfc-4e543369b83f/6aa288626105e.image.jpg?resize=300%2C169",
-    "timestamp": "2026-09-09T19:16:09+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
-    ]
-  },
-  {
-    "hash": "3ba5e59c03d26ce85531c291f36848f9",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "Euler Stream Launches Microservice Platform for TikTok Live Integration",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_503b8ba6-2361-5e87-9cd8-2bc53ad38093.html",
-    "published": "Wed, 09 Sep 2026 11:03:19 -0800",
-    "summary": "New York, NY / Storyteller / Sep 09, 2026 /",
-    "dataTag": "[Region: Interior] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/9/c1/9c12e486-fd04-5a41-a0eb-58bbc1147d4b/6aa288bc4f4ae.image.jpg?resize=300%2C300",
-    "timestamp": "2026-09-09T19:03:19+00:00",
-    "impactScore": 30,
-    "region": "Interior",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "15a65fe3eec91c32421e99f9ceb58d70",
-      "61ae0ab630ee4d8dba9c0210d668d55e",
-      "b38e8d6cfacb51a90adc995476ee29bc",
-      "17a0673e878bf247e38555cf33215817",
-      "c572b9c2a7d27bd71d46d60afe27e2d7"
-    ]
-  },
-  {
-    "hash": "ae55ef7735e45767c121d748c2381964",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Indigenous land back in Chile brings mixed bag of environmental outcomes: Study",
-    "link": "https://news.mongabay.com/2026/09/indigenous-land-back-in-chile-brings-mixed-bag-of-environmental-outcomes-study/",
-    "published": "09 Sep 2026 18:59:33 +0000",
-    "summary": "Indigenous land restitution in Chile came with a mixed bag of environmental outcomes and did not boost natural forest cover, according to a new study published in Nature Sustainability. While the return of ancestral lands gave the Indigenous Mapuche communities in southern Chile greater control over...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09154250/Pictures-of-the-Week-Latin-America-and-Caribbean-Photo-Gallery-768x512.jpeg",
-    "timestamp": "2026-09-09T18:59:33+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "6301e9c489a45680b80377f03d09cd70",
-      "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
-    ]
-  },
-  {
-    "hash": "502d9f0d6c2ace8527bd3bb01cefba69",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "How to enhance ocean health and resilience with marine rewilding",
-    "link": "https://news.mongabay.com/short-article/2026/09/how-to-enhance-ocean-health-and-resilience-with-marine-rewilding/",
-    "published": "09 Sep 2026 18:59:02 +0000",
-    "summary": "Ocean ecosystems are under extreme stress on several fronts including overfishing, ocean acidification, climate change and marine warming. While ocean conservation efforts often tend to focus on creating marine protected areas, researchers recently stressed the need to move beyond protection toward....",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/04/08165417/53136313528_87b636bb79_c-e1788980315350-768x482.jpg",
-    "timestamp": "2026-09-09T18:59:02+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "6301e9c489a45680b80377f03d09cd70",
-      "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
-    ]
-  },
-  {
-    "hash": "7d16e58677d65b0729bcbdfcea33b43b",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo",
-    "link": "https://www.adn.com/business-economy/2026/09/09/new-apple-ceo-unveils-latest-iphone-lineup-including-a-foldable-model-called-duo/",
-    "published": "Wed, 09 Sep 2026 18:45:53 +0000",
-    "summary": "CUPERTINO, California \u2014 Apple on Wednesday unveiled its latest generation of iPhones, including a widely anticipated foldable version called Duo. The company\u2019s new CEO, John Ternus, who took over from Tim Cook on Sept. 1, introduced the latest lineup at the Steve Jobs Theater. After cycling through....",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/a7rL8v4i1FtJ_vhXpv2XN8_XuZI=/cloudfront-us-east-1.images.arcpublishing.com/adn/GTL2MB7IMDDTGAOFOON6AZQR4M.jpg",
-    "timestamp": "2026-09-09T18:45:53+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
-    ]
-  },
-  {
-    "hash": "555f1cde6dfb27538dc28250fab20912",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Rybakina beats Zheng to reach US Open semifinals and move to No. 1 in the women\u2019s rankings",
-    "link": "https://www.adn.com/sports/national-sports/2026/09/09/rybakina-beats-zheng-to-reach-us-open-semifinals-and-move-to-no-1-in-the-womens-rankings/",
-    "published": "Wed, 09 Sep 2026 18:39:26 +0000",
-    "summary": "NEW YORK \u2014 Elena Rybakina is headed to the U.S. Open semifinals and to the top of the women\u2019s tennis rankings. Rybakina edged Zheng Qinwen 3-6, 6-1, 6-4 on Wednesday, guaranteeing she will become No. 1 in the WTA rankings. The Australian Open champion will face No. 4 Coco Gauff or No. 5 Mirra Andree...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/9Sr9YSqANHw5hOToavnIRJEgIEw=/cloudfront-us-east-1.images.arcpublishing.com/adn/KC5RTFSIXHNQRDJIU6GIVQVMS4.jpg",
-    "timestamp": "2026-09-09T18:39:26+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
-    ]
-  },
-  {
-    "hash": "63022d0e277d7bef29fab30de1385490",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "Coco Gauff rallies to reach U.S. Open semifinals against Elena Rybakina, the new No. 1 player",
-    "link": "https://www.adn.com/sports/national-sports/2026/09/09/rybakina-beats-zheng-to-reach-us-open-semifinals-and-move-to-no-1-in-the-womens-rankings/",
-    "published": "Wed, 09 Sep 2026 18:39:26 +0000",
-    "summary": "NEW YORK \u2014 Coco Gauff fought off a couple match points in a tiebreaker and beat Mirra Andreeva 2-6, 7-6 (7), 6-2 on Wednesday to set up a U.S. Open semifinal matchup against new No. 1 Elena Rybakina. Gauff overcame a horrible start to give herself a chance at a second U.S. Open title. She won the to...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/XyxlPNkqgeKPyUXrKkL2Q485onw=/cloudfront-us-east-1.images.arcpublishing.com/adn/ARN3IYTKL5KWWJUKY3L5REBX4M.jpg",
-    "timestamp": "2026-09-09T18:39:26+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
-    ]
-  },
-  {
-    "hash": "dbec82a91bb1ba1fd54e2281c3c60b39",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 2.9 - 25 km ENE of Beluga, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxarpv",
-    "published": "",
-    "summary": "DYFI? - II Time 2026-09-09 18:35:05 UTC 2026-09-09 18:35:05 UTC at epicenter Location 61.246\u00b0N 150.661\u00b0W Depth 32.30 km (20.07 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-09T18:35:05+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046",
-      "51edda5cb75769a70b10d78988838141",
-      "c95cb77a21056df03066e63354972700",
-      "01929e97e74817b3a61ceb580995a10e"
-    ]
-  },
-  {
-    "hash": "21cf07eabb40475fc6bfaa1c7096e437",
-    "source": "Anchorage Municipality",
-    "category": "Government",
-    "title": "Board-of-Ethics-Meeting-0923",
-    "link": "http://www.muni.org/PublicNotice/Pages/Board-of-Ethics-Meeting-0923.aspx",
-    "published": "Wed, 09 Sep 2026 18:33:50 GMT",
-    "summary": "Title: Board of Ethics Meeting Public Notice Event Start: 9/23/2026 3:30 PM Public Notice Event End: 9/23/2026 5:00 PM Event Location: MICROSOFT TEAMS MEETING PageContent2: Microsoft Teams meeting Join: https://teams.microsoft.com/meet/259090444817099?p=33fanbsvbYvPF44NGP Meeting ID: 259 090 444 817...",
-    "dataTag": "[Region: Southcentral] [Category: Government]",
-    "sourceAttribution": "Source: Anchorage Municipality",
-    "imageUrl": null,
-    "timestamp": "2026-09-09T18:33:50+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c324b33f2557a24538f97fbe6eb6ead1",
-      "a59d6caf3f5166e34fc39b0b8f7e7bb1",
-      "f384030812a3a83ac6a4a6f965763e49",
-      "f51bcbbf95e6656104ca2e7c14e709e1",
-      "6eedf66180f5f10ebdebca77b85683fb"
-    ]
-  },
-  {
-    "hash": "bb499d8e76aa08163f1ce35602fa5f9d",
-    "source": "KNOM Nome Indigenous Radio",
-    "category": "Native",
-    "title": "Stebbins rebuild moves forward, but a new school is still years away",
-    "link": "https://knom.org/2026/09/09/stebbins-rebuild-moves-forward-but-a-new-school-is-still-years-away/",
-    "published": "Wed, 09 Sep 2026 18:32:39 +0000",
-    "summary": "Ask any student in Stebbins what they miss most about the school that burned down in 2024, and the answer is almost always the same: the gym. It wasn\u2019t just home court for the Tukurngailnguq School basketball teams. Some students miss rolling across the gym floor on small, multicolored plastic scoot...",
-    "dataTag": "[Region: Southcentral] [Category: Native]",
-    "sourceAttribution": "Source: KNOM Nome Indigenous Radio",
-    "imageUrl": "https://bunny-wp-pullzone-nbz5hk1bys.b-cdn.net/wp-content/uploads/2026/09/A10A0119.jpg",
-    "timestamp": "2026-09-09T18:32:39+00:00",
-    "impactScore": 38,
-    "region": "Statewide",
-    "sector": "native-affairs",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "26690b213be1a28b0c95e0b6546b6c16",
-      "1e9eb22eeb27f3e74c8d82513e7175fc",
-      "e235056fcbb495e264610cfb7a5d70fb",
-      "299a2d9f289ae83425e88dcab4bde49d",
-      "a1096e26dd8c0badd30a15611c1c04f0"
-    ]
-  },
-  {
-    "hash": "8d8143a468051eb8e9028d68e226ea2b",
-    "source": "Alaska Public Media",
-    "category": "News",
-    "title": "New campaign complaint alleges Petersburg Dan Sullivan is getting undue help",
-    "link": "https://alaskapublic.org/news/politics/2026-09-09/new-campaign-complaint-alleges-petersburg-dan-sullivan-is-getting-undue-help",
-    "published": "Wed, 09 Sep 2026 18:22:42 GMT",
-    "summary": "A national group filed a Federal Election Commission complaint against the U.S. Senate challenger and the 907 Initiative. Don\u2019t expect it to be resolved soon.",
-    "dataTag": "[Region: Southeast] [Category: News]",
-    "sourceAttribution": "Source: Alaska Public Media",
-    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/8f6631f/2147483647/strip/false/crop/2000x1333+0+0/resize/300x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F1c%2F5fb17ad4449ba6f1eab56938484e%2Fimg-2048.jpg",
-    "timestamp": "2026-09-09T18:22:42+00:00",
-    "impactScore": 30,
-    "region": "Southeast",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8eb98325e35d67a1e47d4fdc7cdfa864",
-      "7b0db1ca7b88c16a29b95eaff0f01051",
-      "6963c6cb29c4b7ff5222a6405aeb0ca8",
-      "a1d4452fb7e8b20bacde13eb3090b14f",
-      "cbaed2d6479a4ef306cf420f28d89b44"
-    ]
-  },
-  {
-    "hash": "310246c7b061a3b71775fed22b7b299a",
-    "source": "Mining.com Alaska",
-    "category": "Mining",
-    "title": "Agnico takes 22% of Vizsla in $32M Alaska deal",
-    "link": "https://www.mining.com/agnico-takes-22-of-vizsla-in-32m-alaska-deal/",
-    "published": "Wed, 09 Sep 2026 18:19:07 +0000",
-    "summary": "Vizsla Copper (TSXV: VCU; US-OTC: VCUFF) agreed to buy Agnico Eagle Mines\u2019 (TSX, NYSE: AEM) Delta and Helm Bay projects in Alaska for shares valued at $32 million (US$23.3 million), making the senior gold miner Vizsla\u2019s largest shareholder. The deal announced Tuesday adds Delta, a polymetallic sulph...",
-    "dataTag": "[Region: Mat-Su] [Category: Mining]",
-    "sourceAttribution": "Source: Mining.com Alaska",
-    "imageUrl": null,
-    "timestamp": "2026-09-09T18:19:07+00:00",
-    "impactScore": 40,
-    "region": "Southeast",
-    "sector": "energy",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": []
-  },
-  {
-    "hash": "b41fcce438a22a03617355cb94ddcbe5",
-    "source": "Mining.com Alaska",
-    "category": "Mining",
-    "title": "Collective shares slide on Apollo\u2019s 4.1M-oz gold resource",
-    "link": "https://www.mining.com/collective-shares-slide-on-apollos-4-1m-oz-gold-resource/",
-    "published": "Wed, 09 Sep 2026 18:12:36 +0000",
-    "summary": "Collective Mining (TSX, Nasdaq: CNL) shares fell 9% Wednesday after the company outlined a first resource containing 4.1 million oz. of gold at its Apollo deposit in Colombia, even as analysts said the scale was broadly in line with expectations. The site contains 37 million indicated tonnes grading...",
-    "dataTag": "[Region: Statewide] [Category: Mining]",
-    "sourceAttribution": "Source: Mining.com Alaska",
-    "imageUrl": null,
-    "timestamp": "2026-09-09T18:12:36+00:00",
-    "impactScore": 40,
-    "region": "Statewide",
-    "sector": "energy",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "4c1a2b6886e6832701bf15a4712ea98f",
-      "d466b79a106a48b8ec4797f20e853696",
-      "18d1274149772debbefc6b81200ed94c",
-      "a11a1ce4739c7313d7bcc8dbdaf25806",
-      "f0d22510047b0f65f13bba4c723df994"
-    ]
-  },
-  {
-    "hash": "a56705ae88971715a44f351aefe1be0e",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "In North Carolina, a race is on to restore critical peatland before it dries up or is destroyed",
-    "link": "https://news.mongabay.com/short-article/2026/09/in-north-carolina-a-race-is-on-to-restore-critical-peatland-before-it-dries-up-or-is-destroyed/",
-    "published": "09 Sep 2026 18:02:53 +0000",
-    "summary": "BELHAVEN, N.C. (AP) \u2014 Scientists and investors are restoring a 23-square-mile tract of peatland in North Carolina to help curb climate-warming emissions and restore native habitat. Ditches have drained water from thousands of years of accumulated peat, leaving the site vulnerable to drought and wild...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09174544/AP26240569401427-768x512.jpg",
-    "timestamp": "2026-09-09T18:02:53+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "6301e9c489a45680b80377f03d09cd70",
-      "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
-    ]
-  },
-  {
-    "hash": "8075846dbe76808fff7f798553344b0a",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Kashmir\u2019s water bodies have declined for decades. Is conservation keeping pace?",
-    "link": "https://news.mongabay.com/2026/09/kashmirs-water-bodies-have-declined-for-decades-is-conservation-keeping-pace/",
-    "published": "09 Sep 2026 17:58:32 +0000",
-    "summary": "For generations, Kashmir\u2019s wetlands, lakes and rivers have been woven into the landscape around its towns and villages. Paddy fields once stretched across parts of the valley, while canals and springs were familiar features of everyday life. But much of that landscape has changed. A new study publis...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09082340/Wular-Lake-768x512.jpg",
-    "timestamp": "2026-09-09T17:58:32+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "6301e9c489a45680b80377f03d09cd70",
-      "887c75d2b04e5842a00cd9e1b37da310",
-      "04b1231d3c84951c5bd885566a805880",
-      "8f30593793081b0cdc32673011864081",
-      "02156c99f1c216b7e6682aa776cf7247"
     ]
   }
 ]
