@@ -1,5 +1,105 @@
 [
   {
+    "hash": "cb9c271812ad9c398a71d775961339c7",
+    "source": "Alaska Public Media",
+    "category": "News",
+    "title": "New study explores how the shape of Western Alaska bays impacts flooding",
+    "link": "https://alaskapublic.org/2025-western-alaska-storm/2026-09-10/new-study-explores-how-the-shape-of-western-alaska-bays-impacts-flooding",
+    "published": "Thu, 10 Sep 2026 22:38:06 GMT",
+    "summary": "Researchers looking at water level data from Typhoon Merbok in 2022 have shed new light on why the impacts of powerful storms vary widely across Western Alaska.",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Alaska Public Media",
+    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/566d2ac/2147483647/strip/false/crop/4496x3000+0+0/resize/300x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F2b%2Fcb2558d8459c90334983cf135419%2Fbs14-bt-10535.jpg",
+    "timestamp": "2026-09-10T22:38:06+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "8d06623bb7816a5453e57cd40960fe40",
+      "5a95de9ad05575e609c24f8d7a9914f6",
+      "624741a89fb8cd08b6bb95f262ed8e55",
+      "d9af631f4e95818f55e22b65d6bb2a0d",
+      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
+    ]
+  },
+  {
+    "hash": "fa8ed64544d3eddf6bc789677d434736",
+    "source": "USGS Alaska Science",
+    "category": "Science",
+    "title": "Volcano Minute \u2014 Explore Maunaiki: a shield built on K\u012blauea from 1919-1920",
+    "link": "https://www.usgs.gov/observatories/hvo/news/volcano-minute-explore-maunaiki-a-shield-built-kilauea-1919-1920?utm_source=comms&utm_medium=rss&utm_campaign=news",
+    "published": "Thu, 10 Sep 2026 18:32:36 EDT",
+    "summary": "If you\u2019ve visited K\u012blauea in Hawai\u02bbi Volcanoes National Park recently, you\u2019ve probably seen the crowds gathering on the rim of the caldera to watch the spectacular lava fountaining episodes in Halema\u02bbuma\u02bbu. But during pauses in the eruption, there\u2019s an entire volcanic landscape waiting to be explore...",
+    "dataTag": "[Region: Statewide] [Category: Science]",
+    "sourceAttribution": "Source: USGS Alaska Science",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T22:32:36+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "research",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "1d7e2a3d7bb17c51c6e55106a08f96e7",
+      "fb442bb55d53eff3f7ecf6928e6ea58a",
+      "a3124a3f69d67c2b872e05b405d3ac38",
+      "3c44ec4bf2be71d19618619591d56f50",
+      "d6771bb39f095a79c1b20ab780b228db"
+    ]
+  },
+  {
+    "hash": "28e6dee6e5b2db8e591108a6d2029c4d",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Republican midterm convention provides Vance center stage moment as party faces midterm verdict",
+    "link": "https://www.adn.com/nation-world/2026/09/10/republican-midterm-convention-provides-vance-center-stage-moment-as-party-faces-midterm-verdict/",
+    "published": "Thu, 10 Sep 2026 22:23:26 +0000",
+    "summary": "DALLAS \u2014 Republicans opened the second and final day of their midterm convention in Dallas on Thursday knowing that history is not on their side this election season, but counting on President Donald Trump to propel voters to protect their House and Senate majorities. They\u2019re also setting the stage...",
+    "dataTag": "[Region: North Slope] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/SlssG6vK-FxcQu_azZrbN3zF-TU=/cloudfront-us-east-1.images.arcpublishing.com/adn/GU4AVL3TL4MMM6AMC2LQWE5CO4.jpg",
+    "timestamp": "2026-09-10T22:23:26+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "8d06623bb7816a5453e57cd40960fe40",
+      "5a95de9ad05575e609c24f8d7a9914f6",
+      "624741a89fb8cd08b6bb95f262ed8e55",
+      "d9af631f4e95818f55e22b65d6bb2a0d",
+      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
+    ]
+  },
+  {
+    "hash": "61551cf3967bdd0338fd255b3bdf6284",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 1.9 - 51 km S of Glacier View, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzefvo",
+    "published": "",
+    "summary": "Time 2026-09-10 22:20:53 UTC 2026-09-10 22:20:53 UTC at epicenter Location 61.352\u00b0N 147.499\u00b0W Depth 16.40 km (10.19 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T22:20:53+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
+      "6260fd3f19b88289fd126372736a26f2",
+      "ec8cb403e175ef442d1ae40ecaff2c8e",
+      "ddbb28aba96920b72573668555646d9f"
+    ]
+  },
+  {
     "hash": "89e94ff2475f9b84e81a1885b394bc95",
     "source": "Juneau Empire",
     "category": "Regional",
@@ -17,11 +117,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
       "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "ddaf87a0b98512bd74b671ab2c11c35a"
     ]
   },
   {
@@ -67,11 +167,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
       "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ae908a906b23a92a756c67400bf550a5"
     ]
   },
   {
@@ -92,11 +192,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
       "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "ddaf87a0b98512bd74b671ab2c11c35a"
     ]
   },
   {
@@ -117,11 +217,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
       "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ae908a906b23a92a756c67400bf550a5"
     ]
   },
   {
@@ -167,11 +267,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
       "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c",
-      "b7c191b32ce3a42b9b2a12278aa97d2e"
+      "db361a2cbe74838d782b17e8122a666c"
     ]
   },
   {
@@ -217,11 +317,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
       "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046",
-      "51edda5cb75769a70b10d78988838141"
+      "ae908a906b23a92a756c67400bf550a5"
     ]
   },
   {
@@ -242,11 +342,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "c33221b0fa129c3839a3252ac953929e",
       "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b",
-      "af3984cad9fcc1d40aaa8274f4605dd4"
+      "ddaf87a0b98512bd74b671ab2c11c35a"
     ]
   },
   {
@@ -292,11 +392,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
       "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c",
-      "b7c191b32ce3a42b9b2a12278aa97d2e"
+      "db361a2cbe74838d782b17e8122a666c"
     ]
   },
   {
@@ -439,11 +539,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c",
-      "b7c191b32ce3a42b9b2a12278aa97d2e"
+      "db361a2cbe74838d782b17e8122a666c"
     ]
   },
   {
@@ -489,11 +589,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "db361a2cbe74838d782b17e8122a666c",
-      "b7c191b32ce3a42b9b2a12278aa97d2e"
+      "db361a2cbe74838d782b17e8122a666c"
     ]
   },
   {
@@ -514,11 +614,61 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "b7c191b32ce3a42b9b2a12278aa97d2e"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
+    ]
+  },
+  {
+    "hash": "9619501bb2db27cb0b059bc2f61036bd",
+    "source": "Homer News",
+    "category": "Regional",
+    "title": "Two Kenai dog walkers plead guilty in Alaska federal court to disrupting fur trapper",
+    "link": "https://www.homernews.com/2026/09/10/two-kenai-dog-walkers-plead-guilty-in-alaska-federal-court-to-disrupting-fur-trapper/",
+    "published": "Thu, 10 Sep 2026 19:30:00 +0000",
+    "summary": "Two Soldotna residents have pleaded guilty to disrupting a legal fur trapping line in the Kenai National Wildlife Refuge after their dog was caught in a trap.",
+    "dataTag": "[Region: Southcentral] [Category: Regional]",
+    "sourceAttribution": "Source: Homer News",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T19:30:00+00:00",
+    "impactScore": 30,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
+      "ed1624cad249dead0717162c2bb44120",
+      "cd448d413ee3a22162c442ba9fbce2a7",
+      "4e118fde6b6c4222b4b9c6a4117cd00c",
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
+    ]
+  },
+  {
+    "hash": "35dc9640e062d526ca4888e603a6268d",
+    "source": "Peninsula Clarion",
+    "category": "Regional",
+    "title": "Two Kenai dog walkers plead guilty in Alaska federal court to disrupting fur trapper",
+    "link": "https://www.peninsulaclarion.com/2026/09/10/two-kenai-dog-walkers-plead-guilty-in-alaska-federal-court-to-disrupting-fur-trapper/",
+    "published": "Thu, 10 Sep 2026 19:30:00 +0000",
+    "summary": "Two Soldotna residents have pleaded guilty to disrupting a legal fur trapping line in the Kenai National Wildlife Refuge after their dog was caught in a trap.",
+    "dataTag": "[Region: Southcentral] [Category: Regional]",
+    "sourceAttribution": "Source: Peninsula Clarion",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T19:30:00+00:00",
+    "impactScore": 30,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
+      "ed1624cad249dead0717162c2bb44120",
+      "cd448d413ee3a22162c442ba9fbce2a7",
+      "4e118fde6b6c4222b4b9c6a4117cd00c",
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -564,11 +714,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046",
-      "51edda5cb75769a70b10d78988838141"
+      "ae908a906b23a92a756c67400bf550a5"
     ]
   },
   {
@@ -589,11 +739,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046",
-      "51edda5cb75769a70b10d78988838141"
+      "ae908a906b23a92a756c67400bf550a5"
     ]
   },
   {
@@ -689,11 +839,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b",
-      "af3984cad9fcc1d40aaa8274f4605dd4"
+      "ddaf87a0b98512bd74b671ab2c11c35a"
     ]
   },
   {
@@ -714,11 +864,36 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
+    ]
+  },
+  {
+    "hash": "699258a3d4075ce5ca898f8f7c540c39",
+    "source": "Alaska Public Media",
+    "category": "News",
+    "title": "A California-based company made it rain near Homer. Locals say they were blindsided.",
+    "link": "https://alaskapublic.org/news/2026-09-10/a-california-based-company-made-it-rain-near-homer-locals-say-they-were-blindsided",
+    "published": "Thu, 10 Sep 2026 18:20:26 GMT",
+    "summary": "\u201cThe mayor of the Kenai Peninsula Borough didn't know about it until after the fact, and there's a sort of question of was there enough public notice and sort of community outreach in advance,\u201d said Anchorage Press reporter Max Graham.",
+    "dataTag": "[Region: Southcentral] [Category: News]",
+    "sourceAttribution": "Source: Alaska Public Media",
+    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/1675194/2147483647/strip/false/crop/1760x856+0+0/resize/300x146!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fwp-content%2Fuploads%2F2024%2F04%2FKachemak-Bay.jpg",
+    "timestamp": "2026-09-10T18:20:26+00:00",
+    "impactScore": 30,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
+      "ed1624cad249dead0717162c2bb44120",
+      "cd448d413ee3a22162c442ba9fbce2a7",
+      "4e118fde6b6c4222b4b9c6a4117cd00c",
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -908,11 +1083,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b",
-      "af3984cad9fcc1d40aaa8274f4605dd4"
+      "ddaf87a0b98512bd74b671ab2c11c35a"
     ]
   },
   {
@@ -1004,11 +1179,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ef70ab70d9928e02ad15cb76b1998d7b",
-      "af3984cad9fcc1d40aaa8274f4605dd4"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -1029,11 +1204,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "af3984cad9fcc1d40aaa8274f4605dd4"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -1104,11 +1279,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -1154,11 +1329,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -1281,11 +1456,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -1306,11 +1481,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -1406,11 +1581,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -1556,11 +1731,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "6b7ddf0caa3c205ec8b937b2bc338046",
-      "51edda5cb75769a70b10d78988838141"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -1706,11 +1881,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -1831,11 +2006,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "51edda5cb75769a70b10d78988838141"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -1989,6 +2164,31 @@
     ]
   },
   {
+    "hash": "a582187d0e5d73bf644e6d7d5b9fb3ee",
+    "source": "Anchorage Daily News",
+    "category": "News",
+    "title": "Oil prices leap to their highest since May and drag Wall Street lower",
+    "link": "https://www.adn.com/business-economy/2026/09/10/oil-prices-climb-back-to-where-they-were-in-may-and-drag-wall-street-lower/",
+    "published": "Thu, 10 Sep 2026 16:03:00 +0000",
+    "summary": "NEW YORK \u2014 Oil prices keep climbing as the war with Iran keeps clogging the global flow of crude, and they leaped Thursday to their highest levels since before the summer. That worsened worries about inflation and cranked up pressure within the bond market, helping to send stocks lower again on Wall...",
+    "dataTag": "[Region: Statewide] [Category: News]",
+    "sourceAttribution": "Source: Anchorage Daily News",
+    "imageUrl": "https://www.adn.com/resizer/G6qkTKQNKCKMuEz-t1Kf2rEIRaY=/cloudfront-us-east-1.images.arcpublishing.com/adn/M3G5YTLU7HFUP5PMAH3D6ESBOQ.jpg",
+    "timestamp": "2026-09-10T16:03:00+00:00",
+    "impactScore": 30,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "8d06623bb7816a5453e57cd40960fe40",
+      "5a95de9ad05575e609c24f8d7a9914f6",
+      "624741a89fb8cd08b6bb95f262ed8e55",
+      "d9af631f4e95818f55e22b65d6bb2a0d",
+      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
+    ]
+  },
+  {
     "hash": "362a95aafe83ecb7ad0792b42255205a",
     "source": "Anchorage Daily News",
     "category": "News",
@@ -2106,11 +2306,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -2131,11 +2331,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -2181,11 +2381,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -2231,11 +2431,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -2281,11 +2481,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -2381,11 +2581,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -3006,11 +3206,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -3031,11 +3231,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -3056,11 +3256,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -3131,11 +3331,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -3181,11 +3381,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -3308,11 +3508,11 @@
       "sealaska"
     ],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -3358,11 +3558,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -3408,11 +3608,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -3433,11 +3633,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -3483,11 +3683,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -3533,11 +3733,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -3583,11 +3783,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -3608,11 +3808,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -4026,11 +4226,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -4126,11 +4326,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -4251,11 +4451,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -4276,11 +4476,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -4301,11 +4501,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -4326,11 +4526,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -4376,11 +4576,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -4401,11 +4601,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -4426,11 +4626,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -4851,11 +5051,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -4901,11 +5101,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -4926,11 +5126,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5026,11 +5226,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5051,11 +5251,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -5126,11 +5326,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -5151,11 +5351,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5176,11 +5376,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5201,11 +5401,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -5226,11 +5426,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5251,11 +5451,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5401,11 +5601,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -5426,11 +5626,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5451,11 +5651,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "89e94ff2475f9b84e81a1885b394bc95",
+      "b95610c31f057293a5ef8bdc04a02b50",
       "ae86896f2f4810814296450d9d073da2",
       "c33221b0fa129c3839a3252ac953929e",
-      "223a2e2fe2953217cf60268ab6256025",
-      "ddaf87a0b98512bd74b671ab2c11c35a",
-      "ef70ab70d9928e02ad15cb76b1998d7b"
+      "223a2e2fe2953217cf60268ab6256025"
     ]
   },
   {
@@ -5501,11 +5701,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -5649,11 +5849,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "c3d0e3226f40a5c7bb8da8ed0c57ad82",
+      "4267fb1477a9eb37087f32157d891550",
       "6260fd3f19b88289fd126372736a26f2",
       "ec8cb403e175ef442d1ae40ecaff2c8e",
-      "ddbb28aba96920b72573668555646d9f",
-      "ae908a906b23a92a756c67400bf550a5",
-      "6b7ddf0caa3c205ec8b937b2bc338046"
+      "ddbb28aba96920b72573668555646d9f"
     ]
   },
   {
@@ -5674,11 +5874,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -5724,11 +5924,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "203f5e998a2d8107f5d538360405b1c3",
       "ed1624cad249dead0717162c2bb44120",
       "cd448d413ee3a22162c442ba9fbce2a7",
       "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
+      "b93cbf6bcce66ae7c1f4f85076c8dbf5"
     ]
   },
   {
@@ -5793,256 +5993,6 @@
     "sourceAttribution": "Source: Alaska Public Media",
     "imageUrl": "https://npr.brightspotcdn.com/dims4/default/a106f4c/2147483647/strip/false/crop/1200x800+0+0/resize/300x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Ff4%2F6fb8aa2244768ce2fccda78a3496%2Frusting-river.jpg",
     "timestamp": "2026-09-09T22:55:18+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "ca61db510eb4155c28f0f835a49a0117",
-    "source": "KNBA Anchorage",
-    "category": "Radio",
-    "title": "Arctic Report Card gets new supporters after NOAA cut funding",
-    "link": "https://www.knba.org/news/2026-09-09/arctic-report-card-gets-new-supporters-after-noaa-cut-funding",
-    "published": "Wed, 09 Sep 2026 22:51:33 GMT",
-    "summary": "The American Geophysical Union is fundraising for the climate report\u2019s long-term publication.",
-    "dataTag": "[Region: Statewide] [Category: Radio]",
-    "sourceAttribution": "Source: KNBA Anchorage",
-    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/a106f4c/2147483647/strip/false/crop/1200x800+0+0/resize/300x200!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Ff4%2F6fb8aa2244768ce2fccda78a3496%2Frusting-river.jpg",
-    "timestamp": "2026-09-09T22:51:33+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "769aaf589e2a78f62e4307185a6f8fee",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "This weekend around Anchorage: Clay Fest, Climbathon, pirates, pops and pucks",
-    "link": "https://www.adn.com/arts/2026/09/09/this-weekend-around-anchorage-clay-fest-climbathon-pirates-pops-and-pucks/",
-    "published": "Wed, 09 Sep 2026 22:44:37 +0000",
-    "summary": "Alaska Veterans Museum day of recognition 10 a.m.-5 p.m. Friday; Alaska Veterans Museum 411 W. Fourth Ave. The Alaska Veterans Museum is offering a free day in recognition of 9/11. The Museum has 10 rooms and 2,400 square feet of Alaskan history with dozens of exhibits. Alyeska Climbathon 9 a.m. Sat...",
-    "dataTag": "[Region: Southcentral] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/qJdyzgHPCdkKM0NLLEbgPms0ls8=/cloudfront-us-east-1.images.arcpublishing.com/adn/WP36C46J2VGCTMQH5OS7GZCYQA.jpg",
-    "timestamp": "2026-09-09T22:44:37+00:00",
-    "impactScore": 30,
-    "region": "Cook Inlet",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "ed1624cad249dead0717162c2bb44120",
-      "cd448d413ee3a22162c442ba9fbce2a7",
-      "4e118fde6b6c4222b4b9c6a4117cd00c",
-      "b93cbf6bcce66ae7c1f4f85076c8dbf5",
-      "db361a2cbe74838d782b17e8122a666c"
-    ]
-  },
-  {
-    "hash": "71ad130bab347c95717b9b317e2af98a",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "USCF ANNOUNCES CHANGES TO PRODUCT LINE",
-    "link": "https://www.newsminer.com/online_features/press_releases/uscf-announces-changes-to-product-line/article_a186170e-26ff-5433-bee3-766115049829.html",
-    "published": "Wed, 09 Sep 2026 14:30:00 -0800",
-    "summary": "WALNUT CREEK, Calif., Sept. 9, 2026 /PRNewswire/ -- USCF announced today that it plans to close and liquidate one of its products as a result of a decision and vote by the Board of Trustees of USCF ETF Trust that\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/1/8d/18d54b35-d620-5fbc-a19c-16325f982ae4/6aa287e84b962.image.jpg?resize=300%2C207",
-    "timestamp": "2026-09-09T22:30:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "8cefded702b5e36f2ba34ad86ed46b93",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "USCF ANNOUNCES CHANGES TO PRODUCT LINE",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_35247360-ddfe-59d1-8ea4-64483beb8b22.html",
-    "published": "Wed, 09 Sep 2026 14:30:00 -0800",
-    "summary": "WALNUT CREEK, Calif., Sept. 9, 2026 /PRNewswire/ -- USCF announced today that it plans to close and liquidate one of its products as a result of a decision and vote by the Board of Trustees of USCF ETF Trust that\u2026",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/c/ec/cec993b7-4e0a-5865-9329-1271c5f20051/6aa2887676ef0.image.jpg?resize=300%2C207",
-    "timestamp": "2026-09-09T22:30:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "ca33bd6ff07804ddacdd62d9b83bcefc",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "A NYC firehouse was first to respond on 9/11. 25 years on, Sal Argano is the last still on staff",
-    "link": "https://www.adn.com/nation-world/2026/09/09/a-nyc-firehouse-was-first-to-respond-on-911-25-years-on-sal-argano-is-the-last-still-on-staff/",
-    "published": "Wed, 09 Sep 2026 22:26:10 +0000",
-    "summary": "NEW YORK \u2014 Sal Argano got lucky. When the World Trade Center was struck by hijacked jets on Sept. 11, 2001, the New York City firefighter was in Brooklyn, on loan to another station, rather than at his usual post at the small Manhattan firehouse just across an intersection from the twin towers. He r...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/AHV8wt9FFHQLS0naO37lHFnjXEk=/cloudfront-us-east-1.images.arcpublishing.com/adn/YDDBL6MMXYKWMPIUADNRHX6SQY.jpg",
-    "timestamp": "2026-09-09T22:26:10+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "a1c8b79f96742493de94172d5756687a",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "A NYC firehouse was first to respond on 9/11. 25 years on, Sal Argano is the last still on the staff.",
-    "link": "https://www.adn.com/nation-world/2026/09/09/a-nyc-firehouse-was-first-to-respond-on-911-25-years-on-sal-argano-is-the-last-still-on-staff/",
-    "published": "Wed, 09 Sep 2026 22:26:10 +0000",
-    "summary": "NEW YORK \u2014 Sal Argano got lucky. When the World Trade Center was struck by hijacked jets on Sept. 11, 2001, the New York City firefighter was in Brooklyn, on loan to another station, rather than at his usual post at the small Manhattan firehouse just across an intersection from the twin towers. He r...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/AHV8wt9FFHQLS0naO37lHFnjXEk=/cloudfront-us-east-1.images.arcpublishing.com/adn/YDDBL6MMXYKWMPIUADNRHX6SQY.jpg",
-    "timestamp": "2026-09-09T22:26:10+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "821f4fc1cff03683c50e896d9836d52c",
-    "source": "The Cordova Times",
-    "category": "Regional",
-    "title": "Feds increase allowable GOA Pacific cod catch mid-season",
-    "link": "https://thecordovatimes.com/2026/09/09/feds-increase-allowable-goa-pacific-cod-catch-mid-season/",
-    "published": "Wed, 09 Sep 2026 22:25:34 +0000",
-    "summary": "Federal fisheries managers have increased the total allowable catch limits for Pacific cod in the Gulf of Alaska for the remainder of the 2026 season, as well as for the 2027 season. Pacific cod markets are remaining firm as Alaska begins a critical fall production period with harvest, according to....",
-    "dataTag": "[Region: Southcentral] [Category: Regional]",
-    "sourceAttribution": "Source: The Cordova Times",
-    "imageUrl": null,
-    "timestamp": "2026-09-09T22:25:34+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "46e66d0e8511b06b1c4460162f440275",
-    "source": "Anchorage Daily News",
-    "category": "News",
-    "title": "NHL still has work to do before approving expanding to a 33rd team in Houston or Austin",
-    "link": "https://www.adn.com/sports/national-sports/2026/09/09/nhl-still-has-work-to-do-before-approving-expanding-to-a-33rd-team-in-houston-or-austin/",
-    "published": "Wed, 09 Sep 2026 22:25:00 +0000",
-    "summary": "LAS VEGAS \u2014 While the NHL may soon expand to Houston or Austin, Texas, the road to adding a 33rd team still has some obstacles to clear. With the league in the middle of a process of exploring possible expansion with billionaire Dan Friedkin and his family, Deputy Commissioner Bill Daly said Wednesd...",
-    "dataTag": "[Region: Statewide] [Category: News]",
-    "sourceAttribution": "Source: Anchorage Daily News",
-    "imageUrl": "https://www.adn.com/resizer/h_BVK1zFGKNjNPaqmsvSvDr59mE=/cloudfront-us-east-1.images.arcpublishing.com/adn/BIC7VA3JF46LNDNSA7K7FOFIK4.jpg",
-    "timestamp": "2026-09-09T22:25:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "ad8f5b02a2b905758da547c3eedb9441",
-    "source": "Fairbanks News-Miner",
-    "category": "Regional",
-    "title": "University of Phoenix Highlights Student Success Stories from President's and Dean's List Honorees",
-    "link": "https://www.newsminer.com/online_features/press_releases/university-of-phoenix-highlights-student-success-stories-from-presidents-and-deans-list-honorees/article_b0c19a6a-524d-5e49-bb70-d6997b487686.html",
-    "published": "Wed, 09 Sep 2026 14:21:00 -0800",
-    "summary": "Student reflections from President's and Dean's List honorees highlight flexibility, career-focused learning and perseverance while balancing work, family and education",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Fairbanks News-Miner",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/b/40/b40f8cd5-c461-50cf-8e3d-94598723c5cc/6aa287d6e5218.image.jpg?resize=300%2C92",
-    "timestamp": "2026-09-09T22:21:00+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "governance",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "8d06623bb7816a5453e57cd40960fe40",
-      "5a95de9ad05575e609c24f8d7a9914f6",
-      "624741a89fb8cd08b6bb95f262ed8e55",
-      "d9af631f4e95818f55e22b65d6bb2a0d",
-      "d18f14e79e3bdd84c3b8f5f153fd9e7e"
-    ]
-  },
-  {
-    "hash": "3929929ed38d84e3ca0d0c4c7d25386f",
-    "source": "Kodiak Daily Mirror",
-    "category": "Regional",
-    "title": "University of Phoenix Highlights Student Success Stories from President's and Dean's List Honorees",
-    "link": "https://www.kodiakdailymirror.com/online_features/press_releases/article_85f93459-a7da-5253-af70-792a73438965.html",
-    "published": "Wed, 09 Sep 2026 14:21:00 -0800",
-    "summary": "Student reflections from President's and Dean's List honorees highlight flexibility, career-focused learning and perseverance while balancing work, family and education",
-    "dataTag": "[Region: Statewide] [Category: Regional]",
-    "sourceAttribution": "Source: Kodiak Daily Mirror",
-    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kodiakdailymirror.com/content/tncms/assets/v3/editorial/b/f3/bf37d3ba-3da4-5c95-af9e-d2df9ee21ae1/6aa2886553b0f.image.jpg?resize=300%2C92",
-    "timestamp": "2026-09-09T22:21:00+00:00",
     "impactScore": 30,
     "region": "Statewide",
     "sector": "governance",
