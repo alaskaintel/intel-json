@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T11:39:14.326629+00:00",
+  "updated": "2026-09-11T11:56:21.071833+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -7,14 +7,14 @@
     "min_magnitude": 1.5,
     "time_window_hours": 24
   },
-  "count": 36,
+  "count": 35,
   "earthquakes": [
     {
       "id": "us7000tgky",
       "magnitude": 5.3,
       "place": "151 km WSW of Adak, Alaska",
       "time": "2026-09-11T10:47:12.613000+00:00",
-      "updated": "2026-09-11T11:27:19.683000+00:00",
+      "updated": "2026-09-11T11:47:27.499000+00:00",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
       "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tgky&format=geojson",
       "status": "reviewed",
@@ -743,27 +743,6 @@
       "lat": 59.59,
       "lng": -152.913,
       "depth_km": 105.3
-    },
-    {
-      "id": "aka2026ryjdil",
-      "magnitude": 1.7,
-      "place": "82 km ENE of McCarthy, Alaska",
-      "time": "2026-09-10T11:48:17.822000+00:00",
-      "updated": "2026-09-10T15:45:04.792000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ryjdil",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026ryjdil&format=geojson",
-      "status": "reviewed",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 1.7 - 82 km ENE of McCarthy, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": null,
-      "sig": 44,
-      "lat": 61.644,
-      "lng": -141.431,
-      "depth_km": 12.1
     }
   ]
 }
