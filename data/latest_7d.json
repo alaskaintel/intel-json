@@ -1,5 +1,55 @@
 [
   {
+    "hash": "24b3f0b09621122470430c9135317119",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 0.8 - 30 km NE of Paxson, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzrrud",
+    "published": "",
+    "summary": "Time 2026-09-11 05:04:27 UTC 2026-09-11 05:04:27 UTC at epicenter Location 63.307\u00b0N 145.249\u00b0W Depth 10.60 km (6.59 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-11T05:04:27+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "dd88dbaa758ad8563aaca654cbe6f3b5",
+      "5ea9f58275240c87c2bac593529c025e",
+      "9bf7bd355afe6b3ff0b958261c7bc72d",
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+    ]
+  },
+  {
+    "hash": "15a5fed5d44cc88aa4e19d785e4833c3",
+    "source": "USGS Alaska Science",
+    "category": "Science",
+    "title": "FORT Science in Action 2026, Part 8: Rapid response science summary products to support natural resource managers",
+    "link": "https://www.usgs.gov/centers/fort-collins-science-center/news/fort-science-action-2026-part-8-rapid-response-science?utm_source=comms&utm_medium=rss&utm_campaign=news",
+    "published": "Fri, 11 Sep 2026 01:00:00 EDT",
+    "summary": "Natural resource managers often look to summary and synthesis products to find the science they need for decision making. However, decision timelines are often short, so there is a need to produce such products quickly. In 2026, a FORT team developed a process and software, KWICer, to meet that need...",
+    "dataTag": "[Region: Statewide] [Category: Science]",
+    "sourceAttribution": "Source: USGS Alaska Science",
+    "imageUrl": null,
+    "timestamp": "2026-09-11T05:00:00+00:00",
+    "impactScore": 35,
+    "region": "Statewide",
+    "sector": "research",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "fa8ed64544d3eddf6bc789677d434736",
+      "1d7e2a3d7bb17c51c6e55106a08f96e7",
+      "fb442bb55d53eff3f7ecf6928e6ea58a",
+      "a3124a3f69d67c2b872e05b405d3ac38",
+      "3c44ec4bf2be71d19618619591d56f50"
+    ]
+  },
+  {
     "hash": "9e32f5deb6b14fdc341d4eb6a08c324b",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -25,6 +75,31 @@
     ]
   },
   {
+    "hash": "cc9c6805d2a696f389c119046a38177c",
+    "source": "USGS Earthquake Center",
+    "category": "Emergency",
+    "title": "M 2.0 - 56 km WNW of Nanwalek, Alaska",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzrfpa",
+    "published": "",
+    "summary": "Time 2026-09-11 04:50:28 UTC 2026-09-11 04:50:28 UTC at epicenter Location 59.532\u00b0N 152.848\u00b0W Depth 99.00 km (61.52 mi)",
+    "dataTag": "[Region: Statewide] [Category: Emergency]",
+    "sourceAttribution": "Source: USGS Earthquake Center",
+    "imageUrl": null,
+    "timestamp": "2026-09-11T04:50:28+00:00",
+    "impactScore": 70,
+    "region": "Statewide",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "dd88dbaa758ad8563aaca654cbe6f3b5",
+      "5ea9f58275240c87c2bac593529c025e",
+      "9bf7bd355afe6b3ff0b958261c7bc72d",
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+    ]
+  },
+  {
     "hash": "dd88dbaa758ad8563aaca654cbe6f3b5",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -42,11 +117,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
       "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15",
-      "e972396803f3a3a4710a215f18129ebe"
+      "963fdbaf8efba890a0c243389b238f15"
     ]
   },
   {
@@ -67,11 +142,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
       "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15",
-      "e972396803f3a3a4710a215f18129ebe"
+      "963fdbaf8efba890a0c243389b238f15"
     ]
   },
   {
@@ -417,11 +492,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15",
-      "e972396803f3a3a4710a215f18129ebe"
+      "963fdbaf8efba890a0c243389b238f15"
     ]
   },
   {
@@ -567,11 +642,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "963fdbaf8efba890a0c243389b238f15",
-      "e972396803f3a3a4710a215f18129ebe"
+      "963fdbaf8efba890a0c243389b238f15"
     ]
   },
   {
@@ -767,11 +842,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "e972396803f3a3a4710a215f18129ebe"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -919,11 +994,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -944,11 +1019,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -969,11 +1044,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -1063,11 +1138,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -1271,6 +1346,31 @@
     ]
   },
   {
+    "hash": "826a8cde895aab0e845eae4f095390fc",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Governor\u2019s debate: Taylor, Bronson, Kreiss-Tomkins discuss energy, economy, education, and more",
+    "link": "https://mustreadalaska.com/governors-debate-taylor-bronson-kreiss-tomkins-discuss-energy-economy-education-and-more/",
+    "published": "Thu, 10 Sep 2026 23:24:39 +0000",
+    "summary": "On Tuesday, September 8, the Last Frontier Republican Club hosted a governor\u2019s debate in Anchorage, asking candidates the hard questions about securing reliable energy, stabilizing the budget, reviving the economy, and reversing outmigration. Dave Bronson, Treg Taylor, and Jonathon Kreiss-Tomkins pa...",
+    "dataTag": "[Region: Southcentral] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T23:24:39+00:00",
+    "impactScore": 55,
+    "region": "Cook Inlet",
+    "sector": "governance",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "4b523e12a7a4210c0116ac989e82b918",
+      "0b7bd059c7e72b3099fab804675792be",
+      "c7e0304532cddd49c6f3e6a6b182c08a",
+      "db3362f00d8c7d457e9377aec414f1e8",
+      "bdb7bb3d06347a918a689c198bf7bee4"
+    ]
+  },
+  {
     "hash": "f672677ff73cbda2027d9b08431099f0",
     "source": "Anchorage Daily News",
     "category": "News",
@@ -1338,11 +1438,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -1363,11 +1463,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -1538,11 +1638,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -1663,11 +1763,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -1713,11 +1813,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -1813,11 +1913,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -2018,6 +2118,31 @@
     ]
   },
   {
+    "hash": "4a83ff5ee771d7a5faa9d8d8becfe18b",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Courage for My Faith: Remembering Charlie Kirk",
+    "link": "https://mustreadalaska.com/courage-for-my-faith-remembering-charlie-kirk/",
+    "published": "Thu, 10 Sep 2026 20:03:38 +0000",
+    "summary": "\u201cI want to be remembered for courage for my faith. The most important thing is my faith.\u201d These words from Charlie Kirk are maybe some of the most profound words a man of his age could share to a global audience for what was the driving force behind his life. Of all the videos I watched and social [...",
+    "dataTag": "[Region: Statewide] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T20:03:38+00:00",
+    "impactScore": 40,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "0799770960948bff00bdd4ca43af6fac",
+      "7d056b16fa0eeeb4585a85c4e961e6dd",
+      "b43235fab52d025572e4f75ec0580a7f",
+      "a3eb4f1839916ee2a09ee003a286bf7b",
+      "721905d10ec27f41880a6f795e458ee8"
+    ]
+  },
+  {
     "hash": "4e118fde6b6c4222b4b9c6a4117cd00c",
     "source": "Alaska Beacon",
     "category": "News",
@@ -2210,11 +2335,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -2235,11 +2360,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -2634,6 +2759,31 @@
       "26690b213be1a28b0c95e0b6546b6c16",
       "1e9eb22eeb27f3e74c8d82513e7175fc",
       "e235056fcbb495e264610cfb7a5d70fb"
+    ]
+  },
+  {
+    "hash": "939cac34ad6bf85158d5d09e36d7e2f9",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Nova Minerals shipment arrives with equipment, jobs, and advancements for Mat-Su economy and U.S. national security",
+    "link": "https://mustreadalaska.com/nova-minerals-shipment-arrives-with-equipment-jobs-and-advancements-for-mat-su-economy-and-u-s-national-security/",
+    "published": "Thu, 10 Sep 2026 17:46:10 +0000",
+    "summary": "A barge loaded with approximately 500 tons of processing and refining equipment for the development of the critical mineral antimony arrived at Port MacKenzie at about 2:00 AM on Sunday, September 6, 2026. The arrival of the barge marked a significant milestone in the Nova Mineral Corps\u2019 efforts to....",
+    "dataTag": "[Region: Mat-Su] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T17:46:10+00:00",
+    "impactScore": 40,
+    "region": "Mat-Su",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "bc5b67f7a996a1255a196b62a3e97c53",
+      "d874bfffe0ab30d5c3ca8e0f0a9dbe0b",
+      "96f73914bb7457f40fd1637cd048ec79",
+      "355f275631c865849e63a89adc922ab7",
+      "0f442930761f966911db963494cfc7d2"
     ]
   },
   {
@@ -3085,6 +3235,31 @@
     ]
   },
   {
+    "hash": "47fd193c46796cb4b31b84b2a6d06517",
+    "source": "Must Read Alaska",
+    "category": "Politics",
+    "title": "Opinion: We can win with the right mindset\u2014 policy over person",
+    "link": "https://mustreadalaska.com/opinion-we-can-win-with-the-right-mindset-policy-over-person/",
+    "published": "Thu, 10 Sep 2026 17:00:00 +0000",
+    "summary": "Winning is a mindset. First, we cannot win off the field. Second, we need to know what positions the players are in and what plays are necessary to score. We have to take this same mindset and apply it to the November election. Winning starts with showing up. Then it requires perseverance and the un...",
+    "dataTag": "[Region: Statewide] [Category: Politics]",
+    "sourceAttribution": "Source: Must Read Alaska",
+    "imageUrl": null,
+    "timestamp": "2026-09-10T17:00:00+00:00",
+    "impactScore": 40,
+    "region": "Statewide",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [],
+    "relatedSignalIds": [
+      "0799770960948bff00bdd4ca43af6fac",
+      "7d056b16fa0eeeb4585a85c4e961e6dd",
+      "b43235fab52d025572e4f75ec0580a7f",
+      "a3eb4f1839916ee2a09ee003a286bf7b",
+      "721905d10ec27f41880a6f795e458ee8"
+    ]
+  },
+  {
     "hash": "78607fdb29a7c583d4687e68a4ef5c11",
     "source": "Anchorage Daily News",
     "category": "News",
@@ -3227,11 +3402,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -3502,11 +3677,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -3802,11 +3977,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -3827,11 +4002,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -3877,11 +4052,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -3927,11 +4102,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -3977,11 +4152,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -4752,11 +4927,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -4927,11 +5102,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -5104,11 +5279,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -5329,11 +5504,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -5354,11 +5529,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -5872,11 +6047,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -5997,11 +6172,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -6022,11 +6197,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -6072,11 +6247,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -6122,11 +6297,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -6147,11 +6322,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -6947,11 +7122,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -7147,11 +7322,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -7395,11 +7570,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -7870,11 +8045,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -7920,11 +8095,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -8020,11 +8195,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -8943,11 +9118,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -9245,11 +9420,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -9642,11 +9817,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -9842,11 +10017,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -10355,11 +10530,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -11913,11 +12088,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -11988,11 +12163,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -12063,11 +12238,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -12088,11 +12263,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -12609,11 +12784,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -13084,11 +13259,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
       "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "7c85e591bf76a31f2fb6b9fcf1b4079c"
     ]
   },
   {
@@ -33878,106 +34053,6 @@
     "sourceAttribution": "Source: USGS Earthquake Center",
     "imageUrl": null,
     "timestamp": "2026-09-04T05:53:52+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c7a5de988b712ebbc3c50951a59e8bbb",
-      "17528ca501d73ffe136f06965da9ec68",
-      "896097f2d1b5ad1d3f277d7d6360606f",
-      "b67c30eb1547d3c448d72e8ce418066a",
-      "400a651c676fb0f721c9745a8aa70b1b"
-    ]
-  },
-  {
-    "hash": "cceb439d099be1a9b23b9d7a0cd5a87c",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "Genetic road map offers hope for threatened Visayan spotted deer",
-    "link": "https://news.mongabay.com/short-article/2026/09/genetic-road-map-offers-hope-for-threatened-visayan-spotted-deer/",
-    "published": "04 Sep 2026 05:25:59 +0000",
-    "summary": "Scientists have sequenced the first-ever draft genome of the Philippines\u2019 highly threatened Visayan spotted deer. The genome could guide efforts to save it from extinction, reports contributor Pippo Carmona for Mongabay. The Visayan spotted deer (Rusa alfredi) was once found across six islands in th...",
-    "dataTag": "[Region: Western Alaska] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/04052530/Abraham-is-a-Visayan-spotted-deer-768x512.jpg",
-    "timestamp": "2026-09-04T05:25:59+00:00",
-    "impactScore": 30,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "background",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "7400c9179da80ff9de6fdd16d2d0ab7d",
-      "bac285e421c1f4c89b8e6b25a6e12256",
-      "5764c54654a07573c807058266f8e0e5",
-      "b5b4396750b3c96fbd9a6186be76e4dd",
-      "d03e8b2b952334d81a62161b672ccc09"
-    ]
-  },
-  {
-    "hash": "e33845d68381b24370a292513a3b5ad6",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.0 - 117 km S of McCarthy, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmtwwk",
-    "published": "",
-    "summary": "Time 2026-09-04 05:14:55 UTC 2026-09-04 05:14:55 UTC at epicenter Location 60.382\u00b0N 142.894\u00b0W Depth 16.20 km (10.07 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-04T05:14:55+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c7a5de988b712ebbc3c50951a59e8bbb",
-      "17528ca501d73ffe136f06965da9ec68",
-      "896097f2d1b5ad1d3f277d7d6360606f",
-      "b67c30eb1547d3c448d72e8ce418066a",
-      "400a651c676fb0f721c9745a8aa70b1b"
-    ]
-  },
-  {
-    "hash": "b3edf2e761f21992cda390fd58375a1c",
-    "source": "Alaska Fire Service",
-    "category": "Emergency",
-    "title": "Agency Crew Status",
-    "link": "https://firenet365.sharepoint.com/:b:/s/AICC/IQAH5w6UI2KAQ6PqpcfI16OPAYTbIUXi88Ld75P6mF5Ta2I?e=qzDRuU",
-    "published": "",
-    "summary": "Agency Crew Status",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: Alaska Fire Service",
-    "imageUrl": null,
-    "timestamp": "2026-09-04T05:13:21+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "c7a5de988b712ebbc3c50951a59e8bbb",
-      "17528ca501d73ffe136f06965da9ec68",
-      "896097f2d1b5ad1d3f277d7d6360606f",
-      "b67c30eb1547d3c448d72e8ce418066a",
-      "400a651c676fb0f721c9745a8aa70b1b"
-    ]
-  },
-  {
-    "hash": "fa8605524f9fca785a77b63b86ae22c3",
-    "source": "Alaska Fire Service",
-    "category": "Emergency",
-    "title": "Alaska Contract Crew Status",
-    "link": "https://firenet365.sharepoint.com/:b:/s/AICC/IQAuZpzIHbSQRq71fHLgrnBKAX7qGTRZdrtrrcWNhc1wKdo?e=BAsPTe",
-    "published": "",
-    "summary": "Alaska Contract Crew Status",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: Alaska Fire Service",
-    "imageUrl": null,
-    "timestamp": "2026-09-04T05:13:21+00:00",
     "impactScore": 70,
     "region": "Statewide",
     "sector": "safety",
