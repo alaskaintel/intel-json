@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/11/trump-administration-blocks-25-million-in-funding-for-national-parks/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Trump administration blocks $25 million in funding for national parks</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/11/houthis-seize-island-opening-new-front-in-the-iran-war-as-saudi-arabia-shuts-down-a-pipeline/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-15</news:publication_date>
       <news:title>Shadowy group looks to boost New York felon in Alaska’s U.S. House race</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/15/at-least-1-student-among-5-people-shot-at-virginia-state-university-as-police-investigate/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15</news:publication_date>
-      <news:title>At least 1 student among 5 people shot at Virginia State University as police investigate</news:title>
     </news:news>
   </url>
 </urlset>
