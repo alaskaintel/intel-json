@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://alaskabeacon.com/2026/09/11/alaska-democratic-party-files-another-legal-challenge-to-disqualify-house-candidate/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Beacon</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Alaska Democratic Party files another legal challenge to disqualify House candidate</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskabeacon.com/2026/09/11/repub/on-the-25th-anniversary-of-9-11-states-newsroom-editor-remembers-the-heroes-of-flight-93/</loc>
     <news:news>
       <news:publication>
@@ -3078,17 +3089,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>SC governor appoints Sen. Lindsey Graham’s sister to fulfill his term</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskabeacon.com/2026/07/13/repub/south-carolina-us-sen-lindsey-graham-dies-after-brief-and-sudden-illness/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Beacon</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>South Carolina US Sen. Lindsey Graham dies after ‘brief and sudden illness’</news:title>
     </news:news>
   </url>
 </urlset>

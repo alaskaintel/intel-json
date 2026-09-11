@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://alaskapublic.org/news/economy/2026-09-11/wartime-oil-prices-continue-to-benefit-alaskas-state-treasury-new-figures-show</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Wartime oil prices continue to benefit Alaska’s state treasury, new figures show</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskapublic.org/news/community/2026-09-11/for-25-years-my-dad-kept-his-9-11-story-private-then-i-asked-him-to-talk-about-it</loc>
     <news:news>
       <news:publication>
@@ -5091,28 +5102,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>To the GOP, he's a sham candidate. At home, he’s Mr. Sullivan, ex-teacher and Alaska Senate hopeful</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskapublic.org/news/politics/alaska-legislature/2026-07-13/alaska-gov-mike-dunleavy-sets-state-record-for-most-vetoes-in-a-single-legislature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Public Media</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>Alaska Gov. Mike Dunleavy sets state record for most vetoes in a single Legislature</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskapublic.org/news/2026-07-13/theres-more-than-meets-the-eye-at-matanuska-experiment-farm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Public Media</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>There’s more than meets the eye at Matanuska Experiment Farm</news:title>
     </news:news>
   </url>
 </urlset>
