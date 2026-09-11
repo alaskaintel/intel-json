@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/tribune_news_service/sports/nobody-was-cooler-than-former-kings-coach-and-beloved-broadcaster-barry-melrose-who-sold-the/article_aa48f817-1b0c-5290-a258-f32fec140ee7.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>'Nobody was cooler' than former Kings coach and beloved broadcaster Barry Melrose, who sold the US on hockey</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/14th-annual-far-north-fiddle-fest-offers-concert-workshops/article_ef89ccb3-4f80-471f-9ef3-c26f80f1daf9.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Sean Powers: Why Small Fixes Beat Big Overhauls in Most Organizations</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/online_features/press_releases/peptides-costa-rica-expands-regional-access-with-new-san-jose-service-hub/article_20322642-650b-5423-bd42-8d303e844c3b.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>Peptides Costa Rica Expands Regional Access with New San Jose Service Hub</news:title>
     </news:news>
   </url>
 </urlset>

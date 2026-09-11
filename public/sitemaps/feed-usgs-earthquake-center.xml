@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzjujl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>M 1.7 - 41 km NNE of Aleneva, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rzjatj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>M 1.9 - 78 km NW of Ninilchik, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rziqhg</loc>
     <news:news>
       <news:publication>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-09</news:publication_date>
       <news:title>M 1.6 - 4 km N of Clam Gulch, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prehgp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09</news:publication_date>
-      <news:title>M 0.5 - 85 km NW of Ninilchik, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026precdn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09</news:publication_date>
-      <news:title>M 3.0 - 62 km NNE of Kiana, Alaska</news:title>
     </news:news>
   </url>
 </urlset>
