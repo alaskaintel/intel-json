@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.mining.com/glencore-mercuria-compete-for-venezuela-aluminum-smelter-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Mining.com Alaska</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Glencore, Mercuria compete for Venezuela aluminum smelter deal</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.mining.com/talon-scraps-plan-to-build-north-dakota-mill-for-tamarack/</loc>
     <news:news>
       <news:publication>
@@ -3771,17 +3782,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>US Vanadium awarded gov’t offtake contract for National Defense Stockpile</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.mining.com/galways-new-brunswick-gold-resource-misses-analyst-forecast/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mining.com Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>Galway’s New Brunswick gold resource misses analyst forecast</news:title>
     </news:news>
   </url>
 </urlset>

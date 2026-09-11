@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.krbd.org/2026/09/11/craig-parks-and-recreation-report/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>KRBD Ketchikan</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Craig Parks and Recreation Report</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.krbd.org/2026/09/10/ketchikan-city-council-member-judy-zenge-files-for-reelection/</loc>
     <news:news>
       <news:publication>
@@ -1010,17 +1021,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>Job Center Report</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.krbd.org/2026/07/13/outdoor-activities-abound-through-orca/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>KRBD Ketchikan</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>SAIL and ORCA report</news:title>
     </news:news>
   </url>
 </urlset>
