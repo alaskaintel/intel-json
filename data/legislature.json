@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T21:18:19.286510+00:00",
+  "updated": "2026-09-11T23:32:31.778851+00:00",
   "source": "Alaska Legislature (BASIS)",
   "source_url": "https://www.akleg.gov/",
   "session": {
@@ -10,14 +10,16 @@
     "url": "https://www.akleg.gov/"
   },
   "summary": {
-    "total_updates": 4,
+    "total_updates": 5,
     "type_breakdown": {
-      "executive": 4
+      "executive": 4,
+      "general": 1
     },
     "bills_mentioned": [
       "HB 265",
-      "HB 263",
-      "SB 9"
+      "SB 9",
+      "SB 146",
+      "HB 263"
     ]
   },
   "location": {
@@ -30,7 +32,7 @@
       "title": "[HB 263] APPROP: OPERATING BUDGET;FUNDS;SUPP",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB263",
       "summary": "FISCAL NOTE MEMO TRANSMITTED TO GOVERNOR 9/11/26 (Status: CHAPTER 34 SLA 26, Sponsor: HOUSE RULES BY REQUEST OF THE GOVERNOR)",
-      "published": "2026-09-11T21:18:17.683436+00:00",
+      "published": "2026-09-11T23:32:29.885058+00:00",
       "bill_number": "HB 263",
       "type": "executive"
     },
@@ -38,15 +40,23 @@
       "title": "[HB 265] APPROP: MENTAL HEALTH BUDGET",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB265",
       "summary": "FISCAL NOTE MEMO TRANSMITTED TO GOVERNOR 9/11/26 (Status: CHAPTER 36 SLA 26, Sponsor: HOUSE RULES BY REQUEST OF THE GOVERNOR)",
-      "published": "2026-09-11T21:18:17.683436+00:00",
+      "published": "2026-09-11T23:32:29.885058+00:00",
       "bill_number": "HB 265",
       "type": "executive"
+    },
+    {
+      "title": "[SB 146] REAA & SMALL MUNI FUND: MT. EDGECUMBE",
+      "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB146",
+      "summary": "LEG FINANCE APPROPRIATION MESSAGE 9/8/26 (Status: CHAPTER 13 SLA 26, Sponsor: SENATE FINANCE)",
+      "published": "2026-09-11T23:32:29.885058+00:00",
+      "bill_number": "SB 146",
+      "type": "general"
     },
     {
       "title": "[SB 9] SURRENDER OF INFANTS; INF. SAFETY DEVICE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB9",
       "summary": "SIGNED INTO LAW 9/9 CHAPTER 61 SLA 26 (Status: CHAPTER 61 SLA 26, Sponsor: SENATOR MYERS)",
-      "published": "2026-09-09T21:18:17.683449+00:00",
+      "published": "2026-09-09T23:32:29.885067+00:00",
       "bill_number": "SB 9",
       "type": "executive"
     },
@@ -54,7 +64,7 @@
       "title": "[SB 9] SURRENDER OF INFANTS; INF. SAFETY DEVICE",
       "link": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB9",
       "summary": "EFFECTIVE DATE(S) OF LAW 9/10/26 (Status: CHAPTER 61 SLA 26, Sponsor: SENATOR MYERS)",
-      "published": "2026-09-09T21:18:17.683449+00:00",
+      "published": "2026-09-09T23:32:29.885067+00:00",
       "bill_number": "SB 9",
       "type": "executive"
     }
