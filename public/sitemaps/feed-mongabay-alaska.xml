@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://news.mongabay.com/short-article/2026/09/world-dolphin-day-reporting-unusual-behavior-threats-and-increased-protections/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Mongabay Alaska</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>World Dolphin Day: Reporting unusual behavior, threats and increased protections</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://news.mongabay.com/2026/09/lack-of-data-hinders-fight-against-environmental-crimes-in-angola-says-environmentalist/</loc>
     <news:news>
       <news:publication>
@@ -6279,28 +6290,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>China’s ‘Green Great Wall’ tames desert growth, but scientists warn the fight is not over</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://news.mongabay.com/2026/07/how-narcos-moved-108-tons-of-timber-infused-with-drugs-from-bolivia-to-chile/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mongabay Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>How narcos moved 108 tons of timber infused with drugs from Bolivia to Chile</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://news.mongabay.com/2026/07/monkey-vs-machine-nepal-tests-ai-to-fight-crop-raiding-macaques/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mongabay Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>Monkey vs machine: Nepal tests AI to fight crop-raiding macaques</news:title>
     </news:news>
   </url>
 </urlset>
