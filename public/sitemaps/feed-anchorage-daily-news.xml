@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/alaska-news/2026/09/11/skagways-ferry-terminal-reopens-weeks-after-sudden-closure/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Skagway’s ferry terminal reopens weeks after sudden closure</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/11/student-loan-payments-will-soar-if-borrowers-dont-act-soon-but-glitches-abound/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Student loan payments will soar if borrowers don’t act soon, but glitches abound</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/alaska-news/anchorage/2026/09/11/anchorage-assembly-adds-veteran-preferences-to-municipal-contracting-rules/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Anchorage Assembly adds veteran preferences to municipal contracting rules</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/11/in-an-age-of-instant-answers-educators-say-theres-a-case-for-letting-kids-struggle-a-little/</loc>
     <news:news>
       <news:publication>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-15</news:publication_date>
       <news:title>Owner of shuttered Anchorage RV company ordered to pay over $230K in fines, restitution</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/sports/national-sports/2026/08/16/seahawks-to-make-devon-witherspoon-highest-paid-cb-in-nfl-with-extension/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15</news:publication_date>
-      <news:title>Seahawks to make Devon Witherspoon highest-paid CB in NFL with extension</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/15/us-canada-race-for-deal-to-avert-trumps-threat-of-50-percent-tariffs/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15</news:publication_date>
-      <news:title>U.S., Canada race for deal to avert Trump’s threat of 50 percent tariffs</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/sports/national-sports/2026/08/16/wnba-icons-say-the-discourse-and-scrutiny-around-the-league-are-part-of-the-growing-pains-of-success/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15</news:publication_date>
-      <news:title>WNBA icons say the discourse and scrutiny around the league are part of the growing pains of success</news:title>
     </news:news>
   </url>
 </urlset>
