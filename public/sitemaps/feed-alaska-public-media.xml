@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://alaskapublic.org/news/politics/2026-09-11/alaska-democratic-party-files-another-legal-challenge-to-disqualify-house-candidate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Alaska Democratic Party files another legal challenge to disqualify House candidate</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://alaskapublic.org/news/health/2026-09-11/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://alaskapublic.org/news/environment/2026-09-11/juneau-student-composes-music-using-data-from-salmon-streams</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Juneau student composes music using data from salmon streams</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskapublic.org/news/economy/2026-09-11/wartime-oil-prices-continue-to-benefit-alaskas-state-treasury-new-figures-show</loc>
     <news:news>
       <news:publication>
@@ -5091,17 +5124,6 @@
       </news:publication>
       <news:publication_date>2026-07-14</news:publication_date>
       <news:title>Alaska News Nightly: Monday, July 13, 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskapublic.org/news/politics/elections/2026-07-13/to-the-gop-hes-a-sham-candidate-at-home-hes-mr-sullivan-ex-teacher-and-alaska-senate-hopeful</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Public Media</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>To the GOP, he's a sham candidate. At home, he’s Mr. Sullivan, ex-teacher and Alaska Senate hopeful</news:title>
     </news:news>
   </url>
 </urlset>
