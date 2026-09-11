@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.mining.com/talon-scraps-plan-to-build-north-dakota-mill-for-tamarack/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Mining.com Alaska</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Talon scraps plan to build North Dakota mill for Tamarack</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.mining.com/gemfields-emerald-auction-brings-29-6m-reprieve/</loc>
     <news:news>
       <news:publication>
@@ -3760,28 +3771,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>Galway’s New Brunswick gold resource misses analyst forecast</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.mining.com/abrasilver-drilling-at-diablillos-suggests-resource-growth/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mining.com Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>AbraSilver drilling at Diablillos suggests resource growth</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.mining.com/india-to-invest-in-foreign-uranium-mines/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mining.com Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>India to invest in foreign uranium mines</news:title>
     </news:news>
   </url>
 </urlset>
