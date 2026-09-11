@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/news/alaska_news/alaska-legislature-will-support-state-s-bootlegging-penalties-in-front-of-u-s-supreme-court/article_877fbd96-c6bd-45f0-8668-1d23e1eb9489.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Alaska Legislature will support state’s bootlegging penalties in front of U.S. Supreme Court</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/tribune_news_service/sports/nobody-was-cooler-than-former-kings-coach-and-beloved-broadcaster-barry-melrose-who-sold-the/article_aa48f817-1b0c-5290-a258-f32fec140ee7.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Michael Pogue Debunks Five Legal Myths That Cost Clients Time and Money</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/online_features/press_releases/sean-powers-why-small-fixes-beat-big-overhauls-in-most-organizations/article_4f78489e-3bca-54bd-9b84-4d0fb70edf69.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>Sean Powers: Why Small Fixes Beat Big Overhauls in Most Organizations</news:title>
     </news:news>
   </url>
 </urlset>
