@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T10:04:18.312493+00:00",
+  "updated": "2026-09-11T11:39:14.326629+00:00",
   "source": "USGS Earthquake Hazards Program",
   "source_url": "https://earthquake.usgs.gov/",
   "query": {
@@ -7,8 +7,50 @@
     "min_magnitude": 1.5,
     "time_window_hours": 24
   },
-  "count": 35,
+  "count": 36,
   "earthquakes": [
+    {
+      "id": "us7000tgky",
+      "magnitude": 5.3,
+      "place": "151 km WSW of Adak, Alaska",
+      "time": "2026-09-11T10:47:12.613000+00:00",
+      "updated": "2026-09-11T11:27:19.683000+00:00",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
+      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tgky&format=geojson",
+      "status": "reviewed",
+      "tsunami": 1,
+      "type": "earthquake",
+      "title": "M 5.3 - 151 km WSW of Adak, Alaska",
+      "alert": null,
+      "felt": null,
+      "cdi": null,
+      "mmi": 5.274,
+      "sig": 432,
+      "lat": 51.213,
+      "lng": -178.5429,
+      "depth_km": 40.892
+    },
+    {
+      "id": "aka2026sabwxd",
+      "magnitude": 1.6,
+      "place": "68 km WSW of Karluk, Alaska",
+      "time": "2026-09-11T10:10:16.626000+00:00",
+      "updated": "2026-09-11T10:11:27.650000+00:00",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sabwxd",
+      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026sabwxd&format=geojson",
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "title": "M 1.6 - 68 km WSW of Karluk, Alaska",
+      "alert": null,
+      "felt": null,
+      "cdi": null,
+      "mmi": null,
+      "sig": 39,
+      "lat": 57.299,
+      "lng": -155.484,
+      "depth_km": 15.4
+    },
     {
       "id": "aka2026rzxpka",
       "magnitude": 1.9,
@@ -722,27 +764,6 @@
       "lat": 61.644,
       "lng": -141.431,
       "depth_km": 12.1
-    },
-    {
-      "id": "aka2026ryhwhm",
-      "magnitude": 2.1,
-      "place": "69 km SSE of Kokhanok, Alaska",
-      "time": "2026-09-10T11:10:29.827000+00:00",
-      "updated": "2026-09-10T11:13:21.009000+00:00",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ryhwhm",
-      "detail_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026ryhwhm&format=geojson",
-      "status": "automatic",
-      "tsunami": 0,
-      "type": "earthquake",
-      "title": "M 2.1 - 69 km SSE of Kokhanok, Alaska",
-      "alert": null,
-      "felt": null,
-      "cdi": null,
-      "mmi": null,
-      "sig": 68,
-      "lat": 58.87,
-      "lng": -154.298,
-      "depth_km": 130
     }
   ]
 }
