@@ -1,5 +1,24 @@
 [
   {
+    "hash": "3a36c97c91eabc5b2a45b3feafae755f",
+    "source": "Anchorage Police Dept",
+    "category": "Safety",
+    "title": "LOCATE: MISSING PERSON, ALLISON WILSON",
+    "link": "https://www.anchoragepolice.com/news/locate-missing-person-allison-wilson",
+    "published": "Fri, 11 Sep 2026 05:35:51 +0000",
+    "summary": "On September 10, 2026, Anchorage Police are requesting the public\u2019s help in locating 41-year old Allison Wilson. She was last seen on September 10, 2026 at the 4800 Block of Cordova St at about 7:35 a.m. She was expected to return home after her shift and has not contacted family or co-workers. Alli...",
+    "dataTag": "[Region: Southcentral] [Category: Safety]",
+    "sourceAttribution": "Source: Anchorage Police Dept",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f80ce8c1783002d6e280cdb/5906409c-4465-41f3-9090-7352059096df/Allison+2.png?format=1000w",
+    "timestamp": "2026-09-11T05:35:51+00:00",
+    "impactScore": 70,
+    "region": "Cook Inlet",
+    "sector": "safety",
+    "urgency": "soon",
+    "entitySlugs": [],
+    "relatedSignalIds": []
+  },
+  {
     "hash": "24b3f0b09621122470430c9135317119",
     "source": "USGS Earthquake Center",
     "category": "Emergency",
@@ -18,10 +37,10 @@
     "entitySlugs": [],
     "relatedSignalIds": [
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "9bf7bd355afe6b3ff0b958261c7bc72d"
     ]
   },
   {
@@ -67,11 +86,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "9bf7bd355afe6b3ff0b958261c7bc72d"
     ]
   },
   {
@@ -92,11 +111,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
       "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "9bf7bd355afe6b3ff0b958261c7bc72d"
     ]
   },
   {
@@ -117,11 +136,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "9bf7bd355afe6b3ff0b958261c7bc72d"
     ]
   },
   {
@@ -142,11 +161,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "9bf7bd355afe6b3ff0b958261c7bc72d"
     ]
   },
   {
@@ -197,6 +216,33 @@
       "a3eb4f1839916ee2a09ee003a286bf7b",
       "721905d10ec27f41880a6f795e458ee8",
       "30e6b9290d0182bb360666d2946c2d45"
+    ]
+  },
+  {
+    "hash": "a2e64573fc87aecda09c1dc5921a3730",
+    "source": "The Cordova Times",
+    "category": "Regional",
+    "title": "Some Cordovans express concern over 30-year Alaska Pipeline renewal",
+    "link": "https://thecordovatimes.com/2026/09/10/some-cordovans-express-concern-over-30-year-alaska-pipeline-renewal/",
+    "published": "Fri, 11 Sep 2026 02:19:59 +0000",
+    "summary": "Some Cordova officials are concerned with the pending operational renewal of the Trans Alaska Pipeline System. The federal Bureau of Land Management (BLM) announced on Aug. 26 that it had begun reviewing a proposal that would authorize the pipeline to continue transporting crude oil across the state...",
+    "dataTag": "[Region: Southcentral] [Category: Regional]",
+    "sourceAttribution": "Source: The Cordova Times",
+    "imageUrl": null,
+    "timestamp": "2026-09-11T02:19:59+00:00",
+    "impactScore": 45,
+    "region": "Gulf Coast",
+    "sector": "governance",
+    "urgency": "background",
+    "entitySlugs": [
+      "blm"
+    ],
+    "relatedSignalIds": [
+      "a99a48ab9818f2fd9e65b392e52232fe",
+      "878aaee421e1f4435a03ad1671d3766a",
+      "5035119d51d68acf6d78efd74a047d94",
+      "34a8a8c881322fa690ea7424c2032c89",
+      "7d526b416751f2f52d9e316d79ce8d96"
     ]
   },
   {
@@ -492,11 +538,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c",
-      "963fdbaf8efba890a0c243389b238f15"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -642,11 +688,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "963fdbaf8efba890a0c243389b238f15"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -842,11 +888,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -994,11 +1040,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1019,11 +1065,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1044,11 +1090,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1138,11 +1184,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1438,11 +1484,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1463,11 +1509,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1563,11 +1609,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "15a5fed5d44cc88aa4e19d785e4833c3",
       "1d7e2a3d7bb17c51c6e55106a08f96e7",
       "fb442bb55d53eff3f7ecf6928e6ea58a",
       "a3124a3f69d67c2b872e05b405d3ac38",
-      "3c44ec4bf2be71d19618619591d56f50",
-      "d6771bb39f095a79c1b20ab780b228db"
+      "3c44ec4bf2be71d19618619591d56f50"
     ]
   },
   {
@@ -1638,11 +1684,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1763,11 +1809,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1813,11 +1859,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1913,11 +1959,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -1963,11 +2009,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "15a5fed5d44cc88aa4e19d785e4833c3",
       "fa8ed64544d3eddf6bc789677d434736",
       "fb442bb55d53eff3f7ecf6928e6ea58a",
       "a3124a3f69d67c2b872e05b405d3ac38",
-      "3c44ec4bf2be71d19618619591d56f50",
-      "d6771bb39f095a79c1b20ab780b228db"
+      "3c44ec4bf2be71d19618619591d56f50"
     ]
   },
   {
@@ -2335,11 +2381,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -2360,11 +2406,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -2629,11 +2675,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "15a5fed5d44cc88aa4e19d785e4833c3",
       "fa8ed64544d3eddf6bc789677d434736",
       "1d7e2a3d7bb17c51c6e55106a08f96e7",
       "a3124a3f69d67c2b872e05b405d3ac38",
-      "3c44ec4bf2be71d19618619591d56f50",
-      "d6771bb39f095a79c1b20ab780b228db"
+      "3c44ec4bf2be71d19618619591d56f50"
     ]
   },
   {
@@ -2654,11 +2700,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "15a5fed5d44cc88aa4e19d785e4833c3",
       "fa8ed64544d3eddf6bc789677d434736",
       "1d7e2a3d7bb17c51c6e55106a08f96e7",
       "fb442bb55d53eff3f7ecf6928e6ea58a",
-      "3c44ec4bf2be71d19618619591d56f50",
-      "d6771bb39f095a79c1b20ab780b228db"
+      "3c44ec4bf2be71d19618619591d56f50"
     ]
   },
   {
@@ -3052,11 +3098,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "15a5fed5d44cc88aa4e19d785e4833c3",
       "fa8ed64544d3eddf6bc789677d434736",
       "1d7e2a3d7bb17c51c6e55106a08f96e7",
       "fb442bb55d53eff3f7ecf6928e6ea58a",
-      "a3124a3f69d67c2b872e05b405d3ac38",
-      "d6771bb39f095a79c1b20ab780b228db"
+      "a3124a3f69d67c2b872e05b405d3ac38"
     ]
   },
   {
@@ -3402,11 +3448,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -3677,11 +3723,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -3977,11 +4023,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -4002,11 +4048,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -4052,11 +4098,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -4102,11 +4148,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -4152,11 +4198,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -4927,11 +4973,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -5102,11 +5148,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -5152,11 +5198,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "939cac34ad6bf85158d5d09e36d7e2f9",
       "d874bfffe0ab30d5c3ca8e0f0a9dbe0b",
       "96f73914bb7457f40fd1637cd048ec79",
       "355f275631c865849e63a89adc922ab7",
-      "0f442930761f966911db963494cfc7d2",
-      "1fa9e8b8f38b13b09d6f36b3d8a30a9c"
+      "0f442930761f966911db963494cfc7d2"
     ]
   },
   {
@@ -5177,11 +5223,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "939cac34ad6bf85158d5d09e36d7e2f9",
       "bc5b67f7a996a1255a196b62a3e97c53",
       "96f73914bb7457f40fd1637cd048ec79",
       "355f275631c865849e63a89adc922ab7",
-      "0f442930761f966911db963494cfc7d2",
-      "1fa9e8b8f38b13b09d6f36b3d8a30a9c"
+      "0f442930761f966911db963494cfc7d2"
     ]
   },
   {
@@ -5202,11 +5248,11 @@
     "urgency": "background",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "939cac34ad6bf85158d5d09e36d7e2f9",
       "bc5b67f7a996a1255a196b62a3e97c53",
       "d874bfffe0ab30d5c3ca8e0f0a9dbe0b",
       "355f275631c865849e63a89adc922ab7",
-      "0f442930761f966911db963494cfc7d2",
-      "1fa9e8b8f38b13b09d6f36b3d8a30a9c"
+      "0f442930761f966911db963494cfc7d2"
     ]
   },
   {
@@ -5279,11 +5325,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -5504,11 +5550,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -5529,11 +5575,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -6047,11 +6093,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -6172,11 +6218,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -6197,11 +6243,11 @@
     "urgency": "soon",
     "entitySlugs": [],
     "relatedSignalIds": [
+      "24b3f0b09621122470430c9135317119",
       "9e32f5deb6b14fdc341d4eb6a08c324b",
+      "cc9c6805d2a696f389c119046a38177c",
       "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
+      "5ea9f58275240c87c2bac593529c025e"
     ]
   },
   {
@@ -6227,56 +6273,6 @@
       "c0d7fe3e4a4e418672e36990b84eb3ca",
       "9522dcbca7bcdb727b572395bbec71c1",
       "14c6278d0a35b8011b7f1dba70eeac5c"
-    ]
-  },
-  {
-    "hash": "29ef128e5f6a32b58d9cab24ce081ec6",
-    "source": "USGS Earthquake Center",
-    "category": "Emergency",
-    "title": "M 1.5 - 14 km S of South Van Horn, Alaska",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rxxrwn",
-    "published": "",
-    "summary": "Time 2026-09-10 06:05:12 UTC 2026-09-10 06:05:12 UTC at epicenter Location 64.682\u00b0N 147.826\u00b0W Depth 13.30 km (8.26 mi)",
-    "dataTag": "[Region: Statewide] [Category: Emergency]",
-    "sourceAttribution": "Source: USGS Earthquake Center",
-    "imageUrl": null,
-    "timestamp": "2026-09-10T06:05:12+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "safety",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "9e32f5deb6b14fdc341d4eb6a08c324b",
-      "dd88dbaa758ad8563aaca654cbe6f3b5",
-      "5ea9f58275240c87c2bac593529c025e",
-      "9bf7bd355afe6b3ff0b958261c7bc72d",
-      "7c85e591bf76a31f2fb6b9fcf1b4079c"
-    ]
-  },
-  {
-    "hash": "5bb3016a172cdadf2b97888302907f45",
-    "source": "Mongabay Alaska",
-    "category": "Environment",
-    "title": "The EU approved an antideforestation law. The US paper lobby sought to weaken it",
-    "link": "https://news.mongabay.com/2026/09/the-eu-approved-an-antideforestation-law-the-us-paper-lobby-sought-to-weaken-it/",
-    "published": "10 Sep 2026 06:00:12 +0000",
-    "summary": "When the European Union\u2019s new anti-deforestation law threatened to expose the environmental costs of logging in North America\u2019s forests, the American paper industry, supported by the U.S. government, mobilized an intense lobbying effort to weaken the legislation. According to lobbying disclosures, t...",
-    "dataTag": "[Region: Statewide] [Category: Environment]",
-    "sourceAttribution": "Source: Mongabay Alaska",
-    "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/09015429/i.-28446630302_ff0e9a7172_o-1-768x477.jpg",
-    "timestamp": "2026-09-10T06:00:12+00:00",
-    "impactScore": 70,
-    "region": "Statewide",
-    "sector": "environment",
-    "urgency": "soon",
-    "entitySlugs": [],
-    "relatedSignalIds": [
-      "da7030a4c57785bb9ba103ef09375a7d",
-      "48460d9402cb199f94425af631ad3e6f",
-      "878bebd4ced8e1f868ab06c4aaf5ef78",
-      "27d03229eb428721a24397a1957d0be0",
-      "df64fc50e8d0d7b36174fce5dc55ea58"
     ]
   }
 ]
