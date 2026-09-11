@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/features/sundays/in_the_bush/fall-camping-brings-its-own-rewards-but-getting-a-moose-is-the-goal/article_10bafc7a-96d4-4f99-bfe6-902e41b97f89.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Fall camping brings its own rewards, but getting a moose is the goal</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/daily-sports-update/article_e0298c37-810d-4fc6-a96b-878b6b8b5568.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Timothy McKirgan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/obituaries/maryann-curtis/article_50862625-fab6-46c6-bb9c-149e6bed92ea.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>MaryAnn Curtis</news:title>
     </news:news>
   </url>
 </urlset>

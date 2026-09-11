@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/nation-world/2026/09/11/houthis-seize-island-opening-new-front-in-the-iran-war-as-saudi-arabia-shuts-down-a-pipeline/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Houthis seize island, opening new front in the Iran war, as Saudi Arabia shuts down a pipeline</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/11/prosecutor-brought-in-to-lead-investigation-into-trumps-foes-has-resigned/</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-15</news:publication_date>
       <news:title>At least 1 student among 5 people shot at Virginia State University as police investigate</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/alaska-news/2026/08/15/body-of-missing-hiker-in-southeast-alaska-found-troopers-say/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15</news:publication_date>
-      <news:title>Body of missing hiker in Southeast Alaska found, troopers say</news:title>
     </news:news>
   </url>
 </urlset>
