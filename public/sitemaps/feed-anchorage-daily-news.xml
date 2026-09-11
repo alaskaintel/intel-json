@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/alaska-news/anchorage/2026/09/10/state-prosecutors-find-anchorage-police-officers-may-fatal-shooting-of-armed-man-to-be-justified/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>State prosecutors find Anchorage police officers’ May fatal shooting of armed man to be justified</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/nation-world/2026/09/10/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>Anthropic says it blocked misuse of its AI that could have supported biological weapons</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/alaska-life/advice/2026/09/10/calls-are-mounting-to-protect-kids-online-which-approaches-actually-work/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10</news:publication_date>
+      <news:title>Calls are mounting to protect kids online. Which approaches actually work?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/10/republican-midterm-convention-provides-vance-center-stage-moment-as-party-faces-midterm-verdict/</loc>
     <news:news>
       <news:publication>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-14</news:publication_date>
       <news:title>Trump says record-setting Navy deployment to support Iran operations ‘not nearly long enough’</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/14/trump-says-record-setting-navy-deployment-to-support-iran-operations-not-nearly-long-enough/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14</news:publication_date>
-      <news:title>Trump says USS Lincoln’s record time at sea during Iran operations ‘not nearly long enough’</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/politics/2026/08/14/judge-rules-in-favor-of-division-of-elections-in-appeal-over-eligibility-of-candidate-who-did-not-report-personal-finances/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14</news:publication_date>
-      <news:title>Judge rules in favor of Division of Elections in appeal over eligibility of candidate who did not report personal finances</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/nation-world/2026/08/14/the-unexpected-issue-dividing-parties-and-midterms-candidates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14</news:publication_date>
-      <news:title>The unexpected issue dividing parties and midterms candidates</news:title>
     </news:news>
   </url>
 </urlset>
