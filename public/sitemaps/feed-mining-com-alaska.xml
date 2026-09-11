@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.mining.com/gemfields-emerald-auction-brings-29-6m-reprieve/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Mining.com Alaska</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Gemfields emerald auction brings $29.6M reprieve</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.mining.com/mining-stocks-rally-comes-to-abrupt-halt-as-copper-silver-prices-plummet-and-gold-slides/</loc>
     <news:news>
       <news:publication>
@@ -3793,28 +3804,6 @@
       </news:publication>
       <news:publication_date>2026-07-13</news:publication_date>
       <news:title>MAX Power launches hydrogen validation drilling program</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.mining.com/regis-quits-vault-chase-clearing-way-for-genesis-takeover/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mining.com Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>Regis quits Vault chase, clearing way for Genesis takeover</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.mining.com/codelco-chair-puts-profit-ahead-of-copper-output/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Mining.com Alaska</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13</news:publication_date>
-      <news:title>Codelco chair puts profit ahead of copper output</news:title>
     </news:news>
   </url>
 </urlset>

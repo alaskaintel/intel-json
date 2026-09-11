@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sahjmf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>M 2.3 - 63 km SE of Denali National Park, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sagyry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>M 1.5 - 50 km NW of Rampart, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sagccd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>USGS Earthquake Center</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>M 1.7 - 52 km SSW of Nanwalek, Alaska</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saejor</loc>
     <news:news>
       <news:publication>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-09</news:publication_date>
       <news:title>M 2.1 - 38 km W of Lake Louise, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026prjkqi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09</news:publication_date>
-      <news:title>M 1.7 - 65 km W of Tyonek, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026priekc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09</news:publication_date>
-      <news:title>M 1.4 - 90 km NW of Yakutat, Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pribbi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>USGS Earthquake Center</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09</news:publication_date>
-      <news:title>M 1.9 - 35 km W of Clear, Alaska</news:title>
     </news:news>
   </url>
 </urlset>
