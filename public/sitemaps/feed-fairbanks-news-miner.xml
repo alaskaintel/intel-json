@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/anthropic-researcher-resigns-with-warning-about-dangers-of-ai/article_d752a193-e158-4d0d-ac8b-0df4f88d19df.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Anthropic researcher resigns with warning about dangers of AI</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.newsminer.com/us-home-sales-weaken-to-slowest-pace-in-more-than-a-year/article_84efdb9d-bb6c-4a64-a8b9-ee06c46719e2.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>US home sales weaken to slowest pace in more than a year</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.newsminer.com/gm-touts-privacy-in-dash-cam-video-after-onstar-data-sharing-backlash/article_2ecd41f8-fcf6-4137-8383-9a12b5fe8c8c.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>GM touts privacy in dash cam video after OnStar data-sharing backlash</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/features/sundays/in_the_bush/fall-camping-brings-its-own-rewards-but-getting-a-moose-is-the-goal/article_10bafc7a-96d4-4f99-bfe6-902e41b97f89.html</loc>
     <news:news>
       <news:publication>
@@ -10965,39 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Murkowski pushes for release of $41.3M in delayed federal grants for Alaska Native education</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/news/local_news/assembly-finance-committee-approves-postponed-animal-shelter-vet-contract/article_ac1841ca-2184-42b6-b3c4-9cc143c8c5fb.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>Assembly Finance Committee approves postponed animal shelter vet contract</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/obituaries/esther-murray/article_75c5a3d7-deae-4ec1-92d6-dfad05fdcfbf.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>Esther Murray</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/obituaries/timothy-mckirgan/article_4bcb5e17-9799-4d18-88c8-4cb1a7b1818e.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>Timothy McKirgan</news:title>
     </news:news>
   </url>
 </urlset>
