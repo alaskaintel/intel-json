@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.adn.com/alaska-news/education/2026/09/11/alaska-education-department-encouraged-by-improving-literacy-scores-from-younger-students/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-12</news:publication_date>
+      <news:title>Alaska education department encouraged by improving literacy scores from younger students</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.adn.com/nation-world/2026/09/11/californias-biggest-lake-is-in-crisis-now-tribes-are-coming-back-to-save-its-sacred-fish/</loc>
     <news:news>
       <news:publication>
@@ -31,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-09-11</news:publication_date>
       <news:title>Alaska educators share 9/11 experiences with a younger generation on 25th anniversary</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.adn.com/alaska-news/education/2026/09/11/alaska-educators-share-911-experiences-with-a-younger-generation-on-25th-anniversary/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Anchorage Daily News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11</news:publication_date>
+      <news:title>Alaskans share 9/11 experiences with a younger generation on 25th anniversary</news:title>
     </news:news>
   </url>
   <url>
@@ -10976,28 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-16</news:publication_date>
       <news:title>Opinion: The heartbeat of taiko finds a home in Alaska</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/opinions/2026/08/16/opinion-in-alaska-no-fishery-stands-alone/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16</news:publication_date>
-      <news:title>Opinion: In Alaska, no fishery stands alone</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.adn.com/alaska-life/advice/2026/08/15/wayne-and-wanda-am-i-building-a-life-in-alaska-or-cycling-through-seasonal-flings-and-friends/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Anchorage Daily News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16</news:publication_date>
-      <news:title>Wayne and Wanda: Am I building a life in Alaska, or cycling through seasonal flings and friends?</news:title>
     </news:news>
   </url>
 </urlset>

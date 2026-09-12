@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://alaskapublic.org/programs/alaska-news-nightly/2026-09-11/alaska-news-nightly-friday-september-11-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-12</news:publication_date>
+      <news:title>Alaska News Nightly: Friday, September 11, 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://alaskapublic.org/news/anchorage/2026-09-11/anchorage-firefighters-honor-fallen-9-11-responders-and-test-themselves</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Alaska Public Media</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-12</news:publication_date>
+      <news:title>Anchorage firefighters honor fallen 9/11 responders – and test themselves</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://alaskapublic.org/programs/state-of-art/2026-09-11/anchorage-symphony-orchestra</loc>
     <news:news>
       <news:publication>
@@ -5168,17 +5190,6 @@
       </news:publication>
       <news:publication_date>2026-07-14</news:publication_date>
       <news:title>Juneau secures $12.1M federal grant for Fred Meyer intersection improvements</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://alaskapublic.org/programs/alaska-news-nightly/2026-07-13/alaska-news-nightly-monday-july-13-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Alaska Public Media</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14</news:publication_date>
-      <news:title>Alaska News Nightly: Monday, July 13, 2026</news:title>
     </news:news>
   </url>
 </urlset>
