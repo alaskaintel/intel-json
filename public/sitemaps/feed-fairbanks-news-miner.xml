@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.newsminer.com/the-second-coming-of-jesus-christ/article_9104038f-4315-498e-b08b-63ff8e1cafc4.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Fairbanks News-Miner</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-12</news:publication_date>
+      <news:title>The second coming of Jesus Christ</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.newsminer.com/anthropic-researcher-resigns-with-warning-about-dangers-of-ai/article_d752a193-e158-4d0d-ac8b-0df4f88d19df.html</loc>
     <news:news>
       <news:publication>
@@ -10987,17 +10998,6 @@
       </news:publication>
       <news:publication_date>2026-08-11</news:publication_date>
       <news:title>Tanana Valley State fair ends on good summer vibes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.newsminer.com/news/alaska_news/murkowski-pushes-for-release-of-41-3m-in-delayed-federal-grants-for-alaska-native-education/article_bd11f186-15a7-480d-b251-0ce169686165.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Fairbanks News-Miner</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11</news:publication_date>
-      <news:title>Murkowski pushes for release of $41.3M in delayed federal grants for Alaska Native education</news:title>
     </news:news>
   </url>
 </urlset>
